@@ -1,0 +1,28 @@
+# Temp files
+~$*
+~WRL*
+~BROMIUM/
+desktop.ini
+*.tmp
+
+# Claude internal
+.claude/
+
+# Large data / downloads
+Téléchargements/
+logs/
+chains/
+strikes/
+Reports/reports/
+
+# Office lock files
+*.docx
+*.xlsx
+*.xlsm
+*.odt
+*.ods
+*.pdf
+*.csv
+
+# Archive
+Archive/
