@@ -1,0 +1,23 @@
+## 2026-05-07 - Trading Launcher: Desktop entry point + run_transcribe wrapper
+
+**Project:** NewTrading (scripts/, Desktop wrapper)
+
+**Summary:** Set up a Desktop trading-analysis launcher mirroring the `RTrading.bat` model. A thin Desktop wrapper (`Launcher_Trading.bat`) opens a Tkinter UI that auto-discovers every .bat in `NewTrading\scripts\`, with one labeled entry box per argument so args are never forgotten. Brought `run_analyze.bat` and `run_scanner.bat` over from `RApplication\scripts\` (where they were the only trading-analysis .bats among R-package utilities). Added a new `run_transcribe.bat` wrapper around the existing `Transcripts\Run-Transcribe.ps1`.
+
+**Changes:**
+
+1. **`scripts/launcher.py` (new).** Tkinter launcher; auto-discovers `*.bat` in this folder. Reads a `REM @args: NAME1 NAME2 [optional]` metadata line from each .bat and renders one labeled entry per token — bold for required, italic for optional. Missing required values pop a warning dialog. Falls back to a single generic entry when a .bat uses `%1`/`%*`/`%~n` but has no `@args:` line. No-arg .bats show no entries. Skips `Launcher_Trading.bat` itself.
+
+2. **`scripts/run_analyze.bat` (moved from `RApplication\scripts\`).** `/analyze` single-ticker deep dive; runs `RStudies/reports/analyze/main.R` and opens the produced HTML. Annotated with `REM @args: TICKER DIRECTION [extras]`.
+
+3. **`scripts/run_scanner.bat` (moved from `RApplication\scripts\`).** Macro-context report → swing-scanner pipeline; opens both HTML outputs. No args.
+
+4. **`scripts/run_transcribe.bat` (new).** Wrapper around `Transcripts\Run-Transcribe.ps1` (Big Picture Trading download + transcribe). `cd`s into the Transcripts dir so `$PSScriptRoot` resolves correctly, then forwards all args via `powershell -NoProfile -ExecutionPolicy Bypass -File`. Annotated with `REM @args: VIDEO_ID YYYYMMDD [flags]` so the launcher renders three labeled boxes; the `[flags]` cell carries `-SkipDownload` / `-SkipTranscribe` if needed.
+
+5. **`Desktop\Launcher_Trading.bat` (new, outside repo).** 5-line wrapper: `start "" pythonw "C:\Users\aldoh\Documents\NewTrading\scripts\launcher.py"`. Mirrors the `RTrading.bat` model exactly.
+
+**Notes:**
+
+- Convention for any new trading-analysis .bat going forward: drop it in `NewTrading\scripts\` with a `REM @args: ...` line near the top; the launcher picks it up automatically next time it opens.
+- Bracketed tokens are optional, bare ones required. Examples: `REM @args: TICKER DIRECTION [extras]`, `REM @args: VIDEO_ID YYYYMMDD [flags]`.
+- The same launcher.py logic was added to `RApplication\scripts\launcher.py` (used by `RTrading.bat`), so both Desktop launchers share the same arg-handling convention. See `RApplication\change.log` 2026-05-07 entry.
