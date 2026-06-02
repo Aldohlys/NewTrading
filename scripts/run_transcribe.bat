@@ -3,9 +3,9 @@ SETLOCAL EnableDelayedExpansion
 title Big Picture Trading transcription
 
 REM @args: VIDEO_ID YYYYMMDD [flags]
-REM Usage: run_transcribe.bat VIDEO_ID YYYYMMDD [-SkipDownload] [-SkipTranscribe]
+REM Usage: run_transcribe.bat VIDEO_ID YYYYMMDD [-SkipDownload] [-SkipTranscribe] [-SkipSummary]
 if "%~2"=="" (
-    echo Usage: run_transcribe.bat VIDEO_ID YYYYMMDD [-SkipDownload] [-SkipTranscribe]
+    echo Usage: run_transcribe.bat VIDEO_ID YYYYMMDD [-SkipDownload] [-SkipTranscribe] [-SkipSummary]
     pause
     exit /b 1
 )
