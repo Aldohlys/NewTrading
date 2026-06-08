@@ -1,3 +1,24 @@
+## 2026-06-08 - XLF financials breakout screen + /analyze expiry & earnings fixes
+
+**Project:** NewTrading (Strategies/Breakouts, Reports) + RStudies (reports/analyze)
+
+**Summary:** Applied the Energy/Healthcare sector-screen treatment to XLF main components — BOT gate screen (S1–S6 / BK1–BK4, EMA50, RS vs XLF) with the `reference_atr_move_multiples.md` beta filter folded in so low-beta names (where selling an OTM call won't pay for entry) are flagged automatically. **C (Citigroup) was the only GREEN** (S5/BK3, RS leader); financials cluster in the MID-ATR bucket → "spread sector, not long-call sector" (only BX has long-call beta, but no setup). Working up C as a trade exposed two `/analyze` defects, both fixed in RStudies.
+
+**Changes:**
+
+1. **`Strategies/Breakouts/xlf_screen.py` (new).** Mirrors `xlv_screen.py`; folds in the ATR%/pay-for-entry beta column (P(≥6%/10d) over 5y) and a vehicle bucket so low-beta names are filtered automatically. Output: `Reports/xlf_breakout_screen_20260608.md`.
+
+2. **`Reports/xlf_breakout_screen_20260608.md` (new).** Full screen + read: C the only tradeable breakout (as a debit vertical, not outright — IVP ~75 rich); BRK-B/V/MA/SPGI/CME rejected on low beta + no setup.
+
+3. **RStudies `d45592f` — Phase A bid/ask liquidity probe + monthly-chain preference.** `.pick_expiry_for_dte()` now prefers the 3rd-Friday monthly over the nearest-DTE weekly. Fixed C's false "stock" verdict: `/analyze` had probed the dead Jul 24 weekly (ATM 25% wide, OI ~1) instead of the Jul 17 monthly (7%, OI ~5k).
+
+4. **RStudies `8991ddb` — earnings-inside-the-hold check.** `.earnings_vs_expiries()` flags earnings falling between today and any proposed expiry; amber warn-box under the vehicle banner. C reports 2026-07-14, inside the Jul 17 (39d) hold → confirms **pass C as a breakout** (no clean pre-earnings vehicle).
+
+**Notes:**
+
+- Both RStudies commits pushed to `Aldohlys/RStudies` main. NewTrading has no remote (commits stay local).
+- Next financials candidates if resumed: BK, MS, GS — check earnings dates before `/analyze` (now auto-flagged).
+
 ## 2026-05-07 - Trading Launcher: Desktop entry point + run_transcribe wrapper
 
 **Project:** NewTrading (scripts/, Desktop wrapper)
