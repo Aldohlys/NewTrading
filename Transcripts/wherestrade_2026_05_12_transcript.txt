@@ -1,0 +1,514 @@
+# Where is the Trade — 20260512
+# Video ID: 1191573765
+# Source: https://player.vimeo.com/video/1191573765
+# Audio duration: 2990.2s
+
+[00:02] Hello and welcome to Where's the Trade? It is the positions trading session for Tuesday, May 12th of 2026. I'm Patrick Ceresna and we're going to do something a little bit different.
+[00:19] Today we're doing positions trading, normally we do breakout trader, but I felt that a bunch of trades needed to be published and I didn't want to wait an extra day and so we're going to get them all out right now.
+[00:35] And so let's start off with just having a quick look at these markets and S&P is down 34 points.
+[00:43] Now look, let me give all of you some short term, like a quick...
+[00:49] quick analysis, but I want to spend some time talking about Charlie McElligot and a setup for today's trades.
+[00:57] So look, the market is overbought and we entered when we look at using the liberation day lows on the weeklies, we have now approached the completion of this measured move.
+[01:17] And while we didn't get a direct hit at 75.
+[01:19] We're as close as we're going to get to the top of this, which I felt was like, well, look, you know, for our long dated spy trades for us to what's it called for us to not put on a core adjustment and add time would I would it just makes a lot of sense with these weekly charts.
+[01:49] So what you're seeing here is that we're closing that December 690 and going all the way out to June 2027.
+[01:57] Remember, like our commodity trades, I don't want to ever own the final six months of data time decay on these kind of options.
+[02:08] And so at this juncture, we're rolling from December all the way out to June and going all the way to the at the money 740.
+[02:17] I'll place the trade in a moment.
+[02:18] But.
+[02:19] The point being here, what the weekly measured move done, it it it was simply at this point a logical time to move that that trade up.
+[02:32] We'll talk about in a second.
+[02:33] Now, the second thing is, is, is that we really seen some interesting things.
+[02:38] The Cospi put in its bearish engulfing candle this morning based upon the based upon.
+[02:49] Something about the taxation rules change that they could be potentially doing in in Korea.
+[02:58] Now, the question becomes, did we see the top of the Cospi come in?
+[03:03] That bearish engulfing candle was interesting enough, and what we're seeing as well is the SMH doing a little bit of selling off of its highs, not yet convinced that that has to be the top.
+[03:15] But we did publish a trade on the SMH.
+[03:19] We did publish a trade on the SMH.
+[03:19] We did publish a trade on the SMH.
+[03:19] We did publish a trade on the SMH.
+[03:19] With a ratio put spread in spirit of Charlie McElligan.
+[03:24] So I want to spend a moment talking about Charlie before I do two quick things.
+[03:30] Number one, crude oil is breaking out.
+[03:32] And if crude oil, the war is not over, there is no peace deal.
+[03:37] And if crude oil beats this Fibonacci zone on the upside, we've got ourselves another advance coming.
+[03:46] And the stock market is not ready for this.
+[03:49] nor is any or any of the markets and so as of this moment everyone has become incredibly complacent
+[03:57] will this breakout happen is something that has to be watched by all of my members this is for real
+[04:05] you gotta watch i can't promise you anything i'm not saying this in a way that i know something's
+[04:10] gonna happen but this has been the setup all along and let's see whether or not this is the oil
+[04:17] breakout what are some of the early warning signs obviously is the fact that the sulfur futures
+[04:23] are deliberately or very obviously breaking down we continue to talk about the inverse relationship
+[04:30] between uh short-term interest rates and their correlation or at least the correlation of
+[04:36] interest rates themselves with oil and what is clear is that uh higher oil is higher inflation
+[04:44] which is higher interest rates on the short
+[04:47] term
+[04:47] that's been the correlation trade that's worked up this point and what you're seeing is the bond
+[04:52] market and bond vigilantes very clearly pointing out that oil's going higher through the fact that
+[05:00] they're already breaking interest rates up and sulfur futures down you can see that in europe
+[05:06] as well fading all the way back to the lows you can see 10-year bonds breaking down 30-year bonds
+[05:12] breaking down all of these things happening uh uh
+[05:17] in a very clear and deliberate way and so nonetheless uh oil up treasury bonds down is
+[05:26] playing out that makes this gold and silver trade very suspect i want to highlight that the gold
+[05:33] is struggled right along its fib right along its 50-day if oil breaks out and if rates is
+[05:40] sulfur continue to break down and bonds can you break down gold is highly vulnerable for still
+[05:45] breaking down i know that's a very clear and deliberate way to look at it but i'm not saying
+[05:47] that's a very clear and deliberate way to look at it but i know silver had this very attractive breakout candle but i'm going to find it very hard to uh to allow uh myself to believe that silver is going to march to the beat of its own drum magically and not be influenced by this intermarket uh relationship and so uh so this is what i wanted to highlight so now let's go and talk about uh smh semiconductors and what the hell is going on here now uh i want to specifically talk about the
+[06:17] about charlie mcgalligan now we've in the past had him numerous times on both the market huddle and
+[06:24] macro voices unfortunately due to some regulatory things uh we've lost the privilege of interviewing
+[06:31] him at least for now until things change but kindly charlie continues to personally send me his
+[06:37] reports that are only available institutionally and sadly uh there's no way i can get these to
+[06:44] you guys but i will share them with you periodically nonetheless i want to highlight
+[06:50] some things that charlie is pointing out very clearly and uh and uh in doing so what i want
+[06:58] he set up a smh ratio put spread which i felt was incredibly appropriate for us to put on
+[07:07] and so when you're all looking at that smh ratio put spread that was published in fact it is a
+[07:15] charlie mckelligott trade and for the uh and i'm going to do something a little bit different
+[07:20] this time which is often uh i'll put a lot of our trades on as my own original stuff in this
+[07:27] particular case what i'm going to do is publish charlie mckelligott's trade with the fact that
+[07:34] i'm going to actively call the management of the trade
+[07:37] for you in the membership so it's going to be a little bit of a spin on this but that smh trade
+[07:44] is very much a part of uh charlie's thesis and i want to talk about um uh um on that and len yes
+[07:54] the smh has moved we'll talk about the fill prices when i execute the trade in a moment
+[07:59] so if you're confused about anything i'm about to place all these trades in the simulator we'll
+[08:05] talk about where the price is
+[08:07] you
+[08:07] currently are trading and that will also be updated on the website accordingly
+[08:11] that was published when the market was still closed um now uh what what i want to talk about
+[08:19] here uh i'm going to uh skip his growth part here i want to specifically move uh to uh talk about
+[08:27] specifically uh the flows uh that are occurring first of all uh the the first observation i want
+[08:35] all of you uh to
+[08:37] um uh to observe is that uh we are not in a situation where vol control cta risk parity funds
+[08:47] are imminent to sell and their positioning is actually not at an extreme this entire trade
+[08:53] on the semiconductors is uh is not actually uh a bet about where the stock markets are
+[09:02] from a systematic trading perspective trigger i actually think that uh
+[09:07] systematics are not in play at this moment yet uh but what what are some of the interesting
+[09:14] observations that uh we want to uh talk about and specifically i want to get to uh the idea
+[09:22] that simply energy and he's pointing out here that energy and semiconductors as a barbell trade
+[09:29] have essentially blown away uh the s&p 500 and 60 40 portfolios kind of obvious uh but i'm going to
+[09:37] go back to that uh for members but what is particularly interesting is uh this the the qqq
+[09:45] skews and what we're seeing is some absolute extremes on uh on skew positioning when it comes
+[09:54] to the nasdaq uh now what we're taught the first one here in the um uh top left is basically
+[10:02] dividing a 25 cent delta put
+[10:07] by a 25 cent delta call to uh look at the skew on out of the money options this collapsing uh to
+[10:17] the zero percentile is uh exemplifying the ridiculous call buying that we're witnessing
+[10:27] in this market uh and what uh what we're literally and that's if you look at the call skew
+[10:34] looking at the uh 25
+[10:37] delta call the red one against the at the money call option on the qqq's showing the right tail
+[10:45] is also to the hundredth percentile again showing uh the fact that there is extreme demand on out
+[10:55] of the money call options uh this um is uh some of the most extreme levels that we have seen uh
+[11:04] this um uh
+[11:07] even for instance the bottom one is the three month uh put skew uh and what you can also see
+[11:15] which is uh which is really interesting is is that the demand for put options
+[11:21] has actually uh uh collapsed nobody feels any need whatsoever to hedge out uh the downside risk
+[11:34] of the market so everyone is buying the put skew and what you can also see is that the demand for
+[11:37] put skew is going up and nobody is buying huge call upside on the market and nobody is buying put
+[11:43] protection now uh what uh so i want to uh talk about a couple of uh posts on zero hedge like for
+[11:54] instance this one showing that the s&p 500 call volume has hit 2.6 trillion dollars
+[12:03] uh this is the largest uh call uh notional exposure
+[12:10] that we have uh put in there zero percentile uh means dimitri that there was no point uh in the
+[12:18] last year where we have seen a number this as extreme as this one all right uh yeah on that
+[12:24] front and uh and so the the thing that we continue to see here is is just extraordinary
+[12:31] extreme positioning uh on the options market now this one also was super interesting notice here
+[12:40] with a dropped hit to the price of the second half this growth obsessing here um swine unpredictable
+[12:48] graph but yet again this is something that�
+[12:49] does delivers on a kind of upside macro hands and leaves it up to the market to go for it
+[12:57] and we saw an increase what hubchter hopes to look at breaking point kind of P Depp
+[13:02] and this is a the the this the the the the white went in the output at 10 job there has been no
+[13:09] decades. Like we are in uncharted waters on this. Now, what is it that I want to really highlight
+[13:21] is the fact that what they're really exemplifying is the fact that everybody is using call options
+[13:30] to actually express the upside. And what we have seen is dealers, remember how this works,
+[13:38] if you buy a call, the dealer is short the call and short gamma. And so when they're naked,
+[13:46] the call option, what do they have to do to be Delta neutral? They have to buy the market.
+[13:54] And so what's actually happening is that the dealers have become huge buyers of the stock
+[14:03] market to stay Delta neutral on this ridiculous amount of call buying.
+[14:08] A lot of this call buying happens to be rolling off this Friday. Yeah, Fugazi, Fugizi, whatever,
+[14:18] Michael, right? It's all about the way it's positioned. Nonetheless, we're seeing in many
+[14:27] ways this extreme upside of the market is in fact being driven by these dealer flows.
+[14:37] And we're now finding ourselves in a situation,
+[14:39] where there's going to be potentially an animal spirit rebalancing of all of this.
+[14:47] And this Friday's option expiration and the roll off a lot of this gamma
+[14:54] could play a huge role in this. And so this really becomes an interesting thing.
+[15:04] And so what's also something he pointed out here, which I thought was super interesting,
+[15:08] is that all of this,
+[15:09] these huge leveraged ETFs that have seen historical buying, particularly, where does he list the name
+[15:18] of them? But it's basically like the semiconductor leveraged ETF, that's SoCal, plus he's talking
+[15:25] about the tech AI hyperscaler leveraged ETFs. The point is that they calculated the contribution
+[15:34] of all of the new money flowing into those ETFs, how it's literally divided into the stocks.
+[15:41] And what you can see is almost all of that leveraged flow is going 14% into Google,
+[15:47] 12% into Nvidia, 7% in Micron, 7% into Intel, 7% into Amazon, 7% into Broadcom, 6% Apple, 6% AMD,
+[15:58] 3% into Microsoft, 2% into SanDisk.
+[16:04] And 28% into every other one of the 490 stocks. Think about it this way. For every $2 that goes
+[16:15] into 490 stocks in the S&P 500, an additional $1 just goes to Google and another dollar just goes
+[16:24] to Nvidia. And this has been really driving this bubble as everyone is buying these baskets,
+[16:34] into this concentrated thing. And more importantly, these are all being concentrated
+[16:42] into this kind of semiconductor basket. And the Microns, Intels, AMDs, and NVIDIAs are getting
+[16:50] almost all of these flows. So he goes on to say, when this goes wrong,
+[16:58] patient zero is likely to be the SMH, the semiconductor index, as the most
+[17:04] concentrated lever of the entire thematic leadership space, right? And I got kind of
+[17:13] excited. I won't lie that one of my favorite strategies to always cover in my master's
+[17:20] programs was the ratio back spread. And members remember using it back in the previous years. I
+[17:31] haven't put it out for a while. But what was interesting,
+[17:34] is actually, in spite of the volatility we've seen in the SMH, when actually sizing up the ratio,
+[17:43] it actually makes sense for what the potential move is. Now, I want my longstanding master
+[17:50] members to type in here, because we have a very specific rule about using put ratio spreads,
+[17:59] the back spreads. What was that rule? Let me see who's, which of my master's,
+[18:04] members remember. Oh, there we go. We've, I have a number of you typing it in. I love it.
+[18:11] Never hold till expiration. And this is the biggest risk on, he recommended a June one.
+[18:19] And I'm going to model it for all of you in the simulator. And this is why I felt I wanted to
+[18:26] actually execute this trade, because I want all of you, I want to demonstrate to all of you,
+[18:33] the execution,
+[18:34] of Charlie McElligot. Like, this is the top institutional way of putting these on.
+[18:39] And so the goal here was to buy a 40 delta put option and sell three times as many, sorry,
+[18:46] sell the 40 delta put, and buy three times as many of the 20 delta put options on there.
+[18:56] And at this stage, what we're looking for is this three to one ratio. I want to
+[19:04] explain what this three to one ratio is. And by the way, I want to highlight that obviously the prices have moved.
+[19:13] The SMH was down. We will use the closing prices from yesterday to publish this. We'll look at the live market
+[19:23] together and talk about this trade and its execution. Now, what I want to do is start off and let's just go in an order.
+[19:34] Because there's a third trade we published, and that's finally to go short General Motors.
+[19:41] And again, if the market top is what I've been promising members for six months,
+[19:46] that we would eventually go short General Motors. And it finally looks like this is the turn point
+[19:54] where we're going to get a trigger after what was an extended and absolutely insane bull run
+[20:00] on a dinosaur car company.
+[20:03] I think
+[20:04] that this is finally a potential turn point and we're going to uh to dabble with the idea that
+[20:11] this is where general motor is going to turn obviously i have 20 to 30 minutes to go through
+[20:18] placing all of these trades and simulating them all so roll up your sleeves and let's uh let's
+[20:25] dive into this and um and uh and go from there uh and uh and let's let's talk about um uh what's
+[20:35] next so let's uh let's start off here uh uh and uh go first with the snp all right
+[20:44] the snp is the easiest we had uh a december 690 putt uh it as the snp goes ripping higher
+[20:55] um
+[20:55] Of course, the position was decaying both by delta by being coming out of the money
+[21:03] and by theta from time decay.
+[21:05] But now that we're finished that weakly measured move was the tactical repositioning.
+[21:11] I want to stress what we do is we roll up and roll down the hedge at tactical times.
+[21:18] And so when we were at the 690 strike over here, we wait for a tactical time to readjust
+[21:27] to the next higher level to and secure a higher starting point in these roles.
+[21:34] The whole purpose of that is that on the way up, the hedge is actually decaying only at
+[21:43] 50 cents on the dollar on a declining delta.
+[21:48] Basis and with a limited risk and subsequently when it goes in the money, it's delta is going
+[21:56] to approach one and build huge intrinsic value at major turn points.
+[22:00] And so this here is what we're looking at on this trade.
+[22:11] And in this circumstance, what we're just going to do, and I'll pull up.
+[22:18] The simulation on here and one second here and what we're going to do is we're going
+[22:34] to come in here.
+[22:35] We're going to close this 690 put option right here and take the loss on that hedge
+[22:46] and subsequently buy.
+[22:49] You can see the current price is 4960 and we're going to buy the June 2027.
+[23:00] So we're going a year out.
+[23:01] At the 470 strike, the key is that the time decay on these options is always the greatest
+[23:08] in the final six months.
+[23:10] And so the goal here is that we're always want to own these long dated hedges in the
+[23:16] pockets of time that actually have the much smaller carry cost in this.
+[23:24] Now, how do you size this?
+[23:25] Well, it depends on how much of the spy put spread you have on and more importantly, how
+[23:31] much.
+[23:31] If you have a legitimate beta, you are long in your portfolio.
+[23:34] Obviously, some of you may choose to own this put option as a speculative short on the market.
+[23:41] We published this as essentially a portfolio hedge volatility dampener that you would basket
+[23:53] against your positioning.
+[23:55] Obviously, the notional exposure of every one put is about 74,000.
+[23:59] You can just round it.
+[24:00] You can just round it to 75,000 and so you figure out how much real portfolio exposure
+[24:07] you're trying to hedge and then think about that.
+[24:11] Each one put is about $75,000 of notional when you are sizing that trade.
+[24:18] Okay.
+[24:19] So now that is the first trade.
+[24:21] I'm going to just get General Motors as well out of the way just so that we can put this
+[24:26] on.
+[24:27] Now, what is the situation with General Motors?
+[24:28] I'm going to just get General Motors as well out of the way just so that we can put this
+[24:29] on.
+[24:30] General Motors had an extraordinary bull run and what we were looking for was a failed
+[24:37] rally attempt.
+[24:39] We got a perfect 61.8 failure on its earnings.
+[24:43] It attempted to rally and hold the 50-day and it's actually been selling since.
+[24:48] Now, at this juncture, whether or not you want to build a different story around it,
+[24:55] this is finally showing signs of active distribution.
+[24:59] We want to discover.
+[25:00] Whether the failure of this fib zone and a potential breakdown is setting this in motion.
+[25:09] We're looking at this breakdown candle off of these fib zones as the trigger point for
+[25:14] a breakdown move below the 50-day moving average and we're looking for a substantial mean
+[25:21] reversion where we could see General Motors trading even down at $60 on the downside
+[25:27] back to its Fibonacci retracement zones.
+[25:30] Now, just in case this trade is a false start and we are buying a short-dated one-month
+[25:42] bull call spread between $80 and $85, essentially what we're doing is buying a deep in the money
+[25:50] put to be a short-selling synthetic and subsequently buying a very short-term bull call spread
+[25:57] for a month to dampen the Fibonacci retracement.
+[25:58] We're looking at this as a false start and we are buying a short-dated one-month bull
+[25:59] call spread between $80 and $85, essentially what we're doing is buying a deep in the money
+[26:00] put to be a front-tiered trade.
+[26:00] So, where would we think the exit if the trade proves to be false?
+[26:04] Where would we consider the trade to be a false start would be a legitimate breakout
+[26:10] above $82 in any way.
+[26:13] Basically, by the time we're at $85 where the top of the spread is, the trade will
+[26:18] be considered a failed short and we would be looking for exit strategies.
+[26:23] Constantly buying a without a�뚠
+[26:24] Whitman
+[26:25] So, the short-term one-month put spread is a mechanism
+[26:29] of region
+[26:29] for the next round of this trade.
+[26:30] simply allowing us to find out whether this is in fact the start point. The second thing is we went
+[26:36] deep in the money at the $90 put. Why? Because we're only looking for a move down towards 60
+[26:45] bucks. I wanted to actually participate on the downside, like if we were actually short. I didn't
+[26:53] want to have a high data burning option to actually participate. The $90 put has an 80 cent delta
+[27:01] out to September, giving us an opportunity to basically be short this thing. Basically $15
+[27:10] because the stock's at 75. $15 is intrinsic value. The time value on the September option
+[27:20] is only $1, which is the equivalent of $15.
+[27:23] That's the equivalent of paying margin interest on being short. Essentially, we're actually taking
+[27:29] on a put position that is actually synthetically behaving as though we were physically short the
+[27:35] stock, but we simply don't have remotely the risk associated with actually being physically short
+[27:43] an underlying stock. Here, I'm buying the put option. By the way, all of the prices on the
+[27:52] website are going to be on the $90 put. I'm going to buy the put option. I'm going to buy the
+[27:53] 部分 exposed. It's going to be up and rok of $10. The $80 put in the YOY too is going to be
+[27:56] updated to the prices that you're seeing me filled at. So even though we might have stale
+[28:00] numbers on on the website that was because it was published before the market opened, it will
+[28:06] all be updated to levels that I know all members were able to get filled on these trades.
+[28:12] Nonetheless. Sorry, we're buying the $80 call and selling the $85 put to create that June bull call
+[28:25] spread for about $1.
+[28:26] Just out low are going to pay a hundred dollars off.
+[28:26] under a dollar all right and so uh and so at this juncture uh uh we're uh we're in and you can
+[28:36] observe here uh the fill prices on these here uh at market and by the way i don't want you guys
+[28:43] being filled at market you split the spreads but you can see 590 against a buck 46 and 50 cent
+[28:49] fill so that's where the natural market was on that general motors trade it's about a dollar
+[28:55] for the the hedge and uh and about uh 16 bucks for the 90 dollar put option um uh
+[29:07] oh thanks for pointing that out uh amanda on second here oh thank you for pointing out yeah
+[29:18] okay we'll get that fixed on amanda thanks for pointing that out okay so uh nonetheless that's
+[29:23] these are the the first uh wave of trade so now i want to spend the rest of today's session
+[29:28] talking about semiconductor
+[29:30] and what's going on now first of all uh we are uh in no man's land when it comes to this
+[29:38] smh move right so when you put this on a weekly chart and you just simply look how ridiculous
+[29:44] this final blow-off stage is it's actually um uh yes the ratio is one for one on that ryan
+[29:54] uh and so the um the for the semiconductors they've literally been
+[30:00] the parabolic move and whether you're talking amd on the upside uh the huge run on the upside or
+[30:08] intel this ridiculous move on the upside we are seeing uh all of them reaching some ridiculous
+[30:16] extreme levels now almost all of this has a huge gamma and dealer positioning uh tailwind
+[30:25] which means that uh the the violence of mean reversion
+[30:30] will be just as violent uh um uh as there is uh going to be to the upside and so when these
+[30:39] reverse intel could easily have a thirty dollar down day in one day when these things go and by
+[30:46] the way with that said i want to stress that don't overstay your uh your position in nvidia
+[30:53] our goal in the breakout trade on nvidia was to capture this breakout and uh
+[31:00] and rest assured that and that uh that you know you know at this moment when you're sitting on
+[31:06] you know uh this beautiful profit on your nvidia position there's a point at this stage where uh
+[31:13] you're going to want to make sure you keep your uh your gains uh i don't know how many of you have
+[31:19] already um uh how many of you already have taken some profits on nvidia but it's been a great move
+[31:27] at the same time as well i don't know how many of you
+[31:29] have already clipped some profits on this Tesla. But at minimum, I would highly recommend
+[31:35] at least having your Tesla trade if you insist on being long. But mark that magic button, buddy.
+[31:45] I love that magic button. When you turn paper profits to real profits, it's 100% my favorite
+[31:52] little thing to do. And so I can't blame any of you in these target zones for any of you to do
+[31:58] that. Bottom line, these semiconductors have really played out. And I know, Dimitri, you want
+[32:06] to talk about Intel here. And this is some pretty extreme upside moves that we're seeing, including
+[32:13] seeing implieds on Intel blowing out 100, which means it's really dealer gamma that's driving it.
+[32:21] Why? Because dealers wouldn't be blowing implieds over 100 unless they're trying to stifle call
+[32:28] demand.
+[32:28] Right? The only reason you spike implieds there is to make it attractive to sell and deter further
+[32:38] buying. And that's what we're seeing some extremes. And this is where I think that there's
+[32:46] every opportunity on here now. Now, Doug, you're taking the poke on the story building. But
+[32:54] on Monday, I did, Doug, say there's nothing wrong with using other people's stories.
+[33:00] And I think that's a good thing. And I think that's a good thing. And I think that's a good thing.
+[33:01] And I think that's a good thing. And I think that's a good thing. And I think that's a good thing.
+[33:01] The key is, can you identify a way to manage the trade in an asymmetric and risk managed way?
+[33:10] And, well, the trigger is actually a time trigger of this Friday's option expiration and why we
+[33:18] were looking at the turnaround in the EWY overnight as a potential turn point saying that
+[33:27] it's not worth waiting. Now, one thing here,
+[33:30] Doug, you have to recognize is that if the day that this turns and when it does turn,
+[33:36] we're going to have a 20% down day on everything. And you can't wait for a technical signal
+[33:43] to break because it will already be down 20% off its highs. Now, what makes the ratio calls
+[33:51] as ratio put spread so powerful? And I want to talk about this in our simulator and what we do
+[33:58] in. Oh, sorry.
+[34:00] This is the wrong one. This one here. And what makes it so powerful is that if you look at the
+[34:06] payoff profile, how much do you lose when the semiconductors keep rallying? Right now, when you
+[34:19] look at this on the 570, if let's say the semiconductors went to 600 to 620 to 680, how much
+[34:26] do you lose? Zero. Thanks, Robert. And this is why this becomes unique in this situation here, Doug.
+[34:34] Is because there is no consequence to being early to this trade. In the end, the way that this trade
+[34:43] is constructed means that you're not going to actually lose if you're early. And this is
+[34:50] actually the key to the execution of this trade in that, for instance, let's say two weeks pass
+[34:57] and SMH goes ripping to, let's say, I don't know,
+[35:04] 600 in two weeks. What you can observe is, well, we have a small debit, but the loss is limited
+[35:11] to a very small amount, which is that this loss on this one by three ratio is not going to get
+[35:19] any worse. Even if, let's say, it went to 650 and then goes ripping, you see, it's a $500 loss
+[35:26] or it goes to 700. It's a, sorry, 700. It becomes a $400 loss. The point is,
+[35:34] the carry cost of this trade has a very limited risk if the parabolic rise continues higher.
+[35:43] In the same manner, your risk point of where your maximum loss at expiration is at the 510 strike
+[35:53] on expiration, which when we look at the SMH means if it pulled back and closed here at 510,
+[36:05] where it was at 510, it would have been at 510. It would have been at 510. It would have been at 510.
+[36:06] It would have been at 510. It would have been at 510. It would have been at 510. It would have been at 510.
+[36:06] It was trading a week ago, would be your maximum loss. But now this is the key to the execution of
+[36:14] this trade and why I felt it was worth doing. All my longstanding members that typed it in
+[36:20] know that the max loss can actually only occur at expiration. Now, what I want to explain this
+[36:29] to all the new members that are not master members and are not a part of the program,
+[36:34] but what I want to do is time,
+[36:37] decay half the time. So we're now May 31st. All right. And I want everyone to look at the
+[36:46] dotted line, not the red V of the payoff at end, but this dotted line where my little cross is.
+[36:56] Where is the max loss point at 510 two weeks into the trade? Very close to break even.
+[37:07] What you want to realize is
+[37:08] that we actually have very little risk in this trade,
+[37:13] in the next two weeks. We will not,
+[37:19] and I want to make sure this is clear.
+[37:23] Any of you, that are opening this trade correct?
+[37:26] If you hold this to the June 18th expiration,
+[37:31] you are breaking my rules and do not have
+[37:36] my permission to do that.
+[37:40] where you can lose the max loss at the 510 strike,
+[37:45] I wanna show, so the 510 strike,
+[37:47] this is, what's your loss or gain at 510
+[37:53] two weeks into this trade on May 15th?
+[37:56] It's actually $160 gain, not a loss.
+[38:00] But if I time decay to zero,
+[38:02] what is the loss at that 510 strike?
+[38:06] $6,000.
+[38:08] Understand the only thing that could reach the 6,000 loss
+[38:14] is literally holding it to expiration.
+[38:23] Even one day before, that loss would only be $4,400.
+[38:27] One week before, it would only be $2,300.
+[38:33] And let's say, 13 days before,
+[38:37] it could only be a $700 loss.
+[38:40] Understand,
+[38:41] your max loss
+[38:43] can literally only occur
+[38:46] if you hold it to expiration.
+[38:49] So what is the one thing all of you are not going to do?
+[38:55] None of you are gonna hold this till its expiration.
+[38:59] If you do, don't open this trade, all right?
+[39:08] I'm very serious about this
+[39:10] because I do not wanna find out that one of my members
+[39:13] took a $6,000 loss on a one by three ratio.
+[39:16] The point here is we're going to give this till the end of the month.
+[39:20] The goal here is to find out whether the May option expiration and NVIDIA's earnings play a catalyst in turning the semiconductors lower.
+[39:31] In the next two weeks, our loss can be very limited as to maybe about $1,000 for every one by three that you open.
+[39:42] All right.
+[39:43] And so, all of you that open this, well, obviously, volatility will play a factor in this.
+[39:54] You know, if volatility starts to decline, that loss can become a little bit bigger.
+[39:59] But the loss still cannot reach anywhere near its scary point unless you hold into those final weeks of expiration.
+[40:09] And that is not going to happen.
+[40:11] Please, this is so important.
+[40:13] If you're executing this one by three that you're doing it.
+[40:16] Now, the easiest way to think about it is that you're doing a put credit spread, right?
+[40:23] You're basically selling a 565 and buying a 510 for a credit.
+[40:30] This is the easiest way to mentally think about the spread.
+[40:33] But instead of keeping the credit like an income, you're using the credit to buy two more put options out of the money.
+[40:42] Buying.
+[40:43] All sorts of long vega, long gamma on the downside.
+[40:49] And the goal is that if the semiconductors were to do an Eiffel Tower of this one-month rise,
+[40:56] I'm just going to give you a simulation.
+[40:58] If the semiconductor, they'll do two simulations.
+[41:00] One, if the semiconductors hammer the 61.8 at 450,
+[41:06] and the second is that we see a full Eiffel Tower on the downside.
+[41:13] On the simulation, if we hit 450 two weeks into this trade,
+[41:19] you're going to be up $6,000 for about a $1,000 risk.
+[41:23] And if this thing Eiffel Towers all the way back to 360 on the downside,
+[41:30] you're talking about making $24,000 for about a $1,000 risk.
+[41:35] So let me ask you something.
+[41:39] Is risking $1,000 to potentially make $24,000 asymmetric?
+[41:51] Right.
+[41:53] All right.
+[41:54] So this is all I want.
+[41:55] We're going to come in here, lose a small,
+[41:59] and have the window that if this ends up being a redonkulous reversal,
+[42:04] that you can have a huge payoff.
+[42:07] And I'm going to call the play-by-play for all of you as a published trade.
+[42:11] Now, all of you, I would basically calculate not $1,000,
+[42:19] but roughly size it to about $1,000.
+[42:21] So that's a $1,500 risk per 1x3.
+[42:26] So that risk is what you're going to lose in the next two weeks
+[42:30] if this trade doesn't work.
+[42:34] So if you're willing to risk $5,000, open a 3x9.
+[42:40] If you want to risk $10,000, open a 6x, whatever.
+[42:45] You get it, right?
+[42:46] A 1x3 ratio, and it's $1,500.
+[42:50] It's the rough risk.
+[42:51] You are anticipating, and all of you are welcome to type it into the simulator.
+[42:57] If you don't know about the simulator, you just go to Big Picture Trading's website.
+[43:03] It's one of our great new features.
+[43:05] Go to the tools, and there's Options, Trading Simulator Beta,
+[43:10] and enter the trade and give it a go.
+[43:13] All right, so you can put that in.
+[43:15] Let me quickly get the trade in because we're running out of time,
+[43:18] and I want to have it executed in here.
+[43:21] On that, Damon, what will I do?
+[43:26] Listen, I'm going to call the play-by-play based on the unfolding reality.
+[43:30] We may very well readjust the trade if it goes higher.
+[43:35] It certainly is a potential strategy.
+[43:37] We've talked about that with the ratio put spreads in the past.
+[43:40] Okay, so right now, what you're seeing is the SMH is down $20.
+[43:46] If some of you are filled, congrats.
+[43:50] So we could do this.
+[43:51] No, no, we're going to just do it at the current price.
+[43:54] It's still reasonable.
+[43:55] It's just going to be a larger debit.
+[43:57] So I'm going to come in here, sell one of these.
+[44:01] We'll just use these prices.
+[44:02] It's going to be a larger debit, but that's fine.
+[44:13] Let me just calculate this.
+[44:23] We're talking about an $8 debit.
+[44:25] So we're going to wait for that fill,
+[44:28] but it's going to be about an $8 debit for this outlay.
+[44:35] And so we'll update it on the website.
+[44:37] The fill prices, all right?
+[44:39] So look, you can do a 550 by a 500.
+[44:44] There's literally no mistakes on doing a slightly adjusted one.
+[44:49] You can open it slightly lower.
+[44:52] I published this.
+[44:53] This is fine.
+[44:53] $8 debit isn't bad on this.
+[44:57] We're going to hold this.
+[44:59] I want everyone to realize is that May, actually, what is the Friday of?
+[45:05] May 29th, the Friday of May 29th in the post-NVIDIA earnings window is where we will seriously re-evaluate this trade.
+[45:21] It is plausible that it could be held one additional week after May 29th.
+[45:26] But right now, our hope is that the semiconductor thing blows out.
+[45:35] All.
+[45:35] All within the next two weeks.
+[45:41] And so let's see how this plays out.
+[45:46] Charlie, I would not recommend Intel because the problem is, and what I like about SMH, let me explain.
+[45:53] And by the way, if any of you wanted to even do this on EWY instead, it's acceptable.
+[45:59] Why?
+[45:59] One of the things which I look at the SMH is that we're talking about.
+[46:05] Only about a 10 point spread between realized volatility and implied.
+[46:12] The biggest problem with Intel and many of these is you have a huge Vega risks on these ridiculous 100% implied on those individual names.
+[46:23] In fact, the fact that the SMH has stayed under a 50% implied makes it more attractive because remember, we're long Vega and Vega is going.
+[46:34] If we have mean reversals.
+[46:35] And Vega is, especially those blowout ones like Intel in the 100 plus percent implied is not going to work in your favor.
+[46:45] So I do not recommend it.
+[46:47] But what is interesting and I'll leave this before we wrap up today's session, EWY, I'm sorry.
+[46:57] I want to look at ball lab, not the options chain.
+[46:58] I want to just highlight the EWY is actually has a realized volatility near 57 and an implied.
+[47:08] It's not going to work in your favor.
+[47:08] It's not going to work in your favor.
+[47:08] Near 63, which is what you're sort of looking for.
+[47:12] Again, we cover this in master programs, but you want you don't want to be playing paying blowout implies long Vega, making the ratio have to be much wider on this.
+[47:27] And so EWY makes it a very interesting candidate for this.
+[47:33] All right.
+[47:34] So.
+[47:37] And nonetheless.
+[47:38] The.
+[47:40] It's all published.
+[47:42] The recording will be out there.
+[47:44] Quinton very shortly to review everything.
+[47:47] All of you are in.
+[47:48] Now, listen, I cannot go much longer because I actually have another obligation in there.
+[47:53] But I will continue this conversation with you almost every single day because this is a pretty big deal.
+[48:00] We're going to find out whether or not the semiconductor top is going to come in here somewhere soon.
+[48:06] Notice, by the way, that.
+[48:08] But, you know, like the Kospi had that bear reversal.
+[48:12] The EWY is a gap down here on the downside.
+[48:18] You're seeing AMD and others starting to turn.
+[48:23] And don't overstay your welcome.
+[48:25] Odds are, by the way, that on Friday we will probably drop both Tesla and NVIDIA as completed trades.
+[48:33] So please actively take profits.
+[48:36] I don't remember those trades on the upside were breakout trades, very short term, meant to capture some of this upside and not to be long term investments.
+[48:48] And so with all of this happening, I don't think I want any members overstaying their welcome on those trades.
+[48:54] Let's find out whether we timed this one right or not.
+[48:58] Obviously, I promise all of you that we'll always try to be timely on these things.
+[49:04] I think this is a very.
+[49:06] Interesting day of interest that could be a turn point.
+[49:10] We're going to find out.
+[49:12] And unless I'll be online with tomorrow's breakout trader session with all of you and we'll get an update on that tomorrow.
+[49:20] Just remember, I want everyone to write it down on a sticky and put it on their monitor that you will not hold this ratio spread to its expiration.
+[49:30] All right.
+[49:31] I want that.
+[49:32] I want to hear that all of you have that on a sticky right on your monitor.
+[49:36] Because I'm serious about this.
+[49:38] OK, this is this is not a game on that front.
+[49:41] Thanks, everybody.
+[49:42] Have a good trading day.
+[49:44] Bye.

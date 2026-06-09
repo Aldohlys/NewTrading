@@ -11,6 +11,25 @@ Additionally, trading data stored in a SQLite database can be queried for empiri
 - Analyze trading patterns and metrics from SQLite database
 - Generate insights and reports from trading data
 
+## Markdown formatting rules (apply to ALL reports and chat output)
+
+**Always escape `$` as `\$` when referring to dollar prices/amounts.**
+
+The Claude Code / FleetView markdown renderer treats two `$` on the same line as a LaTeX math block, which garbles the text between them. Example failure (line from `Trades/CL_Jul26_breakout_analysis_20260509.md`):
+
+> `The $25 front-end drop is a prompt-month spike (geopolitical/supply); long-dated $53`
+
+renders as `The 25 front-end drop is a prompt-month spike (geopolitical/supply); long-dated 53` in italic math font — unreadable.
+
+**Rule:** When writing prices, P&L, risk numbers, etc., always use `\$25`, `\$100`, `\$1,640`. This applies to:
+- New trade plans, analysis reports, journal entries in `Trades/`, `Reports/`, `Discussions/`
+- Section bodies, table cells, headers, bullet lists — everywhere
+- Chat responses with multi-line prose
+
+**Exception:** Single `$` per line with no closing `$` on the same line will not trigger math mode, but escape anyway for consistency — a later edit may add another `$` and silently break the line.
+
+**Sweep before saving:** before writing a trade-plan or report file, mentally scan for any line with two or more `$` and escape them. After saving, the user has been bitten by this often enough that it's a recurring issue — bake the escape in from the start.
+
 ## Conversation History
 
 ### Initial Setup (2025-09-22)

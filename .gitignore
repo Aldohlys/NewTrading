@@ -14,6 +14,19 @@ logs/
 chains/
 strikes/
 Reports/reports/
+quotes/
+
+# Generated data dumps & media (regenerable / too large for git)
+*.mp4
+*.parquet
+*.json
+*.stdout
+*surface.log
+__pycache__/
+*.pyc
+
+# Personal correspondence (keep out of repo)
+Discussions/
 
 # Generated HTML reports (analyze_*.html, etc.)
 *.html

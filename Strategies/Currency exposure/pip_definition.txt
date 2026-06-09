@@ -1,0 +1,68 @@
+What is a "Pip"?
+Pip stands for "Percentage in Point" or "Price Interest Point" - it's the smallest standardized price movement in a currency exchange rate.
+General Definition
+
+Standard pip: The fourth decimal place in most currency pairs (0.0001)
+Exception: Japanese yen pairs use the second decimal place (0.01) as one pip
+Fractional pips: Some brokers quote to 5th decimal (called "pipettes")
+
+Forex Trading Context
+Currency Pair Examples:
+
+EUR/USD: From 1.1000 to 1.1001 = 1 pip move
+GBP/USD: From 1.2500 to 1.2485 = 15 pip move
+USD/JPY: From 110.00 to 110.05 = 5 pip move
+USD/CHF: From 0.9000 to 0.8950 = 50 pip move
+
+Pip Value Calculation:
+Pip Value = (1 pip / Exchange Rate) × Lot Size
+Example for EUR/USD:
+
+Standard lot (100,000 units): 1 pip = $10
+Mini lot (10,000 units): 1 pip = $1
+Micro lot (1,000 units): 1 pip = $0.10
+
+Futures Trading Context
+6E (Euro FX Futures):
+
+Contract size: €125,000
+Minimum tick: 0.0001 (1 pip)
+Tick value: $12.50 per pip
+Example: 6E moves from 1.1000 to 1.1010 = 10 pips = $125 profit/loss
+
+MSF (Micro Swiss Franc Futures):
+
+Contract size: CHF 12,500 (1/10th of standard 6S)
+Minimum tick: 0.0001 (1 pip)
+Tick value: $1.25 per pip
+Example: MSF moves from 0.9000 to 0.8950 = 50 pips = $62.50 profit/loss
+
+Key Differences Futures vs Forex:
+
+Standardized contracts: Futures have fixed contract sizes
+Centralized exchange: Futures trade on CME vs decentralized forex
+Margin requirements: Often lower for futures
+Tick values: Fixed dollar amounts per pip in futures
+
+Practical Trading Examples
+Risk Management:
+
+Stop loss: "I'll risk 20 pips on this trade"
+Profit target: "Looking for 60 pips upside"
+Position sizing: "With $1.25 per pip (MSF), 20 pip risk = $25 max loss"
+
+Volatility Measurement:
+
+Low volatility: 10-30 pips daily range
+Medium volatility: 30-60 pips daily range
+High volatility: 80+ pips daily range
+
+Context from Our MSF Analysis:
+Based on our USD/CHF data analysis:
+
+Average daily movement: 35.9 pips
+Quiet days: 12 pips (25th percentile)
+Volatile days: 74 pips (90th percentile)
+Extreme days: 176 pips (99th percentile)
+
+This pip-based framework helps traders quantify risk, set targets, and compare volatility across different timeframes and instruments.

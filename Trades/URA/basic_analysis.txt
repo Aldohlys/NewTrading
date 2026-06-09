@@ -1,0 +1,163 @@
+=========== URA 39 C Historical Analysis =========
+Total records: 64 (including 16 zero-volume)
+Records with trades: 48
+Date range (trades): 2025-07-17 20:00:00+02:00 to 2025-08-26 16:00:00+02:00
+Price range (trades): $0.55 - $3.80
+Volume-weighted avg price: $1.75
+Total volume: 361.0
+Average volume per trade bar: 7.5
+Zero-volume bars: 25.0% of all records
+
+Most recent 5 actual trades:
+                     datetime  close  volume
+236 2025-08-25 15:30:00+02:00   1.90    48.0
+237 2025-08-25 16:00:00+02:00   2.00     9.0
+239 2025-08-25 20:00:00+02:00   1.85    10.0
+240 2025-08-26 15:30:00+02:00   2.05     1.0
+241 2025-08-26 16:00:00+02:00   2.50    14.0
+
+Most recent record (any volume):
+                     datetime  close  volume
+243 2025-08-26 20:00:00+02:00    2.5     0.0
+
+Data composition:
+  historical: 64 total (48 with trades)
+
+Volume statistics (traded bars only):
+  Min volume: 1.0
+  Max volume: 48.0
+  Median volume: 4.0
+
+Price volatility (traded bars only):
+  Standard deviation: $0.853
+  Price range: $3.25
+  Coefficient of variation: 40.9%
+
+Data quality checks:
+  Average time between trades: 0 days 20:20:25.531914
+  Largest gap between trades: 7 days 02:00:00
+  Large price moves (>10%): 25 occurrences
+==================================================
+
+=========== URA 39 C Intraday Analysis =========
+Total records: 78 (including 72 zero-volume)
+Records with trades: 6
+Date range (trades): 2025-08-26 15:30:00+02:00 to 2025-08-26 17:55:00+02:00
+Price range (trades): $2.05 - $3.00
+Volume-weighted avg price: $2.80
+Total volume: 15.0
+Average volume per trade bar: 2.5
+Zero-volume bars: 92.3% of all records
+
+Most recent 5 actual trades:
+                     datetime  close  volume
+240 2025-08-26 16:00:00+02:00    2.7     1.0
+245 2025-08-26 16:25:00+02:00    2.9    10.0
+246 2025-08-26 16:30:00+02:00    3.0     1.0
+253 2025-08-26 17:05:00+02:00    2.7     1.0
+263 2025-08-26 17:55:00+02:00    2.5     1.0
+
+Most recent record (any volume):
+                     datetime  close  volume
+311 2025-08-26 21:55:00+02:00    2.5     0.0
+
+Data composition:
+  intraday: 78 total (6 with trades)
+
+Volume statistics (traded bars only):
+  Min volume: 1.0
+  Max volume: 10.0
+  Median volume: 1.0
+
+Price volatility (traded bars only):
+  Standard deviation: $0.338
+  Price range: $0.95
+  Coefficient of variation: 12.8%
+
+Data quality checks:
+  Average time between trades: 0 days 00:29:00
+  Largest gap between trades: 0 days 00:50:00
+  Large price moves (>10%): 1 occurrences
+==================================================
+
+=========== URA 40 P Historical Analysis =========
+Total records: 80 (including 19 zero-volume)
+Records with trades: 61
+Date range (trades): 2025-07-18 16:00:00+02:00 to 2025-08-26 18:00:00+02:00
+Price range (trades): $1.20 - $4.40
+Volume-weighted avg price: $1.99
+Total volume: 3,956.0
+Average volume per trade bar: 64.9
+Zero-volume bars: 23.8% of all records
+
+Most recent 5 actual trades:
+                     datetime  close  volume
+267 2025-08-22 18:00:00+02:00   1.80    17.0
+269 2025-08-25 15:30:00+02:00   1.80     5.0
+270 2025-08-25 16:00:00+02:00   1.75   102.0
+273 2025-08-26 16:00:00+02:00   1.20    32.0
+274 2025-08-26 18:00:00+02:00   1.25    10.0
+
+Most recent record (any volume):
+                     datetime  close  volume
+275 2025-08-26 20:00:00+02:00   1.25     0.0
+
+Data composition:
+  historical: 80 total (61 with trades)
+
+Volume statistics (traded bars only):
+  Min volume: 1.0
+  Max volume: 1,924.0
+  Median volume: 10.0
+
+Price volatility (traded bars only):
+  Standard deviation: $0.674
+  Price range: $3.20
+  Coefficient of variation: 32.9%
+
+Data quality checks:
+  Average time between trades: 0 days 15:38:00
+  Largest gap between trades: 3 days 22:00:00
+  Large price moves (>10%): 19 occurrences
+==================================================
+
+=========== URA 40 P Intraday Analysis =========
+Total records: 72 (including 66 zero-volume)
+Records with trades: 6
+Date range (trades): 2025-08-26 16:00:00+02:00 to 2025-08-26 18:10:00+02:00
+Price range (trades): $1.10 - $1.25
+Volume-weighted avg price: $1.17
+Total volume: 42.0
+Average volume per trade bar: 7.0
+Zero-volume bars: 91.7% of all records
+
+Most recent 5 actual trades:
+                     datetime  close  volume
+229 2025-08-26 16:05:00+02:00   1.10     1.0
+239 2025-08-26 16:55:00+02:00   1.15     1.0
+242 2025-08-26 17:10:00+02:00   1.10    10.0
+250 2025-08-26 17:50:00+02:00   1.20     5.0
+254 2025-08-26 18:10:00+02:00   1.25    10.0
+
+Most recent record (any volume):
+                     datetime  close  volume
+299 2025-08-26 21:55:00+02:00   1.25     0.0
+
+Data composition:
+  intraday: 72 total (6 with trades)
+
+Volume statistics (traded bars only):
+  Min volume: 1.0
+  Max volume: 15.0
+  Median volume: 7.5
+
+Price volatility (traded bars only):
+  Standard deviation: $0.058
+  Price range: $0.15
+  Coefficient of variation: 5.0%
+
+Data quality checks:
+  Average time between trades: 0 days 00:26:00
+  Largest gap between trades: 0 days 00:50:00
+  No extreme price moves detected
+==================================================

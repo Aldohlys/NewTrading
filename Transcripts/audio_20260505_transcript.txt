@@ -1,0 +1,707 @@
+[00:02] Good morning and welcome to Where's the Trade? It's the breakout or fakeout session for Tuesday, May 5th of 2026.
+[00:12] I'm Patrick Ceresna and I'm sure many of you are shocked that we put out a breakout trade on NVIDIA.
+[00:19] We'll get to it in just a second, but let's start off with actually just sizing up what's happening in the market very quickly.
+[00:26] We have an S&P that quickly reversed all of yesterday's selling.
+[00:33] There is no catalyst for a new sell-off.
+[00:38] Think about it, even oil rising here has not been a strong enough catalyst to create that kind of reversal here.
+[00:53] I'll stand by the view I shared yesterday.
+[00:56] I don't think I need to go into great detail repeating it.
+[01:02] And so what we have is now a market that continues.
+[01:05] And that is, by the way, the very spirit of why we have to actually trade the Teslas of the world.
+[01:13] So I know many of you are shocked and this is a crazy world that we're in, but let's be realistic.
+[01:20] What we have to do is when the breadth of the market is shit.
+[01:26] 51%, which is the vast majority, like not vast majority, more than 50% of the stocks are downtrending.
+[01:33] And let's be realistic.
+[01:34] The vast majority are not participating, right?
+[01:38] Like you look at the equal weight index, can't beat its previous highs, trading far more sideways.
+[01:46] And so the only thing we can do is if we want to participate, we have to participate in what is working.
+[01:56] And what has been working, semiconductors.
+[02:01] And so SMH, you can see here, semiconductors, fresh breakout to new highs.
+[02:08] You continue to see the Cospi breaking out fresh new highs.
+[02:14] So this AI story is the thing that's moving.
+[02:19] And really at this moment, if you're not a semiconductor stock, it's hard to actually,
+[02:26] play this out.
+[02:30] So now we've had a lot of the earnings come out.
+[02:33] Obviously, we're going to get AMD coming out today after the close.
+[02:40] And so those that want to, you know, see what NVIDIA does or the entire semiconductor basket does in the post AMD,
+[02:49] you could theoretically delay the trade on that.
+[02:56] But.
+[02:56] but in the end what's it called it is going to be a mover like AMD is already stretched to the
+[03:05] upside it'll be hard for it to gain too much more big traction on the upside on that move now we're
+[03:13] going to talk about obviously what's happening Nvidia does have its earnings in a couple weeks
+[03:19] and I want to talk the strategy and why I chose to do this the way that I did it's going to we'll
+[03:26] dive into it after we finish a quick little outlook the now the one thing that we're going
+[03:32] to continue to watch so what's happening with oil and I want to specifically highlight Brent crude
+[03:38] oil versus that of WTI because we keep looking at this WTI chart but Brent yesterday closed
+[03:47] actually at its highest close
+[03:49] in I think you can see it by a line chart it was the highest close that we had actually since this
+[03:58] whole event point is that oil generally is upwards in its trajectory and now if you can see yes we're
+[04:06] getting a pullback this morning but what do you think we're going to find out about crude when it
+[04:11] comes right into this fib zone at 110 on Brent oil right is like is it going to be bought on dip
+[04:17] right now crude oil going high in the oil market right now is it going to be bought on dip right
+[04:19] now or where is it going to go in a gold position but again as I said that's the way it is and
+[04:26] there's no evidence of that changing here on the short term gold getting a little bit
+[04:32] of a bounce but again on a one-hour chart basis you're basically just seeing a bounce back to its
+[04:39] 50% retracement from yesterday's selloff and and so at this point you know there is again a
+[04:49] nothing has changed from our outlook, including, you know, look, oil down today. What do you think
+[04:56] is the reaction function? Stock market up, gold goes up, a little bit of breathing room
+[05:03] on the rates markets, as you can see, you know, a little bit of a small reaction on SOFR futures,
+[05:09] but it's genuinely a small reaction on that front. But the point here is that this primary
+[05:16] trend and nothing is as dynamically changed in any way. All right. I don't want to go too deep
+[05:23] in this because I want to spend a lot more time talking individual stocks today. And so let's
+[05:30] dive into this now. Obviously, there's a little bit of anxiety for members when we want to do a
+[05:38] trade on NVIDIA when, you know, generally we've been quite bearish NVIDIA during the, you know,
+[05:46] the period where...
+[05:46] creating this kind of topping formation. But I mean, at this stage, the semiconductor space
+[05:53] has bounced and sorry, is the leadership, not just a bounce. It's been the leadership.
+[06:01] And when NVIDIA broke out of this trade range to the upside, what we're now seeing is NVIDIA
+[06:08] basically has done a fib retracement, right? So it's now pulled back into the fib zone.
+[06:14] And if semiconductors,
+[06:16] are going to continue to be the leadership in the next month, then anticipating a retest of its
+[06:26] highs up along this kind of 115 to 120 range would be entirely on the table. What is the big
+[06:34] obstacle? Obviously, that well, is the earnings. And what I was thinking, though, was that I want
+[06:43] to introduce and today I want to do a little bit of a tutorial.
+[06:46] Because I normally only do tutorials during the actual master member tutorials. But what I want
+[06:53] to do is explain the rationale of hedging things out, overlapping NVIDIA's earnings without the
+[07:03] intention of actually holding it into earnings if it hasn't moved. And so let's build the story.
+[07:10] The story here is semiconductors are the only thing that's working. And so if we're going to
+[07:15] break out trade stuff, we might as well break out the semiconductor space. And so if we're going to
+[07:16] break out trade, the things that are working at this moment off of a retracement. Now, we have a
+[07:24] situation where NVIDIA is setting up with a retracement. And what I want to highlight is that
+[07:34] obviously, NVIDIA has a substantial volatility premium on the options overlapping its earnings.
+[07:46] So let me just quickly show the
+[07:48] May 22nd. And what you can observe here is that the implied volatility on that May 22nd
+[07:57] expiration that overlaps its earnings is at a 48% implied versus about 40% implied on the other
+[08:05] options, which are not actually reacting to any earnings things at this moment. Now, why is it
+[08:13] that I want to actually buy this higher vol trade?
+[08:18] Now, this is counterintuitive from everything that I normally talk about because normally, we don't want to get
+[08:24] overpay for an option and get caught in a vol implosion. What do I mean by vol implosion? Well, let's look at Palantir, right?
+[08:34] Palantir just had its earning down eight bucks, but I don't care about actually showing the price move. I want you all to see what happened to the yellow implied, right?
+[08:48] Actually, let me just even show the blue one here.
+[08:50] What I want everyone to see is these options that we're basically pricing in.
+[08:56] I want you to actually focus almost exclusively on the blue one,
+[09:00] which is going into Palantir's earnings.
+[09:06] As we got into the final week, what did the implied volatility do?
+[09:10] It climbed from 70% to 80% to 90% to 100%, almost to 110% implied.
+[09:18] But then after the earnings, what happened to the implied?
+[09:22] It implodes.
+[09:23] This is the normal reaction function of options over earnings.
+[09:29] But what I want to actually do is take advantage of this
+[09:35] rather than getting plowed over by this.
+[09:39] So what is it?
+[09:40] Well, notice here an at-the-money $200 strike put prior to its earnings is about $5.
+[09:47] And the option that overlays the earnings is about $8.50.
+[09:56] I'm rounding, obviously.
+[09:58] And so clearly, there's over a 10% to 12% volatility premium that is being baked into it.
+[10:08] But what happens to volatility on this, right?
+[10:12] We're 17 days on that option.
+[10:16] Our typical two-plus week.
+[10:18] But we are, what's it called, 15 days away from its earnings.
+[10:25] But like I was showing here on this chart,
+[10:27] what happens to implied volatilities on that May 22nd,
+[10:33] using Palantir's chart as an example,
+[10:35] what will happen to its implied volatility every day we get closer to its earnings?
+[10:41] It's going to rise.
+[10:43] Everyone see this?
+[10:45] So what I want to...
+[10:46] What I want to actually show you is that we can use this to our advantage
+[10:51] to create a trade that carries better in anticipation of semiconductors working well.
+[11:00] So our little thesis here is that in the next 15 days,
+[11:05] Nvidia will break out higher and start working its way higher
+[11:10] prior to its earnings based on semiconductor tailwind.
+[11:15] Does everyone understand that?
+[11:16] This is not an earnings bet,
+[11:18] but rather that the next several weeks,
+[11:21] that the trend of semiconductors being leadership is going to stay
+[11:26] and Nvidia will, to some degree or another, participate.
+[11:29] Everyone following?
+[11:31] So, let me quickly put up here the simulator.
+[11:35] And so what I want to do here is I want to quickly show here it's a...
+[11:43] Let me see how close this is to where the live market is.
+[11:46] We're right now five bucks.
+[11:49] So we're going to...
+[11:50] I'm going to just quickly adjust this a little bit.
+[11:52] So this is like a 38 vol.
+[11:55] And we've got 895.
+[11:58] So we're going to bring this down to like a 49 vol.
+[12:01] Okay.
+[12:02] So what I want to show everyone here is you can see it's a $5 option versus an $8.5 option.
+[12:10] Okay.
+[12:10] So this is the simulation.
+[12:13] Now, you're only going to own one of these two puts,
+[12:16] but I wanted to put them both in simulation
+[12:19] so that you can see how they carry differently in there.
+[12:24] Now, the first thing that I want to say is,
+[12:27] okay, let's just say you say,
+[12:29] well, Patrick, I don't want to pay.
+[12:32] I don't want to pay the volatility premium for the extra earnings gamble.
+[12:38] So I'm only going to buy the May 15th.
+[12:40] Right.
+[12:41] So we're comparing the two.
+[12:43] Alternatively, what I'm proposing,
+[12:46] is we pay that extra, you know,
+[12:49] $3.5 for that volatility premium,
+[12:52] even though we are very likely not going to own the stock into its earnings
+[12:59] if it hasn't performed going into it.
+[13:01] Right.
+[13:02] Well, there's the part of this entire thesis is we might pull the ripcord
+[13:08] on the trade prior to earnings if it has not bullishly broken out in our favor prior.
+[13:14] So,
+[13:16] let's move to May 15th.
+[13:17] Now, what I want to show is that if everything stayed equal,
+[13:24] you can observe that you would have had the entire option basically expire
+[13:30] on May 15th, creating a $500 loss.
+[13:33] Now, if volatility stayed the same,
+[13:37] that May 22nd option would be down $293.
+[13:43] But what actually happens
+[13:45] to volatility as you approach the earnings?
+[13:48] It rises.
+[13:54] So what actually happens here is this 49% volatility might become 75%
+[14:02] or 80% implied volatility a few days before its earnings.
+[14:06] And what you'll see is that while somebody who hedged with the May expiration
+[14:11] and lost all $500 if nothing happened, notice here that even if Nvidia didn't move,
+[14:18] we actually may not lose any money on the option because the money we're making off
+[14:24] the rising Vega is offsetting the theta.
+[14:28] Now, my master members understand this.
+[14:34] If this is blowing your mind and you don't get what's going on,
+[14:40] then you can always join the master's program as a shameless pitch.
+[14:44] It's the type of stuff that we cover in our program and teach how this all works.
+[14:51] The bottom line here is,
+[14:54] is that what we're trying to do is create a trade that carries cheaply.
+[15:00] In order to try to discover whether Nvidia is going to in the next week
+[15:06] or two work its way back to its highs, if we find ourselves going into Nvidia's
+[15:12] earnings with the stock trading at its 50 day moving average and it didn't move,
+[15:18] we will punt the entire trade.
+[15:21] We will not take the gamble into earnings and have paid a very little carry in doing so.
+[15:29] Does everyone understand what the game plan is?
+[15:35] So in the end, what the strategy here is,
+[15:40] we're going to come in here and we're going to go long Nvidia and find out
+[15:45] if we're going to see pre-earnings buying developing in Nvidia.
+[15:51] And I want to stress very, very clearly, I have zero intention of carrying
+[15:56] this trade into its earnings unless the stock has proven that our thesis was
+[16:03] right, that the stock has risen and that and that in fact,
+[16:09] we have a nice cushion on actually taking an earnings risk.
+[16:13] We'll talk about it.
+[16:15] The conveniently, by the way,
+[16:16] what you can observe is that the earnings is on Wednesday, May 20th.
+[16:22] And what session do we have every Tuesday?
+[16:26] Which?
+[16:26] May 19th.
+[16:27] What are we going to do during that breakout trader session?
+[16:30] We're going to decide the day before earnings,
+[16:34] whether or not it's worth the risk holding into earnings.
+[16:37] So what we during that May 19th webinar, where's the trade webinar?
+[16:42] We're going to decide whether to keep
+[16:45] or punt the the Nvidia trade prior to its earnings.
+[16:51] OK, and so in this situation, what I'm doing here is I'm going to
+[16:56] come in here, buy 100 shares and buy one of these not sell.
+[17:07] My goodness, I almost sold it.
+[17:10] They're a fat finger typo there.
+[17:11] I was going to buy one of these at market and we buy the hedge and we're
+[17:18] limiting the risk down to like 800 bucks on this trade.
+[17:22] Now, of course, you could do this as a synthetic.
+[17:26] Of course, you can buy an out of the money call option.
+[17:30] But you do need to follow the rule that if
+[17:36] if Nvidia and you will, by the way, benefit from with a longer dated option.
+[17:42] Let's say you wanted to do a synthetic
+[17:45] and you decide I'm going to go out to, let's say, the June expiration.
+[17:51] And I'm going to go for an 80 cent delta, and you can observe here you're going
+[17:55] basically down to like one hundred and eighty dollar strike somewhere in there.
+[17:59] You're putting out twenty three.
+[18:00] You can see spreads are very reasonable on Nvidia, very liquid.
+[18:04] Point here is that you could buy a buy a deep in the money going out to the June
+[18:09] expiration, but the rule will be the same, which is in the end.
+[18:14] We need to see the trade has worked.
+[18:18] Prior to the earnings and like if we were
+[18:21] at one hundred two hundred and ten or two hundred and fifteen going into the
+[18:25] earnings, we may choose to take an earnings gamble.
+[18:29] But.
+[18:29] If we have not seen the stock work at all going into earnings,
+[18:34] we're going to pull the plug on it because we're not going to eat the Vega
+[18:38] collapse on the other side when that happens.
+[18:41] So the trade of the week is this earnings play on on Nvidia.
+[18:47] It's a little bit different than what we normally do.
+[18:49] But I'd like to think that many of you get the drift of what we're trying
+[18:53] to accomplish and how we're using the natural volatility trend to
+[18:59] really be a positive carry.
+[19:02] So let's find out whether or not
+[19:05] Nvidia joins the rest of semiconductors with a breakout to all time new highs in there.
+[19:11] And so, Andrea, a Hail Mary will also work in that
+[19:18] in that the volatility is your friend.
+[19:21] Right.
+[19:22] Which is if you buy an out of the money call option, let's say a two twenty.
+[19:26] Let's just say and and by the way, what
+[19:29] you want to observe on a from a Hail Mary perspective.
+[19:33] Sorry, I'm not going to look at volume Peltier.
+[19:35] Let's look at it on Nvidia.
+[19:40] What I want you to observe here is, is that let's say you are focused on.
+[19:46] Oh, sorry.
+[19:47] The June option.
+[19:53] OK, so this is the June and you can observe
+[19:57] that the June has not seen a big spike in volatility, but you will see that the June
+[20:04] option will work its way to forty to forty three percent going into earnings
+[20:10] because any option that overlaps earnings will have some rise in volatility premium
+[20:16] going into the earnings announcement.
+[20:18] But if you want to actually go in there
+[20:21] and simulate where you're going to get the biggest Vega kick on an out of the money
+[20:27] call will be buying the May 22nd earnings bet.
+[20:33] And what you do is let's say you go.
+[20:34] Up here in this 215, you come out here and buy, for instance,
+[20:39] this two dollar and 80 cent call option at the 215 strike.
+[20:44] What you will see is that it will carry
+[20:47] very well because when you as we're approaching the earnings,
+[20:53] this out of the money call option is going to be at a 70 or 80 percent implied.
+[20:58] And you're going to see you had very little theta burn.
+[21:02] In carrying that out of the money
+[21:04] call. So it is an acceptable way to Hail Mary
+[21:09] using that to your to your advantage.
+[21:12] The key here is this.
+[21:14] I want to see in the next
+[21:17] a few week and a half or so that this thing works its way back to the highs
+[21:22] and that we're generally seeing that the semiconductor tailwind is causing this to rise.
+[21:30] If we see this, we can entertain the idea of taking
+[21:33] an earnings gamble and holding it through its earnings.
+[21:37] But if this stock does this for the next week and a half and and
+[21:44] is trading at its 50 day moving average and sitting here and we're going to go
+[21:48] into earnings with the things still trading in the 195 to 200 area.
+[21:53] Out we go. Not worth it.
+[21:55] I'm going to I'm going to punt the thing and we're not going to be in.
+[21:59] But we'll talk about this when we get to that trade at that time.
+[22:03] All right.
+[22:04] So so that is the the the breakout trade of the week.
+[22:10] Something different.
+[22:11] Let's have a little fun with it and see what happens.
+[22:14] The second thing, Tesla works so far.
+[22:19] How many of you are in Tesla?
+[22:20] A bunch of you look at how the on the mark fib zone held.
+[22:27] It's getting back above its 50 day moving average and and let's find out whether
+[22:33] this thing goes or not right where now we're the first short term target for Tesla
+[22:42] would be the measured move coming into the fib.
+[22:45] Now, of course, there could be a much more bullish outcome.
+[22:48] But for those of you that don't want to be greedy about the trade,
+[22:51] this 50 percent to 61 percent retracement lines up with the zigzag measured move.
+[22:57] And so those of you that are looking for an early exit in Tesla,
+[23:03] except no substitute for this kind of 420 to 440 zone above if it gets up there.
+[23:09] And so that that's that pocket where we're where we're going to watch to see
+[23:14] whether Tesla can sneak into for for that trade, the XLE.
+[23:22] The big thing for me is that will we see them beat the fib?
+[23:25] It's amazing how oil's worked its way higher.
+[23:28] But these energy stocks just don't want to beat this fib.
+[23:32] And
+[23:33] it ain't all clear, all bulls ahead until we're north of this fib.
+[23:40] Right. I mean, I generally would like to believe
+[23:44] that there's a bullish tailwind on the short term if it goes.
+[23:47] But just like what the gold miners did, if it fails at this fib zone,
+[23:52] is there going to be a secondary zigzag on these energy stocks on there?
+[23:59] This is a highly fragile, important, pivotal moment
+[24:02] on these energy stocks, because if they clear 60 ain't stopping till it goes
+[24:08] for a double top retest, we got to beat the 60, though it's going to happen here.
+[24:12] And now what's really nice is that the implied volatilities are not that high.
+[24:19] And so there's something like the XLE you can observe here.
+[24:23] You know, when you're up a couple grand
+[24:25] on this trade, you can sneak in here by yourself.
+[24:29] You know, with a we have a fifty five dollar cost base.
+[24:32] And you can sneak in here for for, you know, an extra week and you can easily,
+[24:39] you know, buy a fifty seven put for thirty four cents or a fifty eight put for fifty
+[24:43] nine cents, even you can consider coloring the the trade here,
+[24:49] you know, by turning around and and selling a little bit of a call up above.
+[24:55] If you want to make it closer to a zero cost trade point is, is it's a highly
+[25:00] fragile moment.
+[25:03] If it clears 60, it's going to be a rock and roll move on the upside,
+[25:09] like a full double top retest, and it's going to be a huge winner.
+[25:12] But this is the line in the sand.
+[25:14] It's got to beat the fib.
+[25:16] Second thing, Philip, sixty six
+[25:19] didn't get the memo to stop at the fib, decided to just blow right through it.
+[25:24] You can tell how how bullish these refiners are.
+[25:28] And this is like and you look Valero.
+[25:30] I was already a back to its highs.
+[25:33] You know, Dino is running like it stole something.
+[25:37] Like, did anyone is anyone in, you know, because you've got a smile on your face.
+[25:41] Like anyway, the point being, the refiners are are doing great
+[25:49] at this moment.
+[25:50] You know, like you have to ask yourself that your time frame here, because.
+[25:57] Phillips, sixty six, the measured move on this thing.
+[26:00] Is all the way up to two hundred to two fifteen.
+[26:03] But that's that's a pretty ambitious target.
+[26:07] But when you're seeing how Dino is moving, it's not out of the realm
+[26:10] of impossibility, you know, you can always come in here and and roll up the hedge.
+[26:16] You know, like I mean, obviously this this two hundred shares is up like four grand.
+[26:21] It's a it's up really nicely.
+[26:25] You know, one of the things you can do here, you know, those previous highs on
+[26:29] Phillips, sixty six.
+[26:30] If you're looking for an exit somewhere near one ninety for like a double top retest,
+[26:35] you could call her it in, right?
+[26:37] You come in here to May 15th, grab the let's say a buck fifty at the one ninety
+[26:44] strike and use it to, you know, buy like a two dollar and seventy five cent.
+[26:49] One seventy five put down below.
+[26:51] It's a small debit.
+[26:53] It's not a zero cost, but what you can do is create a five dollar downside risk to
+[26:58] a ten dollar upside.
+[27:00] You know, it's a it's a great trade.
+[27:02] It's going to be a potential trade for another week and see whether or not
+[27:07] Phillips is sixty six keeps rocking and rolling.
+[27:10] So, you know, it's it's been a great trade.
+[27:14] And those of you that want to lock some of it in, look, have no shame.
+[27:19] Like when when a trade like we had our profit taking zone start here at one eighty.
+[27:25] And when many of you are up three X on your risk, you know,
+[27:30] the profit to buy a hedge is only a common sense thing to consider.
+[27:35] You know what?
+[27:36] We never want to, you know, look the gift horse in the mouth when
+[27:41] when you have a easy layup like this one has worked out to being anyway.
+[27:47] The one that turned up a little bit today is a deer.
+[27:51] It's really taken its time to start working.
+[27:54] But like, look, it's done nothing wrong.
+[27:57] It's tested its fib zone.
+[27:59] It's trying to get back above its 50 day kind of sucks that it didn't start working
+[28:04] sooner, but there's absolutely no reason to pull the plug on it either.
+[28:09] And so so, you know, this this thing is is working.
+[28:14] And like when you look at all of it, like nutrient trying to break out
+[28:18] of this retracement, like another breakout trade candidate for sure.
+[28:23] Then you you take a look at, you know, CF Industries, trying to break out off
+[28:29] of that retrace ADM.
+[28:33] Oh, wow. Well, thank you very much.
+[28:35] How many? Oh, yeah.
+[28:36] Melanie, you've been in.
+[28:38] How many of you have been playing the Archer Daniels?
+[28:41] Like what a great move, obviously, on earnings.
+[28:45] But the thing is, is ripping.
+[28:50] Yeah, look at a bunch of smiles out there.
+[28:53] Perfect.
+[28:55] Nonetheless,
+[28:57] it's certainly a beautiful
+[28:59] move on the upside.
+[29:01] And, you know, now, like the measured move on this one here is is already completing.
+[29:08] So those of you, you know, you could seriously consider locking it in,
+[29:12] not necessarily by selling, but this is usually when we like to color
+[29:16] things up when they enter measured moves.
+[29:18] So definitely a measured move candidate nonetheless.
+[29:22] Now, what are some of the ones we're watching?
+[29:25] Well, I'm going to give you a spoiler.
+[29:27] It is very likely we're taking
+[29:29] a long term bull position in Eli Lilly tomorrow.
+[29:33] Now, obviously, the most tricky part is it's a thousand dollar stock and it makes
+[29:38] it challenging for a lot of members to to throw money at it just because of the
+[29:44] sheer price point in the end, what we'll do is we'll maybe consider a long dated
+[29:50] bull call spread playing a longer term position kind of combination on this thing.
+[29:55] But what we had with Lilly was a beautiful
+[29:58] fib retracement and a beautiful earnings beat gap higher with a lot of positive news coming out.
+[30:06] Another one that did an interesting gap higher.
+[30:09] And by the way, if any of you want to look
+[30:11] at any interesting setups on earnings reactions, feel free to start typing them
+[30:15] in, but you can see Coca-Cola, what's it called?
+[30:19] Did a 50 percent retrace.
+[30:21] Beautiful gap on the upside, on its earnings holding above its 50 day.
+[30:27] What I love about this is that
+[30:28] the 20 implied means that the buying the protection is like being given away
+[30:33] for free, right, like it's super cheap on that.
+[30:36] Oh, absolutely.
+[30:38] Tom Cameco came out this morning.
+[30:40] Thanks for bringing that up.
+[30:41] Tried to bullishly follow through on its earnings.
+[30:45] Hasn't done anything wrong, though.
+[30:46] Like, look at the way Cameco generally
+[30:50] held the on the mark retrace for a one twelve test of the sixty one point eight
+[30:55] and staying above its 50 day.
+[30:58] And while it's not a strong bull reaction
+[31:01] on its earnings, it certainly it certainly did start to to follow through.
+[31:10] So nice to see that reaction as well.
+[31:13] Another one that I was watching was Johnson Controls.
+[31:17] This is one of these kind of
+[31:21] industrial names that are in the in that construction business and things
+[31:28] like this. And you can see here after a fib retrace,
+[31:32] the things working higher, it's about to come up with its earnings tomorrow morning.
+[31:36] And so it'll be very interesting to see if it can stick to fifty two week highs.
+[31:41] That could be sending this thing
+[31:45] on on the upside.
+[31:47] And so let's let's watch how that continues to to develop there.
+[31:53] But that's, again, some of these like super interesting ones that are out there.
+[31:57] Another one that I'm watching is Southern Company.
+[32:02] Again, the volatility is low, which makes it relatively easy to play.
+[32:07] But it had a bullish breakout on its on the upside of its earnings.
+[32:13] And after what is as classic of a master's
+[32:17] program set up of a 50 percent retrace, it'll be very interesting to see whether
+[32:22] these electrical utility names can get potentially going.
+[32:27] Another one that's going to be super
+[32:29] interesting to watch is when the earnings come out on VST.
+[32:33] And I know, Amit, that you're waiting for this one more than anyone else.
+[32:37] But we've got its earnings coming out on Thursday morning.
+[32:41] And and will be very interesting to see
+[32:45] whether it can actually bullishly break out or whether this fib zone fails.
+[32:52] It's going to to me, if the if the reaction is bullish, immediately
+[32:57] creates a breakout that puts this thing in motion.
+[33:03] And sadly, if this thing in any way gives out these fib zones and and a new downtrend.
+[33:09] Well, I hope you're hedged there, Amit.
+[33:11] But we'll we'll see.
+[33:12] I'm not going to put on any trades till we're we're in the post earnings period.
+[33:17] But this is truly kind of one of these that may the earnings may play an important
+[33:22] catalyst for setting in motion a trend off of what is a very
+[33:27] interesting tactical spot.
+[33:30] Anyway, that was the stocks I was thinking about.
+[33:33] By the way, these shipping stocks are still running.
+[33:37] Like, look at the way how many of you are in the shippers?
+[33:40] Because look at the way the TNK did a sixty one point eight.
+[33:44] This flagging formation held the 50 day perfectly.
+[33:49] And like all of these measured moves, keep these shipping stocks in play.
+[33:55] Obviously, this there's going to be
+[33:57] shipping gluts that continue to to, you know, plague the world due to the
+[34:04] kind of bottlenecks that have occurred in the straight point here is that, you know,
+[34:10] TNK looking half decent, obviously the big story.
+[34:15] The problem here is that you have your earnings coming out on TK.
+[34:18] Sting broke out.
+[34:20] Its earnings just came out.
+[34:22] And and this thing is running like look at after that 50 percent retrace.
+[34:27] It's like.
+[34:27] It's like an autopilot back to like towards one hundred bucks now on the upside.
+[34:32] Full, full on rally going on there.
+[34:35] I know, Dennis, you're talking about the bulk shippers, right?
+[34:40] Same same chart, obviously earnings still ahead, but looks like the same set up
+[34:45] as TK tankers, right, which is these things are measuring up to like the thirty
+[34:49] thirty one dollar levels on that.
+[34:52] No, Baxter,
+[34:55] what's called Cuppie has not touched Sting.
+[34:57] It's been like three years or what is it, four or five years.
+[35:00] It's been like forever.
+[35:01] He has he's left that
+[35:05] and let that ship sail away with him not on it anyway.
+[35:10] Mass.
+[35:12] It's time for you to jump on here, buddy.
+[35:14] Hello, hello. What is it that we need to talk about?
+[35:17] Well, look, it's the breakout trade day.
+[35:20] So let's just go through some more stocks.
+[35:23] Let's go through Dede here.
+[35:28] Yeah.
+[35:29] Again, nice earnings reaction on DuPont.
+[35:31] So overall, what I like about this is
+[35:34] this thing held the retrace zone, obviously in this chemical space.
+[35:40] And so you have a bullish breakout.
+[35:42] Love it. Love it.
+[35:43] Love it. Love it.
+[35:44] It's it's a game on for DuPont.
+[35:48] We should amass.
+[35:49] We should put this one on our list to watch as well.
+[35:51] Like now, obviously Dow Chemical has been working its way higher since its earnings.
+[35:56] And so like these chemical stocks
+[35:58] are 100 percent still in play.
+[36:02] NMM.
+[36:04] NMM, that's a tongue twister.
+[36:06] NMM, yeah.
+[36:08] So Nancy, Mesil, Mesil.
+[36:10] OK.
+[36:13] The
+[36:15] all right. Yeah.
+[36:16] One of the again, one of these maritime shipping plays.
+[36:20] Same chart, same measured move up to like 80, 85.
+[36:24] Looking at B&O, but that's just the Brent crude.
+[36:27] Yeah.
+[36:29] That's just that's just one of the ways to play crude.
+[36:31] Yeah.
+[36:32] E.T. and I feel like that's another energy one.
+[36:35] I don't know.
+[36:36] Incorporation, more products.
+[36:39] So on its earnings gap down.
+[36:41] I don't like buying
+[36:44] on the mark on an earnings gap, but it is right on the fib in the 50 day.
+[36:49] If you're one, a rock star, a buy on dip on this thing.
+[36:52] It's it can't break below 380 period.
+[36:56] If it's below 380, you have no business being in it.
+[36:58] Yeah.
+[36:59] Uh, next, here's looking at Bitcoin.
+[37:04] Oh, Tristan,
+[37:08] he wasn't the only making me look at Bitcoin.
+[37:10] All right.
+[37:12] So
+[37:13] it's come up to to the fib zone.
+[37:18] And what were all of its previous
+[37:22] lows act as overhead resistance.
+[37:24] This is going to be a very important moment, like on the upside as to whether
+[37:28] or not this has turned the tide on their overall.
+[37:32] It's a risk on environment and Bitcoin gets bid during risk on periods.
+[37:38] And so till this market starts doing something bearish.
+[37:43] It's like I'm not bearish Bitcoin.
+[37:45] The one thing you have to say, though, is it's not really getting any love.
+[37:49] Like this is not impressive.
+[37:51] There is a shitload of things to be in that are moving way more.
+[37:55] It's it's not getting love.
+[37:58] Uh, looking at Pfizer.
+[38:03] So, yeah, the earnings came out.
+[38:07] Look, it might hold the fibs.
+[38:12] You don't want to see this thing legitimately trading below 26.
+[38:16] Well, in order to stay bullish,
+[38:18] Pfizer, consider the twenty six dollar level to be your line in the sand.
+[38:22] This thing's got to get back above twenty seven and stay there.
+[38:27] Uh, looking at coloring MP material.
+[38:33] Wow. Get the name.
+[38:35] Yeah, yeah, yeah. Let's let's have a let's have a peek at this.
+[38:41] So generally, I would say no.
+[38:48] Look, if MP materials breaks out of this range, this thing could be 100 bucks.
+[38:56] And what are you going to do? You're going to sell your covered call and
+[38:59] cut off that upside now, like when you play these ridiculously highly volatile plays,
+[39:08] trying to reduce the cost of your hedge by coloring it in, I think as a bad
+[39:15] proposition, because these things have redonkulous right tail potential.
+[39:20] And and you basically trying to call the top on it.
+[39:25] And more importantly, if you're in this with a leap position, why would you
+[39:29] need to hedge?
+[39:31] Right, because you already have convexity in the leap.
+[39:34] If you're in the stock, then I guess, you know,
+[39:37] if you want to have a trailing protective put somewhere.
+[39:40] But I'm reluctant to tell you to use a short call up above to reduce the financing cost.
+[39:48] What else we got here?
+[39:50] CRWD CrowdStrike.
+[39:56] Yeah, reversing off of its lows, you know, it's going to come to some critical
+[40:01] resistance right here, like we'll find out at 480 whether this is a fib retracement
+[40:06] or a new bull market means holding above its 50 day, which is the first positive.
+[40:12] Looking at both the boat ETF.
+[40:15] Sorry, what boat boat?
+[40:18] Yeah, so again, just like a shipping basket, it's it's going higher.
+[40:23] Like the rest of them,
+[40:25] LMT and RTX, looking at some defense contractors here.
+[40:28] Yeah, they're sucking.
+[40:30] And they broke badly.
+[40:31] And there's zero sign of them reversing.
+[40:35] Consider them to be in the same position as gold, which is like, for instance, look at RTX.
+[40:41] RTX went through a two year bull market that was resembles gold.
+[40:46] And what we now have seen is that they have legitimately reversed.
+[40:52] Now, that doesn't just like I'm not bearish gold long term.
+[40:57] I'm not bearish these defense contractors long term.
+[41:01] But the primary bull trend has reversed.
+[41:05] And after a distribution cycle on its high, it's going through some form of a bearish decline.
+[41:11] And there's zero evidence it's over.
+[41:14] I would leave these all alone.
+[41:16] Don't touch them.
+[41:17] They've had their run.
+[41:18] And this correction could last months.
+[41:22] This is getting zero love during this bull market.
+[41:26] And I'd consider that a warning.
+[41:29] CMBT.
+[41:31] CMB.
+[41:34] BT.
+[41:35] Yeah.
+[41:37] OK, so not sure what another shipping.
+[41:40] OK, so I've never looked at that one either before.
+[41:43] People love the shippers today.
+[41:45] Listen, it's a great trend.
+[41:47] And look, the fundamentals are going to stay good for four months because it's not like shipping rates are going to go down anytime soon, even if the straight reopens.
+[41:57] I think they're in money printing machines here for months more.
+[42:01] Like, I have no objection.
+[42:03] So you're playing shippers.
+[42:05] Looking at Alcoa.
+[42:08] So it's right at the fib.
+[42:11] Look, this thing's got to hold the line and get back above its 50 day and turn higher.
+[42:17] I'm still structurally bullish.
+[42:19] And but this 50 day is going to be the arbiter of this trend.
+[42:24] And looking at S.Y.K.
+[42:28] And by the way, I want to OK, so a striker corp.
+[42:32] Obviously, a very nasty drop.
+[42:35] But the thing is, is that this thing is pretty much now finishing this measured move on this earnings gap down.
+[42:42] So it's one of these scenarios.
+[42:44] If you're in it, it's kind of too late to sell.
+[42:47] I wouldn't buy because there's zero evidence of a basing formation.
+[42:51] And so it's one of these things you could put on your watch list and and, you know, see, you know, what what starts to to develop there on on that front.
+[43:02] Right.
+[43:02] But like it's obvious I'm not familiar with the story in terms of why they're not doing well.
+[43:10] And but I wouldn't just based on the technicals be in a rush to, you know, catch a falling knife on this thing just yet.
+[43:18] I want to briefly mass just pivot for a second.
+[43:21] Copper looks like it's about to bull break out.
+[43:24] Right. Like, look at this.
+[43:26] Thirty eight percent retracement in a very distinct flagging formation
+[43:31] for a bull continuation.
+[43:33] Copper actually looks like it's ready to go.
+[43:36] What's crazy, though, is copper stocks look like shit like Freeport,
+[43:41] McMorrin, not budging after a nasty little spill here.
+[43:46] Southern copper, you know, is broken back below its 50 day and toying with breaking down below its fib.
+[43:54] These copper stocks are not getting any love.
+[43:57] And so it's one of these things like, will they all
+[44:01] reverse if copper goes?
+[44:03] It's a little interesting.
+[44:04] Like right now,
+[44:07] you know, playing copper itself for the breakout looks interesting.
+[44:12] Will the copper stocks join the party is the puzzle to solve.
+[44:16] And looking at Aero, that's A-E-R-O.
+[44:25] So.
+[44:27] The Aeromexico, the airline, eh?
+[44:30] Nice. I've flown it numerous times.
+[44:32] I didn't know.
+[44:33] In public. There you go.
+[44:34] You got a flagging formation.
+[44:36] Look, my problem here is that almost every airline failed to legitimately hedge fuel costs.
+[44:44] Now, can you tell me right now that that oil is not going higher and that the
+[44:51] airline fuel situation is not going to get tighter?
+[44:55] All of these are going to be highly sensitive to it.
+[44:58] So whether you like this pattern or you don't like this pattern as a flagging
+[45:02] formation,
+[45:03] I'm not sure that this is the right time to be dicking around with with airline stocks.
+[45:10] Hood.
+[45:12] We'll finish with a few more here, Pat.
+[45:14] Yeah, yeah.
+[45:14] Let's lightning round all of them.
+[45:15] I see a bunch of these in here.
+[45:16] Just keep going.
+[45:17] Hood, like a gap down on earnings.
+[45:20] Pretty bearish.
+[45:21] H-L.
+[45:24] You know, dragging its heels like every other miner, like precious metals miner.
+[45:29] G-F-S.
+[45:34] Global foundries.
+[45:35] I mean, that's a rip, but you can't buy it now.
+[45:37] It's a it's been a great move.
+[45:39] Congratulations.
+[45:39] You've been in
+[45:42] F-S-L-R.
+[45:46] So it's turning up in the post earnings period.
+[45:50] Look, I personally am not a fan of this company, but I am a huge fan of this chart.
+[46:00] This chart pattern is exactly what we look for and what we want in stocks like
+[46:07] for instance in VST to look like for us to trade it on its earnings.
+[46:12] The thing turned up first time legitimately trading above its 50 day moving average in three months, basically all year.
+[46:18] And and this downtrend was this big retracement.
+[46:22] Look, I don't hate the idea of this thing ripping back to its highs.
+[46:26] I don't know if you want to bet on it going to 52 week highs.
+[46:29] But would I be shocked if you saw this at 250 or 270 again?
+[46:33] No. Like, I mean, you could definitely dabble with the with this as a.
+[46:37] As a potential turnaround trade.
+[46:43] Um, what was I want to look at here?
+[46:46] I, I, sorry, ISRG, Intuitive Surgical.
+[46:52] You know, it beat on its earnings, gave it all back.
+[46:55] Why?
+[46:56] This is this is price action that makes me nervous because that bullish reversal
+[47:01] it had on its earnings should have started a new accumulation cycle and instead the money sold.
+[47:07] But into it, driving it back to its lows, not the price action that makes me interested.
+[47:14] A Dow, would you consider closing the collar we have on?
+[47:19] Yes, this is looking like it's bullishly coming higher.
+[47:25] Now, obviously, it's all a May expiration.
+[47:28] So it's like you're you're kind of playing a game of, you know, will it break out before the expiry?
+[47:34] But rest assured, I remain long term.
+[47:37] It's a bullish Dow and I do not want to lose it by letting the short call get in the money.
+[47:44] Let's talk about BTU as it kind of continues breaking down.
+[47:48] Also, how are these coal names?
+[47:51] The coal names have been shit.
+[47:52] The earnings were disappoint actually came out today like it didn't break a fib zone.
+[47:59] But this is a stock that's selling.
+[48:01] It's like it's like the defense contractors.
+[48:04] Hard to justify telling someone to keep sticking with this.
+[48:07] I think it's the IPI.
+[48:11] Before we do that, ARLP, thanks for pointing that Joe came out with its earnings reversed.
+[48:17] But this has been a much more boring coal name.
+[48:20] BTU is like this high, highly volatile, highly leveraged play on coal.
+[48:27] And ARLP has been like boring as hell for years.
+[48:31] But, you know, it gives you the dividend and gets going.
+[48:34] So IPI, like the again,
+[48:37] retrace here on these potash names might be ready to go on the upside.
+[48:42] Mass, I'm going to quickly just show UPS disappointing on on its earnings.
+[48:47] This gap down opens the window for it to go for a full double bottom retest of 80 bucks.
+[48:55] Like this is definitely on the short term vulnerable for that breakdown move on that.
+[49:02] I know some people are looking at STX like, look, you can't chase
+[49:07] these Seagate like these are these AI kind of storyline tech names that have
+[49:13] run like they stole something like what can you do at this point?
+[49:16] It's either you've been in and congratulations are due versus it's too late to buy.
+[49:22] Well, we got to finish it there back because we've got to get off our webinar here.
+[49:25] Absolutely. Listen, everyone,
+[49:27] let's find out whether, you know, again, I think that this Nvidia trade will carry well.
+[49:34] But I want to emphasize if it doesn't
+[49:37] start working, we're not sticking around for its earnings play unless we are proven
+[49:42] that the idea is working and we'll have more.
+[49:47] Very likely that tomorrow we're going to publish a trade on Eli Lilly.
+[49:51] So come back in tomorrow.
+[49:52] We'll talk about some of these longer term positioning.
+[49:55] All right. So have a good trading day, everyone.
+[49:58] All right. Take care, everyone.

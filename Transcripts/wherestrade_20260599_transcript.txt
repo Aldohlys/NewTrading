@@ -1,0 +1,679 @@
+# Where is the Trade — 20260599
+# Video ID: 1190177342
+# Source: https://player.vimeo.com/video/1190177342
+# Audio duration: 3200.0s
+
+[00:02] All right. Welcome, everybody, to the Master Member Q&A. It is Thursday, May 7th, 2026. Patrick, how are you doing today?
+[00:08] I'm very good. Very good. Listen, I know we have a bunch of questions. I just wanted to share one quick thing with members before we get to the first question.
+[00:16] As long as it's quick.
+[00:17] Yeah, it's quick. I just want to show this Zero Hedge article talking about referencing a Brian Garrett Goldman trader that puts out notes.
+[00:28] And there was a record-shattering $2.6 trillion of notional calls traded yesterday on the S&P.
+[00:38] 2.6 trillion notional.
+[00:41] Now, with almost 60% of every S&P option yesterday being a call option.
+[00:47] And just to give you just a quick chart showing it, like this is off the charts kind of call buying activity.
+[00:55] So when we were at Where's the Trade talking about the FOMC.
+[00:58] Of getting into this market, you're seeing that reflective in the options activity.
+[01:05] And now remember sentiment and crowding.
+[01:08] We did two modules just on this very topic.
+[01:12] And obviously, when people are buying calls, what do you think the dealer has to do when they're short the calls?
+[01:21] They're going to have to hedge, which creates the buying of the market, driving the short-term momentum.
+[01:28] Listen, crowding does not make the trade immediate, but it certainly gives you an idea of the innings of where we are, right?
+[01:37] All right, let's get into it.
+[01:41] I guess you know what?
+[01:42] Let's get into Ernie's question first, where he said, what is the best way to hedge in the futures market contracts?
+[01:47] I mean, yeah, just a general question.
+[01:52] Best way to hedge in the futures?
+[01:54] In the futures market contracts.
+[01:56] So I'm assuming.
+[01:58] There's options on futures.
+[02:00] And so you would hedge them just the same way as stocks.
+[02:03] It's literally, there's nothing different fundamentally between it, right?
+[02:07] Like when you own a crude oil futures contract, you can buy a protective put right at the money, just the same way we do.
+[02:16] There's nothing fundamentally different, just different multipliers.
+[02:19] But it's still, the ratio is the same in a sense.
+[02:23] And if you had a specific situation, you can definitely mention it.
+[02:26] But yeah, sometimes also you just need.
+[02:28] You need to let your broker allow you to see them sometimes.
+[02:38] Ernie, you basically have to ask a much more specific question.
+[02:40] Ask for permission.
+[02:41] Sorry, I was going to say.
+[02:42] You sometimes have to ask for permission to even see them, depending on your broker.
+[02:47] All right, let's go here.
+[02:48] Nico, he was saying, could you take us through an example calculation, how to adjust a pair of trade for both volatility and price of the stocks involved?
+[02:57] So he's saying as an example.
+[02:58] So like a ratio trade.
+[03:00] Yeah, like a long, or no, I think he means like two different assets, actually.
+[03:03] Like he's like long XLK, short XLP.
+[03:07] Yeah, it's a ratio trade.
+[03:08] Like long technology against the short, let's say, consumer staple name.
+[03:14] So look, there's the dollar neutral way, right?
+[03:18] And the dollar neutral way is simply to do equal dollar amounts.
+[03:23] But let's just hypothesize that the technology basket.
+[03:28] Is that the technology basket, you know, is twice as volatile, right?
+[03:39] And so you would literally multiply the implied volatility through the weighting.
+[03:46] And so if, let's say, the XLK has twice the implied volatility of the XLP, you might end up being, let's say, long.
+[03:58] 33% of the energy index, sorry, the technology index, and be short against 66% of the, what's it called, the consumer staple index.
+[04:11] So you can weigh them through.
+[04:12] I mean, look, I wasn't prepared to pull out the math, but it's a basic multiplier through to either you're vol adjusting them in terms of multiplying them through by their weighting is sized by volatility.
+[04:27] Or by notional dollar amount.
+[04:31] Moving on to Anthony, he was saying, when considering position of sizing for a long-term bull call spread, do you consider only the long leg or the net of both long and shorts for, again, for sizing?
+[04:42] So for instance, in the CCT tracker, we use.
+[04:44] Okay, go on.
+[04:45] I get it.
+[04:46] So look, it's, I don't look at it as a bull call spread.
+[04:50] I look at it that we have a call option.
+[04:56] That is our replacement.
+[04:57] For the stock security.
+[05:00] And we're selling a short-term call far away out of the money.
+[05:04] Yeah.
+[05:04] To basically help bring down the carry cost.
+[05:08] I don't look at it from a spread perspective when it comes to commodity trading.
+[05:15] So I basically would own the same amount of the GL.
+[05:20] In this case, you were talking to GDX that I would have if I didn't have the short call.
+[05:25] Like in the end, you're sizing your position.
+[05:27] You buy it based on how much exposure you want to gold and consider that.
+[05:32] And don't forget, like if let's say the GDX starts ripping, we may just close the short leg and not keep it.
+[05:39] You can't assume, you know, that the net spread is going to be held that way through maturity, right?
+[05:48] Next here, Alexi was saying, well, first of all, thank you for the great.
+[05:52] Where's the trade sessions?
+[05:53] I mean, I'm not sure actually what he sent in this, but he thanks you for the analysis.
+[05:57] And his question now is, our breakout trades don't always get sufficient upside momentum quickly enough to be profitable, but so far I have not seen any of them gapping downwards either.
+[06:06] Therefore, would a Hail Mary risk reversal trade be worth considering instead of the traditional Hail Mary call?
+[06:13] For bullish breakouts, this would mean buying an out-of-the-money call and financing it by selling an out-of-the-money put instead of simply buying the out-of-the-money call.
+[06:23] Well, okay.
+[06:24] I mean, there's different definitions.
+[06:27] Like in terms of financing.
+[06:29] Look, you're not, when you sell a put to define, what you're actually doing is not a risk reversal, but that's a split strike synthetic, which is basically your out-of-the-money call finance with an out-of-the-money short put.
+[06:54] Remember that when you do an at-the-money call with an at-the-money short put.
+[07:01] You are actually dealt a one synthetically long.
+[07:04] You've created a replica of the market.
+[07:07] And so by you widening the strikes, you're just doing a split strike synthetic.
+[07:12] That's fine.
+[07:14] I don't see a problem with that other than you're not doing a defined risk.
+[07:20] Understand that when we're doing breakout trades, we are limiting the risk to a thousand bucks.
+[07:26] What you're basically doing is taking on virtually no risk.
+[07:31] At the money, but you have a left tail downside and the one stock that does gap down, you're going to have equity style downside risk on that security.
+[07:43] And that's a trade-off.
+[07:45] So it is, it's not right or wrong.
+[07:47] If you want to trade that way, you just are accepting that you're going to have very little bleed and carry for the vast majority of the trades.
+[07:56] And you're going to have one hand grenade.
+[07:57] That's going to be given to you once in a while.
+[07:59] All right.
+[08:01] Joe, start with the question with, yo, I have a few questions about securing profits.
+[08:05] Yo.
+[08:07] About securing profits.
+[08:08] Don't yell at me, buddy.
+[08:08] That's what he said.
+[08:09] He said, yo, I have a few questions about securing profits and taking a risk out of the trade.
+[08:13] So I gave it a bit of a interesting tone.
+[08:16] Anyways, he said, when a bull call debit spreads in the money.
+[08:19] So when a bull call spread is in the money, can you roll up the long call to take risk out, secure some profits?
+[08:26] What are the upside and downside of doing this?
+[08:28] Obviously, you open up.
+[08:29] The short call risk, really.
+[08:31] But, yeah, go on.
+[08:32] Well, I mean, you're extracting intrinsic value, but increase the amount of time value outlay, right?
+[08:40] Because you're only going to be able to roll up the call to extract a certain amount of the intrinsic value at the tradeoff of the time value.
+[08:50] And so by you rolling up, you're now may have originally paid $2 for the first amount of time value.
+[08:58] And when you roll.
+[08:59] You may have to end up paying an extra dollar, $1.50 for the of additional time value.
+[09:05] And while you pulled out intrinsic value, you've structurally increased the time value component.
+[09:10] That doesn't mean you can't or shouldn't do it.
+[09:12] It's just but it's actually an interesting exercise to do on a simulator where you can, you know, first of all, put original trade and then on a second screen, replicate the adjusted trade at that time.
+[09:28] And see how they behave differently against each other from that point on.
+[09:33] Hmm.
+[09:34] Yeah, very interesting, actually.
+[09:37] And then you said with a let me see if you had more about that with a breakout trade using a synthetic, for example, 80 delta input hedge.
+[09:43] As long as it calls profitable, can you roll the long back to 0.8 secret profits and remove risk?
+[09:49] So, yeah, effectively.
+[09:51] The answer is yes.
+[09:52] Yeah.
+[09:52] Remember, whenever you're rolling, if you're rolling intrinsic value out, it's going to come at a cost of adding time.
+[09:58] Value.
+[09:59] Yeah.
+[09:59] But but I've never been opposed to members, you know, having a rolling a position towards risk free.
+[10:09] Right.
+[10:09] Like doing attack, like, for instance, right now on on the trade, let's say on Nvidia, right?
+[10:18] Like, in theory, you can roll the like, let's just have an example on it.
+[10:24] I'm just going to pick on Nvidia because it's just so fresh.
+[10:27] Right.
+[10:28] And so.
+[10:28] The two hundred eleven.
+[10:29] So we basically saw this rip of twelve hundred bucks on the upside.
+[10:35] Now, the hedge lost four bucks and and but the stock made twelve.
+[10:43] Now, this is not the same example as what you were giving.
+[10:47] But like notice here that if I right now, let's say, looked at a at the money to ten put it's let's say eight bucks.
+[11:09] Right.
+[11:10] And so what what you can observe here is what I can do is lock in a guaranteed ten dollar intrinsic value because I bought the stock at one hundred and ninety eight and I'm securing a guaranteed two hundred and ten dollar sale price.
+[11:28] Right now, so I'm a guaranteed actually eleven dollars and thirty cents of intrinsic value guaranteed to be realized.
+[11:37] But my original nine dollar premium that I paid.
+[11:41] I have to account for now the additional four dollars I paid in additional time value.
+[11:48] So in the end, I've secured basically eleven dollars of guaranteed capital gains against having now spent thirteen dollars on premium.
+[11:59] Right.
+[12:00] So now I've reduced my risk to just two dollars.
+[12:04] I can literally hold Nvidia into an earnings gamble, have a hundred percent of the upside.
+[12:10] And at this moment.
+[12:11] If it goes screaming, gapping down lower, I only lost two bucks.
+[12:15] So you what you and it's the equivalent.
+[12:18] It's the equivalent of rolling up and in the money call, because remember, that would be the synthetic point being there's no shame in doing that.
+[12:27] But notice what we did.
+[12:29] We we outlaid the hedge cost from being nine dollars to being thirteen dollars.
+[12:34] But we got a guaranteed intrinsic value in the process of that role.
+[12:41] Right next to you.
+[12:42] But for Holly.
+[12:42] You're saying several weeks ago, I rolled most of my commodity leaps to twenty twenty eight as an indirect hedging strategy while monetizing the gains at the same time.
+[12:50] Given that BPT has not made any hedging moves in most of our commodity leaps.
+[12:54] Was I pretty sure?
+[12:55] No, we're we're already being do where we haven't got around to.
+[13:00] But this is the window.
+[13:01] This is one hundred percent the window for this is nothing wrong with what you did.
+[13:04] We're going to be joining you in a very short window.
+[13:08] All right.
+[13:08] Emmanuel here saying thank you both for this week's great lesson.
+[13:12] I appreciate you showing us your great work.
+[13:15] There was a question on the question on systematic trading.
+[13:17] My question.
+[13:17] Are there good data sources free or affordable to observe the flow of capital across asset classes, markets and sectors while this happens?
+[13:24] Instead of realizing instead of realizing it in the rear view mirror, that would be a timeframe of hours today.
+[13:29] I don't know if you have posted the knowledge repository somewhere about this, so that systematic flows and things like that.
+[13:36] Look, it is a daunting task to try to do these calculations.
+[13:40] So.
+[13:41] I don't know.
+[13:41] I don't know.
+[13:42] ourselves. And there, as far as I'm aware, is no active service for retail investors to access.
+[13:52] The primary way that I attain this information that I share with members is with the institutional
+[14:02] notes that are available at Zero Hedge that come from like the Morgan Stanley's and Goldman Sachs's
+[14:10] and all of these other institutions that have their quants. Like, you know, I get a note from
+[14:18] Charlie McElligot at Numura. And so I share the insights that they share, but I'm not aware of
+[14:26] any raw data where you can basically go get this data and be able to make these assessments on
+[14:36] your own.
+[14:40] And you must have a special subscription for Zero Hedge? No, it's the same as...
+[14:44] No, you just have to pay for the subscription. Now, listen, I always share, like, listen,
+[14:52] if you want to subscribe, you can subscribe. But I promise you that anything that's worth
+[14:56] noting, you'll always hear from me. So, like, I mean, it's all about whether or not you just want
+[15:01] to scour for the information yourself.
+[15:06] Right. Next question here by Tim. What are the ways I can hedge?
+[15:10] A physical gold position. And how would I even go about sizing something like that?
+[15:18] Well, it's very simple. You just multiply the dollar amount, right? Like, if obviously,
+[15:24] if you got less than 100 ounces of physical gold, then that becomes...
+[15:35] Oh. Hello, Patrick. Did you guys lose Pat?
+[15:43] Hello. Hello. Okay.
+[15:47] Yeah, very odd. We'll see. Maybe something happened.
+[15:50] Let me quickly just message him here and I can take...
+[15:56] Literally did this exercise. Yeah, Patrick, we lost you the whole time
+[16:00] while you were answering this question. Really?
+[16:05] Yep. Anyway, I'm back though, right?
+[16:08] Yeah, go on. Yeah, go on. So, we'll just start from the beginning now.
+[16:13] Yeah, I know. All I was just going to say is you just need to know your multipliers.
+[16:20] And like, in the end, if you own a quarter of a million dollars of physical gold,
+[16:25] you just have to construct a hedge that is giving you a notional hedge on a quarter of a million dollars.
+[16:34] And so, as an example, I did something similar, which the CGL in Toronto, which is the gold bullion ETF.
+[16:46] I had...
+[16:48] I was helping...
+[16:48] I was helping...
+[16:49] I was helping...
+[16:50] a friend basically calculate it and they were hedging with the GLD,
+[16:57] but they were basically owning the CGL in Canada.
+[17:02] It's even though it's US dollar based in Canada, but they were using the GLD to actually hedge.
+[17:09] Now, just imagine that CGL was physical gold. It would be the same calculations.
+[17:13] It's just you have to calculate your notional exposure and then buy the equivalent amount of notional hedge.
+[17:20] So, it's just you have to calculate your notional exposure and then buy the equivalent amount of notional hedge.
+[17:21] Yeah.
+[17:21] All right. Next here, we got Andrew's question.
+[17:24] Pat gave a video session on buying US government bonds on the IB platform.
+[17:29] It may have been...
+[17:30] Can he review this or perhaps share the video link and publish it to the BPT group, please?
+[17:35] So, yes, that was posted on the Cashflow Compounder side of things.
+[17:40] I don't know if you quickly want to show that here.
+[17:42] It's not enough time, Patrick, but...
+[17:44] Wow.
+[17:44] May I know how to...
+[17:46] Like...
+[17:49] You know what?
+[17:49] Let's...
+[17:50] Let's – Mass, I actually think that that might not be a bad thing for us to just make a special video and post it in the bonus content because it's just a basic thing of looking up how to buy the treasuries and adding them.
+[18:05] And I think it would be good to have something more timeless than just a quick answer.
+[18:11] Oh, that sounds good.
+[18:16] Okay, next question here by Brent.
+[18:18] I noticed that the U.S. mega caps now have listings on the TSX as CDRs using the same ticker.
+[18:23] I was wondering what your thoughts were on these as they also have options.
+[18:26] Could these be used as a proxy when capital is limited or FX is an issue?
+[18:30] So I'm guessing as a Canadian investor, for example.
+[18:33] Yeah, of course they can.
+[18:35] I mean, in the end, CDRs are like ADRs.
+[18:39] Like in the end, they are tracking the mega caps and it's just giving you – I mean, there's just currency risk, right?
+[18:46] Like I'm not sure whether –
+[18:48] I'm assuming that they would be tracking the U.S. dollar performance.
+[18:53] Thanks, Damon, for posting.
+[18:55] He just posted a video on that.
+[18:57] So yeah, thanks for posting that, Damon.
+[18:59] If any of you want to watch that, that's the short hack on how to do it.
+[19:05] But just going back to this, there are no risks.
+[19:08] You either want exposure to the mega caps or you don't.
+[19:10] And if you do, then the CDRs are – there's no risk different than actually owning them.
+[19:19] Next thing here, Susan.
+[19:21] From the options tutorial, the content mentioned that the short butterfly was good for parabolic conditions.
+[19:26] Could you explain further what you meant by that?
+[19:31] Yeah, options tutorial.
+[19:34] So you mentioned how taking advantage of short butterflies was good for parabolic conditions.
+[19:38] So I think you just meant like going out the money, I believe, or maybe even in the money depending on how you structure it.
+[19:43] Yeah, yeah, yeah.
+[19:44] Okay.
+[19:46] Yeah, I was –
+[19:48] I mean, this is going to be like a –
+[19:51] Yeah.
+[19:51] 20-minute session if we go too deep on this thing like in a simulation.
+[19:56] Look, when you open a butterfly, it creates a V-shape payoff where whether – when you're short the legs on the – in the body and you have – you bought the outside legs, you're – you want to think that you're –
+[20:19] but to play in a parabolic –
+[20:21] Parabolic condition.
+[20:23] Well, I guess the – what I meant – I'm just trying to remember when I said that in the context of which I said it.
+[20:31] Sorry?
+[20:31] Probably when you're talking about Avis, that tutorial when we went through.
+[20:34] Yeah, but I wouldn't have talked butterflies on Avis.
+[20:37] Unless it was a question.
+[20:38] That was a followed up.
+[20:39] No, I don't think you went deep into it.
+[20:41] No, but the point being that I can only imagine that I would have said parabolic conditions that the – that that would be good is –
+[20:51] simply because it's a very small capital outlay maybe.
+[20:58] Legacy option butterflies.
+[21:01] Oh, my God.
+[21:02] Susan, I'm so sorry because I don't know the context of which I said that back then.
+[21:07] I say a lot of things.
+[21:09] If you want to email me which tutorial that is, Susan, I can review it to an answer.
+[21:13] Yeah, we can dig it up.
+[21:15] Like I'm going to obviously be covering butterflies in these master's programs in the months.
+[21:21] Months to come.
+[21:22] And we're going to, I'm sure, cover a lot of topics.
+[21:24] But I apologize for not knowing the context of that.
+[21:29] I'm sure –
+[21:31] If you want to link me the video, though, I will – I'll get back to you an answer.
+[21:34] Here, I'm just going to put my email so you have it.
+[21:37] Sure.
+[21:38] And we'll come back to it, Susan.
+[21:39] Yeah.
+[21:40] Tom here was saying, if you have a lot of long positions in oil stock, mainly Canadian, how would you best protect your gains at this point?
+[21:46] Would you put in stops, buy some puts?
+[21:50] Classic.
+[21:51] Question about how to protect gains.
+[21:53] I mean, the debit callers are what I would be saying.
+[22:00] So let's – I'm just going to say, let's say Suncor, right?
+[22:03] I'm just going to put it on as an example.
+[22:06] $85 on Canada.
+[22:08] Like I would do debit callers, which is like you basically – let's say you're going out to June.
+[22:15] I'm just picking on June.
+[22:18] You buy the $80 put for $1.85.
+[22:21] And you sell like a $96 strike up $10 higher for like $0.80.
+[22:29] Now what you've done is you've reduced the cost down to $1, but you have a $5 downside with a $10 upside.
+[22:41] And so that right there is one of the – anyway, that would be the way that I would approach it.
+[22:51] You don't want to cut off the upside while you're doing that.
+[23:03] Mass, you're muted.
+[23:05] Oh, sorry about that.
+[23:07] Next question here.
+[23:08] We got Damon.
+[23:08] He's got two questions.
+[23:09] First one on bulk call spreads.
+[23:11] Note that I wrote this question on May 1st, so the price figures are out of date.
+[23:15] But the point remains.
+[23:17] So Patrick always says, accept no substitute for a bulk call spread.
+[23:20] But I hate bulk call spreads.
+[23:21] And now I remember why.
+[23:23] So on April 10th, Damon always has a story for us.
+[23:25] I love it.
+[23:26] On April 10th, I opened a 92-100.
+[23:28] Bulk call spread on June oil futures.
+[23:31] So that would be the CLM 2026 contract.
+[23:34] I also sold the 76 naked puts.
+[23:37] So it was pretty much free to put on the trade.
+[23:39] Everything expires on May 14th.
+[23:41] Even though the trade went in my favor, I closed it today.
+[23:44] I'd make about a – I don't know.
+[23:47] This word got cut off.
+[23:49] I'd make about, I guess, a portion of the profit versus if I hold to expiration.
+[23:53] Okay.
+[23:53] Yeah.
+[23:53] If I close it today, I'd make a portion of the profit versus if I hold to expiration.
+[23:57] So I either close.
+[23:58] I close now or I spend the next two weeks sweating it out.
+[24:01] Any guidance on profit-taking strategies in these situations or maybe another option
+[24:05] overlaid to lock in some level of guaranteed profit now or mindset shift that I should
+[24:10] make when evaluating these sorts of trade?
+[24:12] This exact situation is why I usually choose to put vertical spreads for speculating.
+[24:19] I don't mind them too much.
+[24:20] So, okay.
+[24:21] Basically, the frustration of spread traders is always that they say that they're going to put a lot of money into it.
+[24:28] But in their mind, they say, I did a $10 wide spread and I paid $2 for it.
+[24:35] I have a four-to-one payoff structure where I can lose two bucks and make eight, right, on a $10 wide spread.
+[24:43] The thing is that you mentally anchor that, therefore, I should make eight when I'm right.
+[24:50] And the thing is that almost nobody, very few people, ever hold a spread to its maturity,
+[24:58] which is the only moment you could ever realize eight.
+[25:01] And so even if the spread went in the money, you might be only making $5 or $6 profit against the eight.
+[25:11] And so what you want to think at this moment is you want to almost reframe it where you recalibrate your expectations,
+[25:23] which is if you're waiting to be making $8 on a $10 wide.
+[25:28] spread or something like this, then you're going to be very frustrated because you're not getting it.
+[25:34] But if you built this trade based upon the path from which spreads move in their net values,
+[25:46] then you know that if, let's say, oil hit $100 on your, let's say, $90 by $100 spread,
+[25:53] that your $2 spread will be worth $6.
+[25:56] Then you're actually...
+[25:58] So basically, I think the frustration comes that spreads don't behave the same as stocks.
+[26:08] When you have to think that when you're trading spreads, you have to say,
+[26:13] well, I'm trading a spread that's going to behave like a spread,
+[26:15] and all your target expectations need to be recalibrated with the behavior of spreads.
+[26:21] Does that make sense?
+[26:22] I hope that kind of answers.
+[26:26] In my experience, spread trading, I do them all the time.
+[26:28] I do them all the time.
+[26:28] I do them all the time.
+[26:28] I actually just assume 50% of my spread is my full profit, and that's helped me take profits way earlier.
+[26:35] Sometimes if I see half of it, I'll usually take it because it can happen quickly.
+[26:39] And at the same time, you also don't want to assume that your spread will also be a complete zero, right?
+[26:45] In the same way, as it's going down, you may not take a full loss, right?
+[26:51] And so while the ad expiration payoff might be $2 risk for...
+[26:58] $8 payoff, you might actually have a scenario where you're taking a $1.50 or a $1.25 downside risk,
+[27:06] and you're going to be realizing your profit potential around the $5 to $6 range.
+[27:11] You basically need to...
+[27:13] And the best thing is to use our simulator.
+[27:15] If you go into our simulator and simulate halfway through the trade, if your targets are hit,
+[27:21] what is the spread going to be worth?
+[27:23] And if it hits your stop levels, what will the spread be worth?
+[27:26] And then you make your payoff.
+[27:28] And then you make your payoff assessment based on that combination.
+[27:33] 100%.
+[27:34] And actually, there's the same reason why you're not achieving full profit so fast
+[27:38] is the same reason you're not bleeding as much of the downside.
+[27:40] So yeah, 100%.
+[27:42] I think that one mindset shift for me has improved my spread trading a lot more than anything else I've done before.
+[27:50] All right, let's go here to the next question on SOFR futures.
+[27:53] Patrick has been talking about SR3Z27 futures for a while.
+[27:58] I don't think we'll ever go back to ZIRP.
+[28:03] Zero interest rates.
+[28:04] Yeah, zero interest rates.
+[28:06] I do agree that we're unlikely to see rate hikes.
+[28:09] A couple months ago, I took a shot buying silver futures but got stopped out pretty quickly.
+[28:13] Any good ways to play this trade now with the level so depressed right now?
+[28:16] I'm thinking perhaps out, I guess, as he says, he means out of the money calls.
+[28:20] Or do we sit tight and wait for a better time to enter?
+[28:25] Who asked that question?
+[28:26] This is still Damon.
+[28:28] Sorry?
+[28:29] This is still Damon.
+[28:30] Oh, Damon.
+[28:31] Well, I mean, Damon, we did this great module on technical analysis just yesterday.
+[28:40] And I think that sort of answered the question, didn't it?
+[28:45] Right?
+[28:45] Which is we can build a phenomenal story around these SOFR futures, but the story is not being confirmed technically.
+[28:55] The flows, price action, and chart are simplified.
+[28:58] Currently not, you know, confirming the story.
+[29:03] So the story is a watch list.
+[29:05] And the time where that SOFR future trade becomes the trade is when we technically see the trigger.
+[29:14] And this moment, we have not seen something that has triggered a new buy signal on this.
+[29:28] Next here.
+[29:29] Next question is Bart's question.
+[29:32] I want to short BTC or IBIT and MSTR on a story of no intrinsic value.
+[29:37] And the first asset to decline in times of economic downturn, risk off.
+[29:41] It's been recently increasing in value.
+[29:43] Technicals point to resistance at 83 to 85K.
+[29:47] What would be the technical trigger?
+[29:49] Or at one point, would you recommend me to open shorts?
+[29:53] Well, okay.
+[29:54] We haven't gotten to the technical trigger.
+[29:57] Um, we, uh, we have not gotten to the technical trigger course yet, right?
+[30:03] Like we haven't done those modules, uh, on that, but let's, uh, let's just look at it from a, uh, let's say, uh, the, uh, Bitcoin chart perspective and talk, uh, some of the basic things that we do teach in the technical masters program.
+[30:20] And so, uh, what I want to, uh, what we stress is like, we like Fibonacci zones.
+[30:26] And so what you can observe.
+[30:27] Is that we just got an on the mark short on, uh, basically it testing what were its previous lows acting as overhead resistance, hitting a 61.8.
+[30:39] And so here you have an on the mark and on the stall short signal on Bitcoin, right at a key moment.
+[30:47] The point here is why it is a very good, uh, kind of technical point, uh, to act is, is that the risk management can be kept up to date.
+[30:57] I mean, uh, I'm not certain whether or not you've gone through the original technical masters course, uh, but, uh, we have very explicit rules on, uh, on how to set this trade up, but, uh, but this is a very interesting moment.
+[31:12] Now there are on the stall windows from which you could, uh, uh, you know, have confirmation of that.
+[31:20] You could theoretically, you know, wait for a break of this rising wedge to the downside.
+[31:27] You can, you know, wait till there's a violation of the moving averages.
+[31:31] There's all sorts of subs sub signals you can use, but the most asymmetric one is, is the fib zone and the fib zone is right here.
+[31:41] And this is coming right out of the, on the mark zone.
+[31:45] Uh, all right.
+[31:47] Next question here.
+[31:49] Um, Emmett was saying if they're okay.
+[31:55] Uh, go first question here about gold.
+[31:57] Eric Thompson selling.
+[31:58] His 50% position in gold triggered the thought for my core accounts.
+[32:01] Is it better to play a large synthetic 12 to 18 months long-term trades and roll to fib zones on major retracements for GDX or GLD or simply hold the asset outright?
+[32:14] So, um, again, I'm kind of trying to understand the situations that he's in.
+[32:19] So for example, he has core holdings in GDX at a target price of a hundred.
+[32:24] Um, and look at it.
+[32:28] We,
+[32:28] we in our commodity trading cycles have the convexity of leaps.
+[32:32] Uh, and that's for a reason, if you want to hold equities, uh, we have an entire program on how to overlay hedges and doing things like this.
+[32:41] I mean, you're asking for direct advice, like, uh, look, we demonstrate and publish based on using convexity of leaps in order to position ourselves in like that.
+[32:53] And so, uh, to, uh, to me, that's, um, that's the way that we are going to demonstrate.
+[32:58] I'm not gonna go and say no, but don't do it like us, do it like this.
+[33:03] Cause you're, you're doing it better.
+[33:05] Like in the end, if you want to hold the equities, just to use the hedging strategies, we teach, uh, to manage the risk.
+[33:14] Um, all right, moving on that to a second question on how, on ZG that Zillow, um, really raining, writing a large income in hopes of a break even on his Z.
+[33:27] stock so thesis was rates were going down housing up what are some recommendations to repair the
+[33:32] trade so i'm assuming that he's probably in the trade with equity and trying to repair through
+[33:38] income rights so he's saying he's income writing consistently so on it uh amit uh you know what the
+[33:45] one thing i'm going to do at this point is basically say you're in the asymmetric trading
+[33:52] program and a part of that is that when you build a story if it's technically not confirming
+[33:59] and there's a thesis fail then the question becomes why are you in it and if you uh want to
+[34:06] not have an exit and you want to stay with it you can do any number of things like hedging or income
+[34:13] writing to try to bring down your cost base but this stock is not have any technical confirmation
+[34:20] to be in it and you know
+[34:22] if you want to uh not follow the rules that we're trying to instill in uh in this asymmetric
+[34:30] program then you're just going to need to spend a lot of money on protection and or reducing your
+[34:37] cost base by income writing against it to try to get the break even i mean you're already doing that
+[34:42] and last question is about crypto so it seems to have like a core holding in the veto
+[34:48] uh would you consider taking profits at that retracement that big
+[34:52] retracement
+[34:52] around eighty five ninety thousand dollars exactly where we were just telling the other one to go
+[34:56] short was a bart and buy it back yeah i know but he wants to be short but uh yeah uh this is the
+[35:03] fib zone this if if bitcoin's gonna fail somewhere it's gonna fail here um all right next question
+[35:10] by sriance uh i had a question how to think about portfolio composition across asset classes
+[35:15] i realize the answer depends on factors like my trade plan there is appetite and that target
+[35:20] allocations are dynamic rather than fixed
+[35:22] especially as market conditions evolve
+[35:24] but from a thought process perspective how do you think about determining the right mix across asset
+[35:28] classes so that's things like u.s equities versus international or emerging equities commodities
+[35:33] fixed income cash etc well i mean i think that you have to make a bigger decision right if um do you
+[35:43] want uh to follow and adhere to like a modern portfolio theory of uh you know portfolio theory
+[35:52] constructing a diversified portfolio that allows you know the correlations of different assets to
+[36:00] reduce net volatility of all the portfolio and you want to follow that kind of rule well then
+[36:06] you have to follow the rules of diversification and modern portfolio theory and everything like
+[36:12] that for me and the way that we're constructing this in the big picture trading methodology
+[36:20] is that only of though we will only own those asset classes when we build a story around it
+[36:29] and subsequently have can construct an asymmetric way to be in those asset classes you know as long
+[36:37] as all of those asset classes are trending you could theoretically be something like a
+[36:42] risk parity fund and you can vol adjust them by sizing and and
+[36:50] you can vol adjust them by sizing and and you can vol adjust them by sizing and and
+[36:50] attain your core holding exposure uh but uh to me you know you're asking like how would you approach
+[36:57] you know almost like a portfolio construction based on a methodology that's different than
+[37:02] what we're teaching right in the end uh i don't want to be in diversified and assets that are
+[37:08] downtrending uh we we're only going to be in them when they're working in our favor
+[37:12] um next here we got a question by natalia what do you think of the upcoming ipo lineup and the
+[37:20] chance that it could derail semiconductors rally because of force absolutely selling 100 it's gonna
+[37:25] it's gonna soak up a ridiculous it's gonna soak up what is it like five percent of the outstanding
+[37:30] uh capitalization some i don't know what the exact number was but some ridiculous thing
+[37:35] and you know what it's not a shocker that the market is rallying into the ipo cycle it's the
+[37:42] ipo cycle is gonna mark the top 100 like it's gonna soak up all the extra cash i'm uh i i
+[37:50] feel that with a high conviction that there's going to be something the exact timing will have
+[37:55] to cross that bridge as we approach it uh but i do think that there they will be a direct influence
+[38:02] uh next here is matthews would you consider shorting the airline industry given such huge
+[38:08] disruption to jet fuel prices he gave dallas a lot of it's baked in and the question is well
+[38:14] what happened if fuel prices turn here right delta airlines is trading at 50
+[38:20] two-week highs on the upside but you know like that's a unique circumstance american airlines
+[38:26] aided a bunch of the other airlines are are under a lot of pressure the thing is is that these
+[38:32] this fuel uh costs arising narrative has is well-known information and so when you're uh so
+[38:41] go back to what we just covered here uh on um on story building and so you so what you're doing is
+[38:49] you're building a thesis and you're building a thesis and you're building a thesis and you're
+[38:50] building a thesis that airlines such as delta should suffer right so now yesterday we talked
+[38:56] about this idea uh and uh so so now we talked about this idea that uh we need to pair this
+[39:05] technically uh with uh with the chart and the price action well when i look at this chart
+[39:12] it's trading at 52-week highs above its 50-day moving average the dip down to a 50 retracement
+[39:19] 50-day moving average and the dip down to a 50 retracement 50-day moving average and the dip
+[39:20] down to a 50 retracement 50-day moving average and the dip average was bought on dip
+[39:21] average was bought on dip it has the potential to break to 52-week highs
+[39:24] it has the potential to break to 52-week highs from a tape reading perspective this is a stock
+[39:27] from a tape reading perspective this is a stock that's being accumulated there is this is a stock
+[39:30] that's being accumulated there is this is a stock in bull trend in accumulation and so you do not
+[39:34] in bull trend in accumulation and so you do not have a technical story to pair with your
+[39:39] have a technical story to pair with your uh with your fundamental story uh and uh and until you see
+[39:45] uh with your fundamental story uh and uh and until you see the price action on delta start to actually
+[39:48] the price action on delta start to actually demonstrate deterioration and uh and uh and until you see the price action on delta start to actually demonstrate deterioration
+[39:50] like it's rolling over then you turn around and uh and position the short right now you don't have
+[39:58] this is a watch list idea but it's uh but there it doesn't it hasn't passed the technical
+[40:04] uh chart gate to give a short setup and marcus here was saying like new situation for me training
+[40:13] in this environment has been has felt more and more like gambling these days i even lost a big
+[40:18] chunks of my profits that i made this year so it's very challenging mentally and he said yesterday
+[40:22] or yesterday i guess when he wrote the question he made the decision to step back and liquidate
+[40:26] pretty much all his portfolio he was saying 90 seeing in cash right now when should i begin to
+[40:32] get in again what should i do with the cash should i just be more patient um really so mark is like
+[40:39] an example of today's webinar on uh at uh commodity cycles right there's trading the short-term
+[40:47] reaction
+[40:48] to trump's tweets and oil prices right that's the short-term reaction function uh versus um
+[40:56] versus uh for instance uh uh trading the result the long-term fundamental result
+[41:04] that countries are going to hoard and stockpile commodities uh for the next year to build huge
+[41:12] strategic reserves uh to stop depending on just-in-time inventories of of
+[41:18] commodities coming in and uh that's going to be structurally bullish so what the key here is that
+[41:25] you almost need to position yourself into the long-term stories that are going to work
+[41:30] irrespective of whether the short-term tweet cycle uh is up or down for the markets for the
+[41:37] next few weeks you have to sort of step back and ask yourself like what are the bigger things that
+[41:42] are going to happen that are going to happen irrespective of what uh the market is going to
+[41:48] path the short-term thing goes with with trump right and so my advice to you is is step back
+[41:55] reflect on where uh those big picture theses are going to develop and uh and allocate money that
+[42:03] way um all right next questions here um going back sorry up the chats because we actually got
+[42:14] through all of them we had a ton but i had time to finish them uh yeah exactly sorry just
+[42:21] prepared the chat better for me and myself uh to baxter he was saying too late to reasonably hedge
+[42:27] energy stocks i'm long-term very bullish an event of war miraculously ends now i mean we touch on
+[42:32] this a lot but it's not too late baxter let me explain something uh and this is something that
+[42:37] i'm going to make very very clear in the asymmetric challenge when we get there there are um just like
+[42:44] in damon's question earlier when looking at spreads from uh that what their absolute payoff
+[42:51] potential is versus what they're up or down um in the same way we in our mind sometimes um like
+[43:00] just like the way we make high water mark benchmarks and stuff in our mind we think well
+[43:04] hedging we buy the put uh because the put is supposed to protect us from a crash and make us
+[43:11] money that allows us to reduce the cost base of our security now if that was the sole purpose of
+[43:19] owning the hedge
+[43:21] then sure as oil has started to pull back it may have reduced the um uh you know it may have reduced
+[43:32] the uh kind of uh payoff structure of that by oil already having pulled back but there's a more
+[43:40] important thing that hedging does and it's psychological now imagine here that you turned
+[43:48] around and put on a hedge we're able to manage
+[43:51] the cost of it through callers and other things to reduce the general cost of it downwards to
+[43:57] being something uh um reasonable let's just say a reasonable cost if it prevented you from getting
+[44:07] shaken out of your trade so imagine at some point in the next six weeks we're going to get
+[44:14] a resolution to this thing with iran it could be literally tomorrow or it might be a month from now
+[44:21] we don't know i didn't bring my crystal ball with me but when that happens if there's a three-day
+[44:28] pullback on energy stocks if you're not if you don't have a structural hedge you may get shaken
+[44:35] out of the position you may psychologically become uh disheartened and uh sell everything
+[44:43] and go to cash or something like this but it with those hedges uh reduce the downside volatility
+[44:51] and give you an anchor that's like i can't lose a lot of money because the hedge has put in a floor
+[44:59] and even if the hedge does not end up making you money where it goes down reverses and goes up and
+[45:05] you didn't end up needing the hedge but you did need the hedge because the hedge allowed you to
+[45:10] stay in it allowed you to not get shaken out it allowed you to hold the position with conviction
+[45:16] knowing that you can't get badly hurt seeing it through the noisy period
+[45:21] and so from that context i um from that context i think it's very important to uh uh to consider
+[45:31] that the hedges are sometimes not about the money in terms of how much i can make on the hedge
+[45:38] it's a lot of times it's actually about um it's about keeping you stable right
+[45:45] uh it's it's about keeping you mentally stable it allows and gives you the strong holding power
+[45:51] and uh and what and if you are of a high conviction in energy plays it means that you're
+[45:58] exposing yourself on the short term to a lot of painful volatility that may make it difficult
+[46:04] to easily hold through and if that's the case building some sort of a hedge structure gives you
+[46:10] that ability to mentally hold through uh the difficult period that trump has created um all
+[46:20] right next question next question next question next question next question next question next question
+[46:21] actually by baxter as well he's saying for new leaps let's say you go out to 2028 uh that are
+[46:26] in immediate bull mode do you typically just buy the at the money rather than paying for a higher
+[46:30] delta yes at the money but if the move is mature let's say um okay let's just say uh alb
+[46:39] let's say you uh oh so alba marl is not holding his game but let's just say right now
+[46:44] alba marl is trading up at 230 right and you want to get in with a 2028 well the the there's
+[46:51] uh the thing here is is that this measured move is um uh already let's say halfway through right
+[46:59] off of this low is already 76 dollars up let's say 70 dollars up and even at his best case of
+[47:07] finishing this move is another 50 or 60 dollars more to go the thing is is that opening this
+[47:14] trade at this moment may have the benefit of selling a short call against it at a
+[47:21] higher strike to reduce your cost after 2028 because if albemarle does this and then goes
+[47:28] through a period like this before it goes higher what happens is that short call is offsetting your
+[47:35] carry costs during this period and then you can open it up when the the the um when the upside
+[47:42] reopens within you like if it was a new entry point is you can i would still get in at the money
+[47:48] on your core positions but you can try to reduce your
+[47:51] space by selling some calls against it at tactical times
+[47:56] all right uh what else do we got here
+[48:05] uh this is about racial spreads that we already touched on um george he was saying where can i
+[48:11] find positioning information where i can access potential short squeezes or long short pairing
+[48:17] data well i mean there's um you the there's uh all sorts of sources that tell you how what
+[48:25] the portfolio should look like i mean you know if you're looking for short squeezes i'll try to
+[48:29] give you some examples of short squeezes you can find all sorts of sources that tell you how what
+[48:34] the portfolio will look like so for instance i've got a stock called wcd that i bought there
+[48:38] and that's that's the the one that i bought in jewish and then i went out there and i
+[48:43] looked at the recent market imo and i and i looked at what the market was going through
+[48:48] and i looked at how can i somehow uh avoid some of these short squeezes and i'm like well how do i
+[48:53] reduce that to more short squeezes that i can get in and i just said im going to look at a good stock
+[48:54] You can go and look for these things from short positioning.
+[48:59] And Amit, just in terms of your question, in terms of struggling with the mental insurance
+[49:05] versus the gaining on the puts, the one thing I will tell you what helps that for sure is
+[49:12] having a trade plan that defines it, right?
+[49:15] Like in the end, look, if you intend to own a long dated leap for a one year bull advance
+[49:22] throughout the year, then whether you clip an extra two or three dollars on a put option
+[49:29] on the downside to reduce your cost base is not as important as being there for the big
+[49:36] move and not getting shaken out of your trade.
+[49:38] When you really step back and assess what is the real problem, the problem is if you
+[49:45] knock yourself out and miss the move, you feel like an idiot, right?
+[49:49] And so we have to think is that is it trying to gain?
+[49:52] A couple of dollars on a put on the downside, really the difference maker on the long term
+[49:58] gains, or is it the fact that you were there for and not shaken out of the really big moves?
+[50:05] And often what you'll realize is that the big money that can be made on catching extraordinary
+[50:10] moves exponentially outweighs trying to reduce your cost base by a few bucks by nailing
+[50:16] the insurance properly.
+[50:18] You know, really often the insurance to me is about.
+[50:22] Staying power.
+[50:24] It's it's such an important psychological stabilizer.
+[50:29] And then we had Joey here want to look at L M and D.
+[50:33] He's saying he's been income writing monthly on this for some nice premiums.
+[50:38] L M L M and D.
+[50:41] Lemon lemonade.
+[50:44] Yeah, but the chart looks like shit.
+[50:47] Congratulations.
+[50:47] You've been on unscathed on it.
+[50:51] But look.
+[50:52] Uh.
+[50:52] The fact is, is that it has distinctly broken what was a stunningly beautiful bull chart
+[50:58] and the entire, um, stock has failed along its retracement zones.
+[51:03] And if this thing breaks to lower lows, it is vulnerable for, uh, for, you know, going
+[51:09] back to April lows, uh, uh, from last year, uh, I would recognize that this is not a bull
+[51:17] trend anymore.
+[51:18] And in fact, it's actually a bear phase.
+[51:20] We'll talk about market structure in the weekend.
+[51:22] We'll talk about it in the next few weeks to come and, um, and you have to be, uh, careful.
+[51:28] Oh, right.
+[51:29] That's pretty much it.
+[51:30] Um, yeah, pretty much on the questions by way.
+[51:34] All right.
+[51:35] Well, awesome.
+[51:36] Then, uh, listen, everyone like, uh, well, and by the way that in the coming weeks, like
+[51:42] we're, we're just now, uh, and I'm, I want to stress one thing.
+[51:46] The story building part is actually exponentially longer than the rest.
+[51:51] Uh, what do I mean by that?
+[51:52] Well, actually, I would argue that 75% of technical analysis is actually story building
+[52:00] and the trigger parts of technical analysis are going to be far fewer modules where we
+[52:06] still actually have quite a bit of technical story building, uh, many modules.
+[52:10] In fact, I would argue a good chunk of the technical master's program that's going to
+[52:15] be redone here is going to actually stay in the story craft window.
+[52:20] And.
+[52:21] We get to the trigger parts where actually when to buy, when to sell, when's the signal
+[52:27] will become one that we get into the T of the star system in the trigger part.
+[52:32] So we're right now going into a whack of technical analysis for the next, uh, uh, foreseeable
+[52:38] short term sequence.
+[52:40] Uh, uh, I haven't counted exactly how many modules there are still yet here on this.
+[52:46] Uh, but because we're still trying to decide where to split them up and so on.
+[52:51] Uh, we're going to get, uh, add a lot of clarity in the weeks to come when we really
+[52:56] start, uh, sizing up how technical analysis should be interpreted the way we covered on
+[53:02] Monday.
+[53:03] All right.
+[53:04] So I'm sorry.
+[53:05] On Wednesday.
+[53:06] Yesterday.
+[53:07] All right.
+[53:08] Uh, thank you very much, everyone.
+[53:09] Mass.
+[53:10] Any last closing words?
+[53:11] No.
+[53:12] That's pretty much it.
+[53:13] Thank you so much guys.
+[53:14] And we'll see you next time.
+[53:15] Thanks everybody.
+[53:16] All right.
+[53:17] Take care, everyone.

@@ -1,0 +1,6 @@
+Lisibilité
+Reprendreslides objectifs
+Présentation des diff. zones de l'outil
+Option pricing: à l'initiation du trade. En projection, c'est toujours par BS.
+
+Aligner texte oral avec les slides

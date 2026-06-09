@@ -1,0 +1,1958 @@
+Speaker 3
+All right.
+And so you, you go there, what do you at first?
+Are you just like a research assistant?
+What what's the progress like in terms of these days when you start off on a desk like that?
+6:44
+Speaker 4
+Yeah.
+So when you start off on a on that desk, you're an analyst, you're expected to learn about the product, but you don't actually take any risk and no one's going to give you any risk to take.
+So first of all, you learn how to book things and you learn how to, you know, you talk to people and you figure out how things work on the desk, right?
+7:05
+What the product is.
+The effects options market is a very sort of unique market.
+It's very much still a broker driven, flow driven OTC market.
+7:15
+Speaker 3
+OK.
+What do you explain to people when you say broker driven because some folks might not understand that.
+So explain what what you mean in terms of the difference between a broker and a sell side dealer and the ultimate client.
+7:27
+Speaker 4
+Right.
+So what what I actually mean in this case is I think most of us will be familiar with electronic interface.
+You log log into your Robin Hood brokerage account, you can see the screens, it's all electronic.
+You see, you know the better offer of an option in the FX options market.
+7:45
+This is very much all driven in in chat rooms, most of them on Bloomberg with an intermediary that is the inter broker market.
+So for example, Goldman is a prime broker.
+IT services clients.
+8:02
+It takes the other side of client trades.
+So that's it's, it takes principal risks on these trades, but it also participates in market making in the inter broker market, which is, which is effectively A broker market between banks, But but they have to have an intermediary to facilitate these trades.
+8:21
+And these are the brokers who quote in chats and are able to display that information on electronic screens.
+But all of this is over the counter and none of it is, at least most of the volumes are not on, on electronically displayed, although there are some like on CME, you can trade future options on yen or euro, CAD, etcetera.
+8:43
+Speaker 3
+Right, And so these are the broker, like is that the cantors of the world and and is it still the same, you know, group of, you know, in my day, those were the absolute biggest partiers.
+Like if you were a social guy that just wanted to have a good time, you went and worked at one of these brokers.
+9:00
+Is that still the case?
+9:01
+Speaker 4
+It's still the case, very small market, just a few players, but they take their the entire market share and you have to go through them.
+9:09
+Speaker 3
+Right.
+So when you have a client come in to Goldman and and says, OK, I want to buy 6 month at the money yen calls you're, you're, you're dealing directly with them.
+But the, what you're, what you're saying is that the, if I understand correctly that the market, the the the central clearing part like the quote that everyone sees is a combination of everyone posting markets in this kind of room where there's the brokers are executing.
+9:39
+Is that correct?
+9:41
+Speaker 4
+Yes, like will the.
+9:42
+Speaker 3
+Clients see that?
+Or is that a broker only market?
+9:46
+Speaker 4
+So there's, there's two sort of trading venues, right.
+One is the client has a, has a bilateral is the with Goldman and they come in for for a quote.
+If I'm quoting them and they trade then it in, in New York, at least it has to be reported to a swap swap repository and people see the flow there.
+10:08
+The information is not perfect, but what I was referring to was more of the inter broker market.
+So broker in which the the market in which banks use to hedge and, and effectively market make.
+So this is where most of the information occurs in terms of price discovery.
+10:26
+And there's a lot of trading for hedging between banks.
+So you would communicate via voice or via chat with the broker sort of like your cantors of the world and you would make rates, you would get market information and you would be able to trade.
+10:41
+And then whenever you trade, they will tell you the bank you traded with and everyone will see what level it traded at what volume, Who wants to buy, who wants to sell?
+That becomes public.
+10:52
+Speaker 3
+OK.
+And so in my day, when and, and I'm old, when we used to trade, we would trade against the spot often, meaning that we would go, if somebody came and wanted to buy the Canadian future, we would say, OK, against this.
+11:09
+We offer and bid the, the, the, the option here.
+I'm assuming that's how at least at the broker level of trades.
+Is that also at the client level how it trades like will you is, is most of them And, and what do you explain to people how that actually works?
+11:24
+So you're quoting Vols as opposed to actual prices.
+Is that correct?
+11:29
+Speaker 4
+So the first thing that gets ingrained into you when you start a desk is that we are not delta traders.
+We don't take directional risk.
+We are ball traders and we do not care, right?
+We need always need to delta hedge everything.
+You know, we don't really care.
+11:45
+We trade on ball, right?
+You think of everything in balls.
+That's how you learn to see the world.
+And so when a client comes in, they might ask they can choose whether they're they want to delta hedge the option as an exchange delta with you.
+So they want to buy a 20D euro call, I can sell it to them and then we exchange the hedge, right.
+12:08
+So we are delta neutral inception.
+These are all clients, hedge funds, they'll typically do that.
+But you can also have directional clients who come in who need to buy a live option.
+When I say live, I mean not delta hedge.
+And what happens is the sales or the, the sales or us the, the trading team will execute the hedge for our own desk, right.
+12:31
+So we'll go out on the market and we'll get the hedge off and we'll adjust the premium based on the the hedge level we get.
+12:38
+Speaker 3
+Right.
+OK.
+And so I just want people to understand that because when we see things like the JP Morgan option whale that everyone loves talking about, and I know you're a currency trader, but I'm sure you're aware of that huge monster trade.
+What people need to remember is that when they're negotiating that trade all day, they're not negotiating the deltas.
+12:59
+The deltas actually the client takes care of in that case, I believe.
+And they're doing the the, the levels upon which they're willing to do the package.
+So they might be saying we'll buy your call at 12 Vol.
+13:14
+We'll sell you the first part of the put at 30 Vol and will buy the far dated put at a 40 Vol.
+And then that package is what's negotiated in terms of going back and forth in terms of bidding offering is it?
+Is that would that be a good explanation of how it would work?
+13:33
+Speaker 4
+Yeah, I'm not too specifically, yeah.
+But you know, in general, yes, the negotiation is about the Vols and how how wide it is versus a a spot ref or a delta ref that we will exchange, right.
+13:47
+Speaker 3
+OK.
+And then so you're, you're sitting here and let's just talk about option trading in general, because, you know, as I mentioned, I think it's become more and more important in my day, you know, very few people traded options.
+14:03
+Now you just pull up your, as you say, your Robin Hood account and everyone's trading options.
+I, I turn around all the time.
+Your, your cab driver, your Uber driver is, is punting on, you know, S and PS, the zero DT ES.
+There's just, it seems like everywhere where you look, there's just options, options, options.
+14:23
+First of all, do you find to yourself like when you go to a dinner party or end up somewhere that, that you're kind of shocked at how many people want to talk to you about like option pricing?
+14:35
+Speaker 4
+I, I wish I was that popular game party.
+I, I so real options traders don't go to deal at dinner parties.
+So I, I, I'm not sure.
+But yeah, I mean it, I've seen that broadly it has become way more popular, right over the past few years.
+14:56
+It's just become much more accessible and there's, I guess there's a lot of people who are out there pitching them.
+Wall Street Bets obviously has this large phenomenon where everyone is effectively gambling on options.
+15:11
+I will say there's a lot of misinformation or, or it's, it's really hard or it takes time.
+I would, I should say to, to, to really grasp what really you are getting exposed to.
+But for most people who are looking to use options to express a directional view, I think they can be very, very useful as long as you know the the risks that you were taking.
+15:35
+Speaker 3
+Right.
+What, what walk us through like your evolution in terms of understanding and, and because there are so many levels of this and, and I, I can remember all of a sudden one day waking up to the fact that I'm not betting on Vol in general.
+I'm Vol betting on Vol around that strike when I'm, when I'm doing different trades.
+15:54
+So walk us through some of kind of your big light bulb moments that you had along your evolution in terms of understanding options.
+16:03
+Key Lessons and Common Mistakes in Options Trading
+Yeah.
+So I think most people would think about options as a specific structure, at least when I started learning about options to learn about, hey, this is a call spread, this is a straddle, this is a strangle.
+And you know, people would associate them with strategies, but those are not strategies.
+16:22
+Those are just a structure and they're used think of them as tools in a toolbox to express a certain view that you want on the underlying.
+So the first thing you learn sort of on an option desk is to look at your Greeks broadly and not your individual traits.
+16:38
+So you have to learn about the individual Greeks, right, and how how they are at this current time, but also in terms of scenario analysis.
+So that's a big thing in sort of institutional options trading, which is really how does if spot moves, what are my assumption with how ball moves or what is what is my gamma profile?
+17:00
+How does that change as spot moves?
+How does that change as ball moves?
+So these are things that you kind of learn to, to to manage and to think about as sort of a trading institutionally in, in options.
+17:17
+Speaker 3
+One of the things that always shocked me is how few people understand how much the decay at the end, right, in terms of the, the, the Theta monster, as I call it, that that data just accelerates at the end.
+And, and when people are sitting there trading, they're they're not thinking about they're, they're sitting there too often and they're thinking about an option.
+17:41
+And they're either today when they're buying the option or it expiry and they're not thinking about how it's going to behave along the course of of that time frame of owning the option.
+Do you remember that kind of moment where you realize that Oh my God, like owning those those short dated options at the end was just so brutal.
+18:02
+Like do you have particular times when you were market making and you were like, Oh my gosh, look at this.
+I got absolutely crushed on that.
+Walk us through kind of some of your moments that you had where you you learn the hard way about different the way the options work.
+18:16
+Speaker 4
+Yeah, for sure.
+So I think in general, what you're, what you're brought up was, is basically the this principle of you want to be long options where spot doesn't end up there and you want to be short options where it does.
+So effectively you, you, you want to be able to be short the option where you think spot will go, right?
+18:37
+Because the, the, the issue with the, the Theta, the Theta as you mentioned, is that the, the, you paid the most data at the strike, right?
+And but for that you get compensated because you have the most gamma at that strike as well.
+So effectively what you want to realize is you want spot to move through the strike as fast as it can and you can take advantage of the gamma, but you're not actually you haven't paid that data during that moment in time, right.
+19:06
+So when you think about we, we, there's this concept we think about in terms of realized P&L on daily basis, which is this concept of Theta gamma.
+So how much we're paying in, in Theta and decay versus how much we made in trading our trade, our gamma around.
+So in effect, this, this, this phenomenon is basically the how much the the sum of how much gamma you have versus how much realized Vol exceeded implied.
+19:34
+But the weighting is weighted by by the by the gamma at your strike, right?
+So that is, that's the concept at which you know, this, this, this phenomenon lies.
+It's that you don't want to be, you don't want spot to end up near your long strikes.
+19:50
+You want you want it to go through that.
+19:52
+Speaker 3
+Right.
+By the way, what what learning all these things in terms of figuring it out, like did you when you went to Goldman, did you know anything about option trading or did they?
+Like how?
+How?
+What was the process like?
+20:06
+Speaker 4
+Yeah, so I I learned it like I learned it by reading books in terms of I, I learned about structures, right.
+That's where most people learn about things.
+You learn about theory, you learn about block Scholes formula, you learn about how to price it.
+You learn about all the different structures like straddle, like a strangle work.
+20:23
+And then I went there and then I was taught to think about options in totally different manner.
+There's there are different structures that are useful, but broadly, we don't think about structures.
+We we do think about structures as tools in a toolbox that we can use to an express review, right?
+20:40
+Or.
+20:41
+Speaker 3
+You think about structures that you can sell to your clients so you can think that are mispriced, right?
+By the way, you're talking about books.
+You learn from books.
+Why don't we, you know, go do this one right now?
+In terms of what are your favorite books out there?
+What was the the kind of the the Bible to you in terms of if someone is interested in learning about trading more options, what would you recommend?
+21:03
+Speaker 4
+So the Green Book is what they got everyone to read when you're an interning, which is Nitenberg by Sheldon Nitenberg.
+It's called options volatility and pricing.
+21:13
+Speaker 3
+It's Sheldon Nitenberg, by the way, and it is a green cover, and I didn't realize you guys called it the Green Book.
+It's a terrific book.
+21:19
+Speaker 4
+Yeah.
+And then the other book that you know is more specific to effects of options but has a different a lot of heuristics is this book called Volatility Practical Options Theory by Adam Iqbal.
+21:32
+Speaker 3
+Yeah, it's.
+21:34
+Speaker 4
+I effectively used to work for him, so OK.
+21:38
+Speaker 3
+He was at Goldman Sachs.
+21:41
+Speaker 4
+He was, yeah.
+He was at Goldman Sachs for a period of time and he was running G10 currency options trading, correlation, exotic products as well.
+And then, yeah.
+And then I would say things if you go on want to go more deeper into theory, things like dynamic Hedging by Nassim Taleb and then the Volatility Smile by Emmanuel Durman, which is very, very famous quant all.
+22:08
+They were very helpful if you want to go in the deep end.
+22:10
+Speaker 3
+OK.
+When you watched your different clients at Goldman come and trade with you, what was the, what did the better clients do?
+Like what do good option traders do versus the bad ones?
+Like, well, you know, like walk us through kind of the, the people you admire the most.
+22:31
+What, what did they see the in in in, in terms of how they traded options?
+22:36
+Speaker 4
+Right, so I, I think there's two types of clients, right.
+One is the the people who are more relative value and Vol focus.
+So what they do is they're entire edge or premise of their strategy is to identify where the wall surface is mispriced.
+22:55
+And by mispriced I mean they effectively try to reconstruct the the surface through various modelling techniques.
+And they, you know, effectively use trade expressions to put on a view that where, you know, a dislocation might occur by either supply and demand or an event or something like that.
+23:20
+So it's entirely it's, it's, it's about modelling better, it's about structuring better.
+And it's really about, it's really about expressing views in on the ball surface in relative terms.
+23:34
+Speaker 3
+OK, so that would be an example of there's a big client out there that really likes the one O 5 calls, you know, 105% calls.
+And just because he keeps buying that over and over again and there ends up being a kink in the curve.
+23:49
+And so they in essence find a way to sell that more, that richer option against buying something else.
+That's one type of client.
+What's the second type of client look like?
+24:00
+Speaker 4
+So the second type of client is a directional client.
+So they use options as a structure to express their directional view, but they structure it in, in a very asymmetric way.
+And they're good because they, they have a view on, on sort of a real world probability that's different than what the market implies.
+24:21
+So OK, this thing to, there's this thing about options that it can be, it's not a 0 sum game, right?
+You can win and the dealer can win as well, right?
+Because the dealer can hedge at the risk neutral probability, which which is effectively saying, you know, I, I can, let's just take an example.
+24:40
+If there's a stock at 100 that can go to 150 or 50 and a binary and it's a binary event, then the risk of mutual probability is the price was what makes the four price of the stock equal to today, right?
+And that's 50%, right?
+24:57
+Because it can either go to 150 or 50, right, right.
+So if you, if there's a hundred, if there's a hundred strike call on that stock, the payoff is either going to be $50 or 0, right?
+In either event.
+25:13
+So as a dealer, you can sell this skull above $25 by .5 shares of the stock and you can be perfectly hedged and you can make money, right.
+But someone, let's say a biotech firm comes in and their distribution of their estimated real world distribution of their, of the stock is 70% chance it goes to 150 and 30% chance it goes to 50.
+25:39
+Then they also experience positive EV by buying this, right?
+They're they can get a payoff of $35 on this option or at least in their eyes, the option should be valued at $35, right?
+So that's where the edge comes in.
+25:55
+Speaker 3
+So one of the things that I've been kind of amazed at as I've learned more about some of the especially in the stir world, this short term interest rate futures, some of those hedge funds are just so great at creating structures that are, you know, where they have a true edge.
+26:17
+And, and I think that's what you're talking about is that people study it and they think about things and they, and they kind of try to imagine what is the proper, you know, distribution of returns.
+And you guys on the, on the sell side are sitting there and you're just trying to, you know, saying this, it's normal.
+26:37
+And they're saying, I believe the distribution is different.
+And that's why they can go in and do these trades that are in essence where they have an edge.
+Is that would that be a fair assessment?
+26:50
+Speaker 4
+Yeah, that's a, that's a fair assessment.
+26:51
+Speaker 3
+Yeah.
+All right.
+So those are the two different kinds of clients.
+What about when you're you're the retail side?
+What do you, what advice would you give the average Joe that's just trading retail, that's punting around things like I'm sure you've seen throughout the years, like this is something you specialize in.
+27:10
+People make a lot of mistakes and options.
+What do you think the number one mistake is that people should avoid?
+27:17
+Speaker 4
+I think I think people, you know, in terms of short data options, I think people underestimate how much that can bleed and how fast that can go against them.
+Yeah, I think that's the number one mistake, especially as a beginner.
+27:34
+They people think about, you know, buying a call to express a view, but they don't realize if it's a short, very short data call or it's a what's very normalized, if you like today on the Internet is buying out of the money options, right?
+27:50
+Very wingy options.
+You're going for that 12:50 payoff or I mean, or that 1000% move on one day, right?
+But those are wingy options for a reason, right?
+They, they're, they're rich and they're wingy.
+I think people forget that you can buy not the money option as well and sort of limit, yes you spend more premium, but typically that is typically that is the cheapest option on the curve.
+28:16
+Speaker 3
+Yeah, it is kind of cracking me up how there's just so many T Jens out there.
+Let's go a little bit and talk about your next move.
+28:26
+Exploiting Inefficiencies in Early Crypto Options Markets
+At Goldman, you moved to crypto and you you were attracted because it was like the early days of crypto and, and the market wasn't as, as as well developed.
+What you know, first of all, tell us why you went there.
+And then let's talk about your movement to Vulcan X.
+28:43
+And then eventually I want to really specify and get into those moments where you said that the market was inefficient, because I think that explaining to people why it was inefficient would really help them understand how efficient other markets are.
+28:58
+Speaker 4
+Yeah.
+So I started Goldman.
+I initially was on the vanilla desk, so I was quoting G10I, G10 options, I was quoting Cat.
+That was the main book I was trading at the start and then I moved on to trade correlation exotic products there.
+29:14
+And then at Goldman, they were always trying to get involved with cash shuttled derivatives on Bitcoin.
+Obviously the bank couldn't touch physical.
+So at the time, CME had just started with Bitcoin futures and and options on futures and Goldman effectively was looking to create an OTC business where you can get a cash shuttle non deliverable option on Bitcoin for their clients.
+29:44
+So I was always trading, you know, Bitcoin and interested on this.
+It was interested in the technology trading that on the side and I said, hey, I'll do this as well.
+OK.
+So I was also trading, you know, Bitcoin, Ethereum effectively cash shuttle options for for Goldman.
+30:02
+It was very risk type, risk limits.
+A lot of it was basis trades.
+And then otherwise it was very much sort of more relative value trades that were put on the book.
+But the larger crypto derivatives market was on derivative, which is entirely an offshore offshore market, OK options market.
+30:24
+And I was looking at sort of the discrepancy between CME options on crypto and in their bid options.
+And they're entirely different.
+One, because the, the, the structure of the options were a bit different, but two, the players were entirely different.
+30:41
+Those were offshore players.
+The market makers had limited balance sheets.
+And, and, and on CME, it's obviously you can have banks and, you know, your classic prop shops.
+And So what led me, got me interested was really that I thought there was a lot of sort of all relative value opportunities and there's sort of an opportunity to make money in, in crypto, crypto derivatives, particularly on that offshore market.
+31:08
+Speaker 3
+Right.
+So you eventually go to Falcon X, who's one of the like, the like you say, the largest derivative crypto market maker out there.
+Why don't you talk about some of those initial inefficiencies that used to see in the market?
+And one of the things I thought was just fascinating was you said, oh, there wasn't any skew, there wasn't any event risk in there, people what that meant and how you could take advantage of it.
+31:33
+Speaker 4
+Yeah.
+So as you know in in other asset classes whenever an event happens, the market price is an extra extra variance or assigns extra volatility to that specific day.
+An example is, you know, an earnings for for stock or the FOMC announcement for currencies in, in crypto, people aren't really sure, right what drove what drove what affected the returns of Bitcoin and Ethereum.
+32:06
+So like, for example, we people weren't sure if the next CPI report was going to move Bitcoin or not that that's entirely that's entirely a question mark.
+One, we didn't have a lot of data series and two, Bitcoin has only recently become more mature as a macro asset and it just did not have the same beta in the early days.
+32:25
+I'll give an example of a trade that happened.
+I think this was May 2024.
+I think 2 Bloomberg analysts were effectively speculating on whether or not the Ethereum ETF would be approved.
+The ibit one, Bitcoin just got approved.
+32:42
+And basically they were saying there was a very low chance of approval, maybe 20% chance it would get approved.
+And then market was pretty bearish like it was, it was, you know, the spot was trading like crap.
+And this is basically because the SEC hadn't, you know, responded to any of the filings from all the ETF issuers, right?
+33:04
+The interesting thing was the skew and Etherium.
+So the the the risk reversal so.
+33:12
+Speaker 3
+Explain to people what skew is in terms of we have to go back just to make sure people understand what they, what that meant.
+Go, go.
+Just let's take a step a moment here to explain skew.
+33:22
+Speaker 4
+Yeah.
+So skew is effectively the premium that one would pay for let's say, let's say an an option that trades richer involved than than than than the the other side of the surface.
+33:46
+What I mean by that is for for for example, an S&P, the the return distribution is not is not normal, right.
+S&P tends to grind higher and have sharp moves down.
+So the skew in S&P is for puts is for S&P puts.
+34:02
+So S&P puts will trade at a richer Vol than S&P calls.
+And it's because of this effect where everyone is long and everyone is looking for hedges and from a supply and demand dynamic, you'll have this more outcome of S&P goes higher every day and has large moves lower.
+34:22
+Speaker 3
+Right, OK.
+34:23
+Speaker 4
+So as an example, in, in, in, in risk off in currencies most, most of the times, for example, in euro, the SKU will be for dollar calls, right?
+So euro puts dollar calls because that's the that's the risk off scenario.
+34:42
+Speaker 3
+Right.
+Another one is gold.
+Gold trades with a higher skew to the upside because in a, in a catastrophic event, gold is going to hopefully go higher.
+So people pay more in terms of volatilities, implied volatilities for calls out of the money calls that they do than the puts.
+34:59
+Speaker 4
+Right, except for when everyone's long in and people need to use top lines to.
+35:08
+Speaker 3
+That's right, except when they're wrong and then they when they've been paid too much for it.
+OK, so let's go back to our Ethereum.
+We're in this situation where there's speculation that there or there's some speculation that they're, they might make an ETF.
+35:24
+And yet I'm I suspect you're about to tell me there's no skew in the in the Ethereum option market, no.
+35:30
+Speaker 4
+Actually, I will say with the the preface that the in back in the the you know, the wild days of crypto skewed and crypto was for was for the coin.
+What I mean was it was for Bitcoin calls Ethereum calls, dollar puts.
+35:46
+Speaker 3
+Right.
+Oh, OK, I see.
+35:48
+Speaker 4
+Yeah.
+Because what people wanted, right was they were using these options as leverage, right.
+So the supply demand demand dynamic was entirely for leverage and it was really for for these crypto calls, especially on in the bull market, especially in the bull market.
+36:04
+But in this case, right in this case in early 24 Skew and Ethereum was actually for downside.
+It was for ETH puts and and dollar calls and it was about 7 to 9 Vols in in the one month tenor 7 to 9 Vols the the put was trading richer than the call, right?
+36:21
+So the, the, the mispricing lies in the fact that what I thought was that the ETF was effectively priced in to not be approved.
+The Bloomberg analyst literally came out and said, we think 7580% chance SEC is going to have to delay this or this is not going to be approved.
+36:39
+There's been no, no deadline.
+So really, you know, if you think about the, the skew, the, the moral outcome for this event, particularly during that event day is it's, it's priced in that, you know, ETA is not going to get an ETF.
+36:55
+And what's going to happen is after this event comes out, after the deadline, the Vols come lower and maybe spot sells off a bit.
+But what's what the bet was is that the Vol will not, you know, the Vol will not materially reprise higher on a sell off, right?
+37:14
+And that's what that's what the risk reversal is, is, is trying to express, right?
+The risk reversal is trying to express it's a measure of skew, first of all, but it's a it's a measure also of spot Vol correlation.
+37:29
+So how does spot how does Vol move when spot moves?
+So the trade here was to really sell it at each put and buy an ETH call, let's say 25 delta, you know, for simplicity and bet on the fact that, you know, actually the the distribution here is is mispriced.
+37:51
+The modal outcome is spot sells off a little.
+It doesn't get approved and the tail scenario is actually ETH rips higher and you have a surprise approval.
+That's how the events you should have been priced.
+38:01
+Speaker 3
+Oh, I see.
+OK.
+Yeah.
+And it was in fact priced the other way, the.
+38:04
+Speaker 4
+Other way, actually the other way, yeah.
+So at that time I already left Goldman, so I was in able to take advantage of it.
+So I bought it at one month, you know, 2020 delta risk, risk reversals.
+How about the E calls?
+So the E puts and I mean the timing was lucky because within a few days, like there was a surprise announcement that the SEC moved on it and Spot literally ripped 25% because everyone's short and it's.
+38:31
+Speaker 3
+And, and so this was an example of the, the crypto derivative market being less efficient like that.
+Like let's, let's face it, if that had been a currency, that wouldn't have happened, right?
+As as have you found that it's gotten a lot better since then?
+38:47
+Like are there more players talk to me about like what, what does the the crypto option market look like now nowadays?
+38:55
+Speaker 4
+Yeah.
+So it's evolved a lot.
+I think 1 is at the time there's a lot of balance sheet and risk constraints, right?
+It was a it wasn't.
+That's number one.
+The dealers were not able to facilitate a lot of flow.
+39:11
+A lot of the players, the early players, entrants in the market were not very sophisticated.
+So for example, whenever they got traded in an option on one specific tenor, they would buy the same option back and try to buy it electronically on the screens instead of looking for, you know, smarter ways to hedge it on another tenor or to kind of carry the position.
+39:31
+So that was that was effectively 1 aspect of what drove this, these dislocations.
+The other one is the lack of sophisticated players, your Vol RV hedge funds or you know, or pilots who who didn't have access to this offshore market or it was too small for them to even explore.
+39:56
+Nowadays you are starting to see more.
+More people getting involved and purely from a Vol relative value perspective and that's made things a bit more efficient, you know, for sure in Bitcoin, but also somewhat in the top, you know, top tokens in this market.
+40:18
+Speaker 3
+OK, I'm going to hit you with just some general questions that I have that hopefully you a young guy in the option world, can help me with because in my day, not least, it's stuff didn't move as fast.
+We didn't have zero DTS like like literally the the the we had once a month, if we were lucky, where it was, it was we traded with A1 day expiry.
+40:44
+Now every single day we get up and there's zero DTS.
+How do you guys price?
+Like do you, do you price the options based on hours And how does it work in terms of like is it, is it, is it 15 minutes, 5 minutes?
+41:01
+Like like in terms of when you're dealing with that, those short dated options, how does all that work?
+I would just love to understand that a little bit better.
+41:09
+Speaker 4
+So we, we don't, we currently do not quote a lot of 0 DTS.
+But I can, I can sort of guess that the people quoting this have a very robust electronic infrastructure to be able to, to manage something like this, right?
+41:27
+Because at the end of the day, on a very, very short time frame, it's all gamma exposure and it's all strike exposure, right?
+And that is particularly significant when you want to think about managing your X free risk, especially if it's something physical where you know, for example, S&P zero DT go get settled settles in the future when it's physically delivered like that or you know, in terms of your gamma exposure, how are you thinking about delta hedging over a very short time frame?
+41:57
+When do you do that?
+What are the techniques for you to monetize that?
+So I think that's facilitated a lot by very, you know, robust electronic infrastructure rather than, you know, someone manually quoting and thinking about.
+42:14
+Speaker 3
+So, so you think that, like, for example, Citadel, I'm assuming, you know, is a very active participant in this.
+They're looking at it and their computers are constantly calculating it and then either buying or selling, whatever it takes as the options become closer and closer.
+42:30
+And so they make a decision and be like, OK, we're gonna hedge every minute.
+We're gonna hedge every minute with a delta or when the delta gets this large or whatever.
+OK.
+So, you know, while we're talking about that, let's talk about the different ways to help your delta.
+42:45
+Advanced Delta Hedging and Correlation Risk Management
+You've had to run a book.
+What did you find was the best way in terms of did you hedge once it got to a certain level or what did you hedge every single day?
+What?
+Just walk us through the different techniques that market makers employ and talk to us about what you liked.
+43:05
+Speaker 4
+Yeah.
+So I think this is as much an art as it is a science.
+Yeah.
+And so it's really dependent on one asset class and sort of the market dynamics in that asset.
+But in general, I would say you can look at it as sort of a kind of a two by two matrix even of your own gamma position.
+43:26
+And then #2 whether the market is trending or mean reverting.
+So the the Holy Grail, the Holy Grail in delta hedging is you have, you can figure out whether the regime, the regime is whether or not the market is trending or mean reverting and trade accordingly based on your own gamma position.
+43:42
+So for example, if you think the market is trending and your long gamma, obviously you don't want to hedge, right?
+Or you want to hedge just at least as you can, because you you can just let your winners run right, you get longer as spot goes up and you can just leave it like that.
+43:58
+But if if the market is mean reverting on an intraday basis, then if you're long gamma, you should be hedging as much as you can selling high, buying low and to able to kind of make back the Theta you're paying, right.
+44:13
+And vice versa, if you're short gamma and the market is trending and mean reverting.
+So that's effectively saying, you know, they're trying to figure out or try to develop a signal to determine whether the market is trending and mean reverting.
+44:31
+And that's, that's effectively translating to buying, buying low and selling high, yeah.
+44:39
+Speaker 3
+Right.
+Do you figure, do you guys try to look at the the behavior of the market regardless of their position and say is it mean reverting or is it trending and then change their, their strategy because of that?
+Like is there like will you go look at like the behavior of it and and change your delta hedging or was that more just kind of a feel thing?
+45:03
+Speaker 4
+Yeah, this is you can definitely create like effectively statistical signals.
+Look at that.
+Some example that people do for example is they look at different measures of realized Vol.
+People look at intraday realized Vol versus close to close, realize sort of like a variance ratio to see how much this thing is moving on an intraday basis versus close to close, right, to figure out if it's reverting or or trending.
+45:31
+There's different measures of all, you know, things like Parkinson's that take the high and the low of the day, Yang Zhang that takes the open high, low, close of the day.
+To try to just try to get a picture of what type of market this is and how you're going to measure the realized wall because.
+45:48
+Yeah.
+45:49
+Speaker 3
+Oh no, go ahead and just finish your thought and then I have a good I was just laughing thinking about something you told me.
+But anyways, go finish your thought.
+I'm sorry.
+45:56
+Speaker 4
+The number one, I guess rule and, and and sort of data Theta, gamma hedging is the, the realized ball that you experience, right is different than what the marketer experienced.
+The realized ball you met you you trade is unique to yourself because it depends on how you delta hedge and when you delta hedge.
+46:15
+Speaker 3
+I never actually.
+That's great.
+That's a great point I never thought about when we were talking about different things about that we might discuss.
+I laughed and said we could have we maybe we'll be able to settle this age-old question about whether you should hedge in terms of what implied what volatility you should hedge to, whether you should hedge to what you think forward, imply forward realized volatility will be like the French quants do or whether you should go and hedge to the market like the Chicago floor traders do.
+46:48
+And you had a great line about which one you should hedge to.
+And why don't you tell us what it is?
+46:55
+Speaker 4
+I I I said that the I said that the the the French cons sell exotic variants and blow up in the Chicago ones don't but.
+47:10
+Speaker 3
+And it is, it is interesting because intellectually to me, the French, the French method makes a lot of sense, right?
+Like, why would, why would you hedge to a Vol that you didn't?
+47:27
+You don't think that is going to actually be achieved going forward Instead of like with the, the way that the Chicago guys do it, or I shouldn't say Chicago, but they're just they're, they're more likely to doing this.
+47:42
+You're letting the market move around your deltas.
+And that was the part that I still, I, I, I, I must admit I haven't fully accepted the Chicago way.
+You, you seem to fully accept it.
+What what What makes you so sure that the Chicago way in terms of marking your Vol to the OR hedging your Vol to the implied Vol is a better way of doing it?
+48:06
+Speaker 4
+No, I, so I, I don't, I don't particularly think you should hedge the implied Vol of the market, right.
+I think, I think you have to there, there are many ways to hedge your deltas and you just have to choose the rule one that's right for the market regime and the right asset class.
+48:23
+There's one thing we did at the desk also is you know, we hedged on based on time based measures.
+So for example, if you are measuring Vol close to close and you're pricing everything close to close, then we should hedge close to close.
+Otherwise it doesn't make sense, right, Especially for for an altcoin where there's no market we can dictate where we want to price this, this option.
+48:46
+One thing we did on the on the FX option test is is we hedged every four hours very systematic, right?
+And we just, we just put, we just flat went to flat every four hours at the fix, usually a fix in FX.
+And so then that becomes your measure of realize, right, Because that's the that's the window at which you hedge.
+49:08
+So that should be the window at which you calculate whether or not you know you're the the the realized volume you are monetizing is paying off for the implied Vol that you're paying for.
+49:19
+Speaker 3
+That's a great point.
+And that reminds me of another question I have for you.
+I'm pretty sure that if you watch the S&P trading of the like the S&P, and I know you're an FX guy, but I'm just going to talk in generalities here, that what happens is the book gets rolled over throughout the world and it goes from, you know, let's just start it in Asia.
+49:41
+Then it moves to Europe and then it moves to New York and then it moves to I guess there's a New York close.
+And it seems to me that there's like, I don't know what time it is.
+It's like 3:00 or whatever.
+There's a definite hedging point.
+49:56
+And I feel like the, the, the charm bid really kicks in and, and the, we get a situation where in the middle of the night you get some buying in the S&P 500 futures.
+And that to me really does feel like the opening of like a, the rolling of the book into another, another situation.
+50:16
+And in my day, we wouldn't, we wouldn't hedge in the middle of the night.
+Like I think this is kind of an, an interesting change, right?
+That you're, you're, we would just have gap risk.
+And now all of a sudden you have the situation where apart from the weekends where we have wars and everything.
+50:33
+But you know, apart from the weekends, there's always trading.
+So you can always do it.
+Do you ever worry or did did it ever kind of occur to you guys that people could figure out your position and front run the the potential hedging that they see when you do it at a systematic time?
+50:52
+Speaker 4
+Well, that depends on the notion of the position.
+So I I haven't, I will admit I haven't stayed up at 3:00 AM to watch the S&T too.
+Don't lie you.
+51:02
+Speaker 3
+Have don't lie.
+51:05
+Speaker 4
+Just only only, only only only yen in euro.
+OK, So what I will say what I what I'm guessing this is, is for example, this is effectively how dealers I would estimate decay time, right?
+51:23
+And the way that they decay time or they, the way that they move to through time is not linear in the sense that they will probably wait and borrow active market hours or mark hours where there's more data more than you know than 3:00 AM in the middle of the night.
+51:40
+So the, the variance that they assign to market hours is probably much, much larger.
+And at a desk you, you know, like at a desk, for example, trading FX options, you could decide effectively how much variance you want to assign to each time of day and you can decide how to move time effectively through that through that window.
+52:06
+So I'm assuming it's the flow would be associated to that.
+I don't know if it's mechanical or not, but in terms of someone guessing your position, yeah, I think you'd have a really, really large and it's, it seems to me that, you know, it's, it's very hard doing something like the S&P.
+52:26
+Speaker 3
+Bohan, you're going to be, you're going to laugh at me on in terms of how we dealt with our weekend effect on Friday after Friday at lunch, we used to turn the our Excel sheet to Saturday.
+52:40
+Speaker 4
+I, I'm not surprised.
+I, I think that's, I think that's just the right thing to do, right?
+Like.
+52:44
+Speaker 3
+That was, that was the big sophistication that we had on Friday at lunch.
+Don't turn it to Saturday because we would be like, oh geez, you don't want to be paying for the for the full decay of the weekend.
+All right.
+Well, you know, before we let you go, I want to talk a little bit about correlations because that was originally why I reached out to you to understand how dealers dealt with correlations.
+53:06
+And I was, I was kind of flabbergasted.
+Not flabbergasted.
+I was a little floored that it's ends up being a little more scenario analysis than I ever imagined.
+That was one of the things.
+So why don't you just explain to us correlations, what they are, why they were important in terms of pricing on the exotic desk, and how you dealt with it when you got stuck with some correlation positions?
+53:33
+Speaker 4
+Yeah, for sure.
+So the, the, the main benefit of a correlation product is the IT makes.
+So just as an example, we don't think about, most people don't think about this because they're sort of S&P or you know, trading, trading stocks.
+53:52
+And in in currencies though, we think about everything at least at a bank like Goldman, which is AUS bank, think about everything in dollars, right.
+So how we think about euro dollar and sterling versus dollar, which I'll just say cable, we think about euro dollar and, and cable.
+54:13
+And we also think about how euro moves in relation to sterling.
+And that's, you know, that's an active market, the market and euro sterling ball.
+But there's an effectively an implicit triangle rule between the three because of obviously no arbitrage conditions where you can trade a euro sterling option as well as a euro dollar option or a cable option, right and then.
+54:41
+Speaker 3
+When you have all three prices, you should be able to figure out what the implied correlation is, what the market is saying those they're gonna correlate at.
+54:49
+Speaker 4
+Yeah, exactly.
+So for example, a euro sterling option is just much, much cheaper than a euro and sterling option or a euro and the OR the cable option because the implied core about is about let's just say around 80, right, right.
+55:05
+Because typically the eurozone, whether that's monetary policy or interest rate differentials, it usually moves, moves more In Sync.
+55:14
+Speaker 3
+Right.
+So in essence, what they're saying is that if, if EUR going up, the pound will likely be going up as well.
+So therefore that euro pound won't move as much as the euro dollar.
+55:26
+Speaker 4
+Yes, exactly.
+OK.
+55:28
+Speaker 3
+So how do you deal with it as an option market maker in terms of like when you have all these positions?
+Because one of the things that I've just kind of shocked about is this S&P position where there we have this weird, strange, because you can figure out the implied correlation of stocks within themselves because they imagine you have every single stock in the index and you know what that implied volatility is.
+55:56
+And then you know the volatility of the index itself.
+You can say this is, has this implied correlation.
+One of the things that I'm just flabbergasted by and, and continue to just be amazed at is the realized correlation is being so low.
+56:12
+And, and I've been wondering, is it a question of the products in terms of the auto callables getting sold out of Korea and all those things that are causing that?
+Or is it a function of the pod shops doing a lot of long short investing?
+56:27
+And then one of the, one of the, my big kind of takeaways was that there was lots of people that were trading this correlation because they were in essence shorting index fall and then buying all the individual stock falls.
+And so when we started talking about like, how do you get rid of that risk and how do you deal with it?
+56:48
+I was kind of surprised that the way you did it was through a lot of scenario analysis as opposed to actually being able to change anything.
+Because at the end of the day, if there's not another counterparty willing to sell you correlation, you're kind of done.
+57:04
+Speaker 4
+Yeah, At the end of the day, if there's no liquid market for the actual correlation, it's about the level where you want to take the risk, right.
+So for example, in the in the, in the scenario of your sterling option, there is a very liquid act of your selling your sterling market.
+57:22
+So if you, you know you, if you want to sell your sterling ball and buy the core, you can do that.
+You can just go to the broker market, it's OTC and someone, someone will take the other side at some level for you.
+57:37
+But in more illiquid products and products where there's no liquid correlation correlation market, you kind of have to sort of manage the individual legs of whatever is you are hedging and take the risk of the correlation at a level that you know.
+58:00
+Speaker 3
+Makes sense to you?
+Sense for.
+58:02
+Speaker 4
+You, yeah.
+58:03
+Speaker 3
+And there's just no way.
+I was kind of a little surprised that at the end of the day that that's that's there's you just have to deal with it.
+There's just one of these things.
+It's it's like the old days when you were asked to make a market on an option that never traded again and you had to delta hedge it.
+58:21
+The reality was that you own that option or you sold that option for the life of the product and you were going to have to just delta hedge it through the life of the option.
+And my understanding and what we kind of agreed on was that you you're either long or short implied correlation at this level.
+58:37
+And and there's you're just going to have to hope that the correlation ends up being either a good sale or a good buy.
+58:43
+Speaker 4
+Yeah.
+For for a liquid products or liquid prepares or cross asset, sometimes that is the case.
+And I think the most things people do is they come up with some acts or some pitch of a structure that gives them the other side of the risk.
+That's the most thing they can do and they try to sell that product to get the other side.
+59:02
+Usually also you'll see it because as a function of supply that they've seen from the systematic community, for example.
+So that's a way in that which they would hedge it.
+But you know, you think you can think about it as as a, as an exotic option.
+59:19
+You're pinning, for example, right.
+If you are pinning a dual binary, for example, you're pinning both strikes.
+That's a scenario.
+Well, no one will give you the other side of the risk other than the person you traded with.
+And you have to beg and to unwind it because because no one is gonna like you're gonna, you're gonna have to hedge both and figure out, you just kind of have to take the.
+59:40
+Speaker 3
+Risk.
+OK, I'm going to put you on the spot a little bit here.
+You know, we've tried it about a lot of different things in the option market, in the option world.
+What, you know, if you were conducting this interview, what would you've asked yourself that I might have missed?
+Take your time, no rush.
+Like just think about it in terms of what we've talked about, what's interesting, what other people end up asking you about or what you think is really important in terms of stuff.
+1:00:07
+And also, while we're at it, we haven't talked about the macro world at all.
+1:00:11
+Current Macro Views and Asymmetric Option Strategies
+I, I know you're an avid macro guy.
+Do you have any thoughts there?
+And you know, is there some, is there something you wanted to discuss from that aspect?
+1:00:22
+Speaker 4
+Yeah.
+So let's, let's talk about sort of I guess the macro piece first.
+I think it's a very right, it's a very tricky, tricky moment in time, right.
+1:00:38
+I think people are trying to figure out why the SNP is effectively, you know, gone.
+Got in, Yeah.
+Woken up from the 5 1/2 month topping process just by closing the Strait of Hormuz, Yeah?
+1:00:51
+Speaker 3
+OK, right.
+1:00:53
+Speaker 4
+And so like I, I think at the end of the day, it's very hard to fight this price action.
+I think you have to go with it, right.
+So I think at the end of the day, you, you end up with a portfolio that is both along the asymmetric stuff, which is the pro, you know, escalation stuff, which is long, long wrong crude, long AGS, things like that and versus things that, you know, just long risk assets effectively right, long, long, long S&P.
+1:01:26
+So that, that's how sort of my currently see.
+And you know, my setup is I think a lot of the, the front end rates that's reprised a lot already.
+I, I, I do still like that trade, but at the end of the day, I think it's more of a, about a balancing act and a position sizing exercise to create sort of a balanced portfolio between these two.
+1:01:49
+And I, I do think you can construct sort of using options, you can construct sort of tactical like more asymmetric payouts, just like for example, long being long.
+1:02:05
+Brent is great right now because you can get benefit from the, the backwardation, you get the roll yield.
+But then the other thing is also fall is extremely high.
+So what I like is, you know, I I did this last year as well in the first or the 14 day war is I I like one by two put spreads and and and and and and.
+1:02:26
+Speaker 3
+So explain to people what that means.
+1:02:28
+Speaker 4
+Yeah.
+So you're buying a higher strike put and you're selling 2.
+A lower strike puts at effectively A0 cost or a credit.
+I chose WTI, but you can choose Brent at strikes where you think you know, if there's a piece right, if there's some kind of deal and Hormuz opens where you think WTI goes.
+1:02:55
+And because walls are so high, I am selling the cheap side of the SKU.
+I'm selling the the part where walls are low.
+But because walls are so high, you can get decent payouts.
+For example, I think you can get something like June 75.
+1:03:13
+Sorry, I want to say 78, maybe 71 by two put spreads at 0 cost so that you're effectively bet betting of on the fact that, you know, spot the downside in spot is limited to that level.
+And if you get like a big 20% down move on some kind of deal, your your Max payout is is is effectively the distance between the the the two strikes.
+1:03:39
+So it's a fairly asymmetric way to bet on a sharp move lower while not spending any premium, right?
+1:03:45
+Speaker 3
+And so do you find, do you find yourself using those kind of structure like different structures of that all the time?
+And do you think that that adds a lot of alpha to your trading like like is it's, would you just be outright D1 or do you always try to execute through options?
+1:04:04
+Speaker 4
+Yeah, I'm trying to find the best expression for what I'm trying to express, right.
+So if D1 makes sense from a risk reward perspective, from where my stop is going to be, I'll use D1, OK.
+If something's interesting about Vol, about SKU, then I'll use options.
+1:04:21
+One example is for example there was a week during the Iran war where SMP just didn't do anything.
+I think it was the first war for first week or something.
+1:04:29
+Speaker 3
+Right, because we had this situation where stuff was going down a lot and up a lot, and it was just sitting there going sideways.
+OK, yeah, I'm with you.
+Remember that.
+1:04:37
+Speaker 4
+Yeah.
+And the right expression actually I think you nailed it and it was selling call spreads, right, because you sold the at the money call Vol was pretty elevated and put SKU was maybe at the 99th or 100th percentile the past two years.
+1:04:54
+And so you the, the call you bought was extremely cheap, right, because the, the market had priced in a very, very rich put SKU.
+So things like that that do at edge, I think for for trade expression.
+One thing that I like as well is the same sort of trade as the the one by two foot spread, but on on dollar yen.
+1:05:15
+So I like one by two cost this dollar yen call ladders and track at 160.
+1:05:20
+Speaker 3
+OK, so one second we got it because I always get it backwards because of the way it is.
+So which way are you going explain to us the position?
+And then I just before we talk about this anymore, I have been so wrong on FX ball.
+And maybe you can tell me why I'm such an idiot that I keep saying that you can own long dated ball because I keep expecting FX to get become a a volatile asset class.
+1:05:44
+But I've been wrong.
+So first of all, why am I so wrong that FX Vol is just so lame?
+And then Next up, explain to us exactly what your position looks like.
+So first of all, tell me why I'm such an idiot.
+1:05:56
+Speaker 4
+Right, so the problem with GTFX is everything.
+It's such a, it's such a noisy market with a ton of two way flow.
+But also at the same time, when you look at it, interest rate differentials tend to move together in the developed economy, in the developed world.
+1:06:19
+And it's, it's really rare to see a large, you know, differential where, you know, 1 central bank is what might way ahead of the other, at least in, in NG10FX.
+And they can lead to directional moves.
+1:06:37
+And especially if there's flows supporting it.
+Like I, I think at this maybe at the start of the year, Ozzy had a good run higher because the RBO was hiking rates and risk, risk assets were just totally OK.
+But you had a, you had a large commodity bull run, which, which really helped them from the terms of trade perspective, right?
+1:06:57
+But those, those trend moves tend to be repriced, you know, fairly quickly.
+At the end of the day, FX is always, always, always a relative game, OK?
+And that tends to lead to mean reverting moves more so than than large trend moves.
+1:07:16
+Speaker 3
+OK, so I'm just wrong about long term Vol picking up.
+What is the position you like and explain to us?
+So let's just remember everybody, when we're talking about USDGPY lower, it means a higher yen.
+So if we go from 160 to 150, that means the yen is rallying.
+1:07:33
+Explain to us what the position is.
+1:07:35
+Speaker 4
+Sorry, that means the yen is depreciating.
+The dollar is rally, right?
+The dollar yen higher.
+1:07:43
+Speaker 3
+You think dollar yen you Yeah, You want you're saying I want to bet on on the yen weakening.
+Is that what you're saying?
+1:07:48
+Speaker 4
+Yes.
+1:07:49
+Speaker 3
+OK, OK.
+Fair enough.
+Yeah.
+1:07:51
+Speaker 4
+So I think this was this was pre Iran war but the the same concept applies.
+You could buy a 3A2 month I think it was 15750 158515950 strike call ladder.
+1:08:06
+So buy, sell, sell right at 0.
+1:08:10
+Speaker 3
+That's what that's what a call ladder is.
+It's the buy the first strike and then you sell the 2nd and then you sell the third.
+1:08:16
+Speaker 4
+Yep.
+1:08:17
+Speaker 3
+OK, so you're you're in essence on the hook if it if it takes off the.
+1:08:23
+Speaker 4
+If it takes off higher, yeah.
+OK.
+So if you think about it, yeah.
+And if you think about it, it's actually, I'm not actually bullish on dollar, yen or yen depreciation.
+I'm just saying that in the scenario where we have an event where Dal yen goes higher, I think the depreciation is going to be limited because of what they've talked about because of the rate check.
+1:08:48
+First of all, that has happened in the past.
+But but because of what they're talking talking about in terms of intervention and they're watching 1 succeed as a key level and, you know, market positioning effectively, the market also kind of agrees that 160 is the kind of the key level to defend and to watch.
+1:09:06
+And so there is what I'm betting on really is sort of a grind higher in Daryen if that happens.
+And if it it's not even my view that I think Daryen, you know, necessarily goes to goes to 1950.
+1:09:21
+This is pretty Iran war.
+But the the they the asymmetry lied in the pay off and the fact that it was 0 cost where I even have a small credit where you can do this trade and and sort of bet on the muted realized wall near the 160 level.
+1:09:37
+Speaker 3
+Right.
+I, I remember talking to one of my subscribers, real smart guy and he, I remember him telling me this was before the war when oil was just kind of creeping up.
+And one of his favorite trades was to do the like buy Brent slightly out of the money call and then sell like 1 1/2 more out of the money calls.
+1:09:58
+And one of the things I thought was really interesting was he said to me, oh, this is realizing like a four sharp.
+So he was looking at the structure and rolling it over and continually saying that this, this was a trade that's working.
+And one of the, that's kind of what I realize is that when you talk to these professionals, like the people in the pod shops and the people on the desk, a lot of times they're using these sorts of structures in very smart ways.
+1:10:20
+And really, really, that is where they are adding so much alpha to their trades.
+So I, I thank you for that.
+So before we let you go, let me just finish.
+We're going to ask you a question.
+We're not going to Desert Island Discs that we're going to do.
+What was the, the, the most kind thing someone has done for you in your career so far?
+1:10:41
+Oh.
+1:10:43
+Speaker 4
+Man I have to give this to.
+So I interned at RBC.
+Actually you.
+1:10:49
+Speaker 3
+Did oh you, you worked at the Lion?
+1:10:53
+Speaker 4
+I did during, during I think it was maybe my second year in URC.
+OK.
+I, I just had AI think I was doing sort of portfolio optimization, analytics stuff and I had a I had a very cool boss who really introduced me to like quant trading the, you know, brought me to the trading floor that I thought that was very cool.
+1:11:17
+I didn't know what that I would.
+I didn't, I didn't know anything about training at that time.
+It was my role is much more like analytics and quant driven.
+Yeah.
+Spent time to teach me, brought me to the training floor.
+I thought it was much more cooler that those people got 6 screens.
+We got 2.
+1:11:35
+So from there I think I really got interested.
+I wanted to be, I wanted to be a trader.
+So, so.
+1:11:40
+Speaker 3
+Are you going to tell us your boss's name or you want to keep that private?
+1:11:45
+Speaker 4
+I'll I'll say his initial is DJP.
+He knows who he is.
+1:11:49
+Speaker 3
+OK, well there we go anyways, DJP, thank you for that.
+Listen, why don't you tell people before we let you go about your firm, what and where people that want to learn more about that can, you know, find that information and also anyone wants to chat with you where they can reach out and talk to you.
+1:12:07
+Speaker 4
+Yeah.
+So Falcon X is a, you can think of it as a leading prime brokerage for digital assets.
+So anything from custody, direct market access, market making, of course in spot options.
+1:12:25
+So sort of a one stop shop.
+You can think of it as an asset manager as well for everything digital assets.
+And for me, I don't have a public Twitter account.
+1:12:40
+Speaker 3
+No, you're smart that way, OK.
+1:12:43
+Speaker 4
+But you can, you can find me on LinkedIn at Bohan Jiang or you can e-mail me at bohanjiang.ssf@gmail.com.
+So BOHAN j.iang.ssf@gmail.com.
+1:12:54
+Speaker 3
+Hey, there we go.
+And you can also, if you're on the Bloomberg, you can hit him up on the Bloomberg.
+Bohann, thank you so much for taking the time to explain it, sharing your story and, and, and helping us understand options better.
+We really appreciate it.
+1:13:07
+Speaker 4
+Thank you for having me, Kevin.
+1:13:09
+Speaker 3
+All right, Patrick, time for talking charts.
+1:13:11
+Market Flows, JP Morgan Whale, and Manic Behavior
+Lots going on.
+What is your Squiggle mask?
+What does the Squiggle Master himself think about those markets?
+1:13:17
+Speaker 2
+We basically been two weeks since our last episode and we just when we did our last episode, we were just absorbing the little squeeze on the upside that happened in those final days of that week, but it just did not let up and.
+1:13:35
+Speaker 3
+We saw, We saw.
+1:13:39
+Speaker 2
+You know, it's it would be impressive if it was just Avis that did that squeeze, but instead it was the entire market took a took a squeezing here.
+It's been a bad week for the short sellers, this is for sure.
+1:13:52
+Speaker 3
+Yeah.
+I guess I'd like to just jump in there quickly because one of the things that I think is amazing about this market is how many it's never happened before are actually happening, right?
+We're we're getting these sorts of moves from oversold to overbought that have never occurred in history.
+1:14:12
+We're getting moves from down 10% to all time highs within 10 days.
+Again, something never happened again in history.
+I don't know if that's a good sign.
+And you could interpret it as like, that shows how strong the market is.
+1:14:27
+Or if you interpret it from a negative side, I'd say it shows how manic the market is and how it's like convulsing almost.
+1:14:35
+Speaker 2
+I would go and do a third version of that.
+Like I think that somewhere in the middle of that, because what, and you could push back on this, but I, I feel that this demonstrates genuinely how flows have driven markets more than narrative.
+1:14:53
+A like what, what we basically had was an extraordinary trigger that caused many of these systematic traders to sell on the way down.
+And, and I think you were the one that was writing about it, but that JP Morgan whale was the turn point on the market at the bottom.
+1:15:15
+Like when, when that roll happened on the last day of the of the month and, and basically everyone that was net short, dealers holding all this gamma delta hedging on their books, all the Ctas net short.
+1:15:30
+And suddenly we saw a situation where the flows just pivoted and forced them to completely go the other way and had nothing to do with the narrative.
+Nothing really changed.
+There's a Strait of Hormuz is not open, the same glutted, the same economic problems.
+1:15:46
+Everything is still actually very raw, very real.
+Nothing has changed other than it was flows driven and and the point I want to make and.
+1:15:55
+Speaker 3
+You can push.
+1:15:55
+Speaker 2
+Back is is that it really goes to show like in this as we've progressed in the way that the market is evolving.
+You can't ignore flows.
+Flows are seem to be the ones holding the steering wheel and when this is when the driving is actually happening.
+1:16:12
+What's your What's your take?
+1:16:14
+Speaker 3
+Well, I I agree with your analysis about the last two weeks of March and the JP Morgan option Whale got the dealers.
+We, we declined into the strike where they were short.
+I saw so many bad takes out there, Patrick, where folks were talking about how I was going to pin to the strike.
+1:16:31
+And I'm like, no, it's the exact opposite.
+Because the dealers are short this strike, they're not long the strike usually we rally up into the strike that they're long and there was all sorts of bad takes out there.
+And I was highlighting how this was making the system very unstable.
+So what I agree with that part.
+1:16:47
+I also agree that once that rolled off and the dealers were no longer short, it made for a situation where the marketplace was more stable.
+It it, it wasn't as much chasing.
+I guess where I push back a little is that folks seem to, you know, imply that then all the Ctas got back in there and they pushed it up and that there's other, you know, vault control folks are buying it.
+1:17:14
+Well, first of all, the vault control is barely re leveraged.
+So it's not them.
+I, I really think it's more retail and maybe it has to do with the tax refunds being higher than than folks or sorry, the tax refunds coming through and that money going into the market.
+1:17:34
+But to me it feels much more manic and not as much flow driven.
+And I know lots of people love to blame it on the Ctas and they love to say that that's what it is, but I, I don't buy that.
+That's what's driving this to me.
+It feels like a lot of people got bearish and then now they're completely convinced that the problem is fixed and they're chasing it.
+1:17:57
+Speaker 2
+OK.
+So I'll I'll agree.
+But the what the reason why I think the Ctas were important is it's because it's the marginal buyer.
+The fact is, is that there was retail coming in there.
+There you can't not have a rally like this without retail participating.
+1:18:15
+But it's about the fact that they were not contributing to the sell side, they were contributing to the buy side and that marginal buyer is discovering a higher bid or pressing the bid persistently in price discovery to find those higher levels in the market.
+1:18:31
+The thing that's really interesting and why I do actually agree with you on the retail side and one of the things that's been so evident and I talked about my members for the last two weeks was that that first last five months was a story about this great sector rotation.
+1:18:49
+It was the mag Sevens were dead.
+It was this was the software Doom AI is going to finish things off and everyone's got to own consumer staples, Halo, all of these different themes.
+1:19:05
+And out of the gate here there is the breath never got much above 50% because this is all being driven into the tech names and they have been the leadership out of this in a huge way.
+And and that's the new thing.
+1:19:22
+And This is why retail, when you said that retail's back then I absolutely have to agree because retail wouldn't be coming in there to, to take on some more utility stocks.
+The, the retail comes in where, where they are most familiar with, which is owning the, the sexy names that, that are on sale.
+1:19:44
+And, and so to me, I agree with you on that.
+So I want to go through.
+Do you want to add to that?
+1:19:50
+Speaker 3
+Or do no, no, no, that's great.
+Let's just let's get to the charts.
+1:19:53
+The Narrow Rally: Mag 7s and Semiconductor Dominance
+So so let let's just kind of straight up nail like the the big leader in the SMH, the semiconductor index.
+And this thing is running like we've got ourselves a full ON Semiconductor bullface.
+1:20:11
+And what's amazing is, is that, you know, while NVIDIA certainly has turned the tide and, you know, has approached its previous highs, but this is really where AMD has decided to run away.
+Like it stole something.
+Like, look at this morning's gap.
+That's not even an earnings driven gap.
+1:20:29
+The thing just goes from 300 to 350 bucks like nobody's business.
+They've decided that AMD is like they're a little.
+1:20:36
+Speaker 3
+Darling now, but help that Intel reported awesome numbers.
+1:20:41
+Speaker 2
+Yes, Intel goes screaming higher with this gap.
+Point is, is, is that the semiconductors are on fire and they are taking so much flow in there.
+And more importantly, the mag sevens have have gotten love.
+1:20:57
+You know the one thing Kev, that's interesting about this entire Mag 7 pull back that we saw for five months and we've talked about the Mag Sevens so much in previous episodes, but this entire pull back on the Mag 7 basket has been basically a 50% retracement.
+1:21:16
+They gave back half of their gains and after a four or five month consolidation that didn't do more damage than a 50% retracement.
+Often that's a correction that has played out.
+And the fact they broke out with this kind of momentum makes the earnings next week the probably, in my opinion, the single most important thing out there.
+1:21:39
+Maybe even for the for the purposes of the bull market, maybe even more important than the resolution in Iran.
+Because why would I say something so bold?
+Because the Mag Sevens came out of the gate so strong and they're at such key overhead resistance that if after five months of them dragging their heels, if they start beating and they actually all gap higher in any way like NVIDIA or Intel style.
+1:22:06
+On the upside, you've got the making of the next bull leg driven once again by that narrow Mag 7 basket that would be needed for the S&P to go 7500.
+And therefore whether they beat next week or not, I think is the 100% the thing to watch.
+1:22:25
+Speaker 3
+Won't disagree with you and the and and the reality is that if if, if this if they continue, Dave, we get earnings like Intel on the other names.
+They're just such a large portion of the index.
+It's going to dominate the index.
+1:22:41
+It'll be what we're watching.
+1:22:42
+Speaker 2
+Let's go through them all.
+So like Apple, it's been consolidating sideways.
+And what technicians?
+I don't know whether a technician wants to jam a horizontal triangle or a flat formation or a megaphone or whatever pattern you want to throw on.
+1:22:58
+The point is, it's been consolidating sideways for five months, and it's approaching its highs right before its earnings.
+Right you?
+Then let's do.
+Microsoft has been caught in the whole SAS software murder.
+1:23:14
+It's on its way back.
+I think that out of all the mag sevens, the one that's least likely to make it back to its highs is Microsoft, just because it's been killed so badly.
+But even if this thing does a Fibonacci retrace, we could see 480 bucks on the upside on this thing.
+1:23:31
+Speaker 3
+Right.
+Can I jump in here with a little bit of funny mentals?
+Yeah, Microsoft announced that they were for the first time ever trying to buy out some of their senior developers.
+And I think it was 7 or 8% of the workforce in terms of early retirement and and get them out.
+1:23:47
+And that was kind of this shot across the bow that the AI is really kicking in and that these companies are going to have to lay people off.
+It was quickly followed by Meta doing the exact same.
+What I found really interesting, Patrick, was I would have thought the market would have taken that positively.
+1:24:07
+And it was just a day's reaction.
+But the market, the market sold off on that news.
+And I found that surprising.
+And even today, we're recording this Friday morning.
+Microsoft is, is, is up.
+But considering how much everything's screaming, it's not doing that great.
+1:24:24
+And one of the things that I think we should just watch for is these software companies are going to start laying off people in a big way.
+And what does that mean for the stocks?
+1:24:35
+Speaker 2
+Yeah, Yeah.
+It's, well, you know what, at first, I could imagine it being a A+, but in the end, it really does show the problem that everyone's saying with AI, which is some of the highest paying kind of jobs out there are, are going to be downsized and it's going to be economically disruptive.
+1:24:58
+But that's a such a big macro theme that it's not going to reflect into stocks on any short term basis.
+But it's a scary thought that continues to be like, you know, we something we're going to have to deal with in years to come in the markets, right, The so moving on to like Meta, you're seeing flagging formation like if it beats, it's going for its previous high retest near 788 hundred very easily.
+1:25:23
+You know, Google was just the, you know, one of the strongest throughout the whole period.
+The entire consolidation was even just on the shorter distance breakout, a 61.8 off of the midpoint and broke out now and near 52 week highs.
+1:25:41
+So all it needs is 1 beat.
+And this thing is running like Intel to new fresh highs and and and pressing, you know that a big move on the upside, right?
+And then you take Amazon already trading at 52 week highs and it hasn't even reported yet.
+1:26:01
+This has been one of the ones that have been the strongest out out there.
+But this is again, one of those that's setting up like Google for for that press to fresh new highs.
+So, you know, I mean, we talked about NVIDIA already, which is near its highs, but you can see other than Microsoft and maybe Meta, which have kind of dragged themselves a little bit behind, you've got a situation where many of these mag sevens, if they beat, they're going to gain traction.
+1:26:27
+And if they get traction, that's what the from a market capitalization perspective, this is what the S&P needs in order to make any legitimate progress.
+And so this is the thing to watch, in my opinion, for next week, 100% like the all eyes on on that.
+1:26:48
+And what I want to highlight is off the liberation day lows from a measured move perspective.
+There is a weekly measured move up towards 74 to 7500.
+And one thing that I've been telling my members, it's like we ain't going up there without the mag sevens.
+1:27:04
+And This is why.
+This is why what happens here in the next week is the thing to watch.
+All right.
+So the the other interesting thing is, is that the breadth of the market hasn't improved much.
+We're at 56% for a market that's trading at 52 week highs.
+1:27:23
+Pressed this way, we have not seen a broadening of this rally.
+And what's interesting is like when you take a look like financials, the XLF failed right in their fib zones failing to demonstrate that they are joining the party on the upside.
+1:27:39
+And so we have a situation where this is a very, very narrow rally.
+Like even even the defense contractors, you know, Raytheon missed you.
+Like this was a leadership space that was genuinely running and it's not participating.
+1:27:56
+Like this is literally I'm I'm I'm curious whether this is a 2000 Deja Vu where just in the final partsofthe.com bubbleonlythe.com bubbles stocks were running and everything else was just flat.
+And I wonder whether we're in the midst of seeing basically a parabolic bubble in the in the stupid stocks.
+1:28:20
+Speaker 3
+Don't you know, though, Patrick, this time is different.
+And those guys in 2000 didn't know what they were doing this.
+This time it's different.
+1:28:26
+Speaker 2
+They know what they're doing this time.
+1:28:28
+Speaker 3
+This time it's much more about don't worry, don't worry about any similarities because this time is different.
+1:28:35
+Speaker 2
+Oh, wow.
+Anyway, so, so nonetheless, we have a situation where where the breath is not impressive for where the market is on a relative basis.
+You would think when a market's making 52 week highs, we should be at 66 to 75% participation at minimum we're at 56%, which is we're saying it's very thin on in terms of that participation.
+1:29:02
+It really is concentrated very deeply.
+OK.
+So what's interesting is that the your your usual international suspects join the party.
+Nikkei broke to 52 week highs, Cosby broke to 52 week highs.
+And so those those kind of AI tech heavy kind of Asian themes sectors have our stock markets have have also collaborated and and and contributed to this entire momentum working that way and and what now when I.
+1:29:37
+Speaker 3
+Can I jump in there?
+Because I think one of the things that's interesting about that is if we think about the, the energy or the military conflict in the, and the countries that are most affected by this war or, you know, this energy problem, you just named two of the countries that are most exposed.
+1:29:53
+And yet their stock markets are doing the best out there.
+It's, it's a real dichotomy in terms of, or a paradox in terms of what you're, what you're experiencing in terms of the narrative about, Oh, these guys are the most screwed.
+And yet their stock markets are doing the best.
+Obviously we know why.
+1:30:08
+It's because they, they have all these semiconductor industries and, and things of that nature.
+Having said that, Japan is not is, is influenced by that as Korea is, and yet it's still doing well.
+I, I, I continue to love Japan and think it's one of the the names that you just buy it and forget it.
+1:30:29
+Sure.
+1:30:29
+Speaker 2
+Like, I, I mean, that's a, that's a whole secondary conversation, but but I do think that we kind of pivot here and do talk a little bit more about what's happening in the Middle East.
+And cuz I do think at some point the stock market will give a fuck.
+1:30:49
+It will at some, some point and you know what, it may very well be, you know what, I I don't want to use the 2000 and seven 2000 analog because I don't think there's going to be a great financial crisis.
+1:31:05
+I don't think that there's going to be bank collapses and and all this drama.
+And it doesn't even have to be a bear market of that magnitude.
+But what but what it is the part of 2007 after we saw the, the, the first wave of failures in 2000 and July 2007, Bear Stearns and all these things in terms of the subprime, the market brushed it off after a 10% correction, 12% and rally to fresh new highs in October.
+1:31:36
+And it took an entire six months later for the fundamentals to matter.
+And, and I, I wonder whether that's a good analog for the fact that the macro matters.
+But what it is, is everyone expects that everyone should give a shit now.
+1:31:54
+But maybe the scenario is the all these macro things like the the knock on effects of higher oil prices on a a sustained basis and all these different things are problems.
+But maybe the stock market don't give a shit about that till September like it's.
+1:32:10
+Speaker 3
+Can I, Can I jump in here because I do do have an opinion about this.
+The fact that oil is only $95, Trump is not wrong when he says it's really not that high.
+Even $4.00 gasoline or whatever it is.
+1:32:26
+Or when you adjust it for inflation and look at this, the numbers aren't that high.
+So we could have a situation where oil stays at $95 and the stock market keeps going higher.
+But the, what I find difficult is the, the folks out there, the bear, let's just take Jeff Curry because he's probably the one that's the most visible that people will know.
+1:32:52
+Jeff Curry, former Goldman Sachs, you know, oil analyst or commodity analyst that's now working for Carlisle or somebody like that.
+He's talking about the fact that we're going to run out of run out of oil.
+And in essence, what's going to happen is the economy is going to grind to a halt.
+1:33:11
+I suspect that before the economy runs to a halt, we're going to have oil at $200.00.
+So you have on the one hand those folks saying this, yet at the same breath we have oil trading in $95 and it's not showing any signs of worry.
+1:33:29
+And the real question ends up being is the oil market wrong?
+And the folks that are kind of doom at 11 barrel counters, are they underestimating the fact that this market is more malleable, it's more able to adapt and that there's oil at different places and that they're overly concerned about a pinch in the system that doesn't ever occur?
+1:33:55
+Because if that's the case, if we don't get despite the 200 Patrick, then what is this Strait of Hormuz really matter like it yes, it like I I guess what I'm saying is that unless you get a a real push in oil, it's not that high and it shouldn't matter as much as the bears think.
+1:34:18
+Now, I, I happen to to be sympathetic to the idea that the the markets are getting tricked.
+Not tricked, but the markets are getting influenced by rhetoric out of the administration because they don't want the price to go high, so they're trying to talk it down.
+1:34:34
+So it ends up being that the signaling mechanism of markets has been broken, right?
+The the administration keeps saying there's going to be a deal, there's going to be a deal.
+So therefore the the market doesn't go ahead and price it in higher, which then could cause like a supply response.
+1:34:53
+And ultimately, one of the things that I look at is that if, if they are talking down the price of oil, they're doing the long term market a disfavor.
+Because if you're sitting there in the shale in the US and you're thinking about maybe I should go in and start, you know, exploring more and, and increasing supply.
+1:35:14
+But then you hear the, the, the administration talk about the fact that this problem is going to be solved tomorrow.
+You don't go and do the necessary steps that will actually create a situation where we get more supply.
+So, so in the long run, you're making it worse.
+1:35:30
+So bringing it all back, I, I, I guess where I'm where I'm saying is it's only going to matter from a macro perspective.
+If we get what the Jeff Currys of the world think in terms of a spike to 200.
+And if it's just a situation where we meander around 95, then I suspect the market could handle it better than than the Bears think.
+1:35:54
+Geopolitics, Oil Prices, and the Energy Bull Market
+So I, I feel the safer approach in my, the way I'm approaching it anyway, is to take something more down the middle.
+And the way that I view it is that there's going to structurally be a huge inventory draw that you can't hide.
+1:36:18
+And therefore there will be a structural demand for oil long after the the straight is reopened and it's going to take out, there's going to be all sorts of issues to normalized oil markets and therefore there's a higher floor for oil.
+1:36:34
+And, and so my starting thesis is that the we're not going back to the prior regime of oil for at least another year.
+You know, maybe you if you want to forecast 2027 or something, 2028, everything goes back down.
+1:36:51
+I could buy that.
+But this year I think higher oil is here to stay.
+And so with the fact that oil pulled back to me, it's still very asymmetric.
+Not only if you go to deferred contracts, do you carry in some cases positively because of the backwardation and have at least a, a, a, a positive tailwind on your back.
+1:37:15
+But you at the same time in probably have far less downside risk from these levels.
+Like maybe let's say down to $80 or something like this would be a a reasonable downside floor, but you have a huge right tail.
+1:37:30
+And so I still think at this stage, a betting on oil is still asymmetric in a sense that you long as you can buffer some reasonable loss on on, you know, draw downs of like $10.
+1:37:46
+On the downside, you have a higher floor holding you up.
+And if things are are very much like COVID where nobody cares till everybody cares and then they all care at once.
+And then suddenly that right tail explode loads and oil goes shooting higher.
+1:38:02
+You, you have you have that upside.
+So to me, with the pull back off of 120, it's an opportunity for that asymmetry to have reset.
+1:38:12
+Speaker 3
+But you're, but you're taking advantage of the phenomenon that I discussed in that the administration talking up a potential of the deal is keeping those deferred contracts at lower levels than would otherwise be the case.
+So you're saying instead of going and, and, you know, railing against you, you're like, I'll block from you.
+1:38:32
+And, and that makes complete sense because what you're arguing is that those, those contracts are too cheap given the potential for a spike higher.
+And I'm not disagreeing.
+I, I'm, I'm with you.
+The I guess what all I'm saying, Patrick, is that until we get the spike, I'm not sure that the stock market cares that much.
+1:38:51
+Speaker 2
+Yeah.
+So I want to move on from oil itself and talk energy stocks briefly and, and what and my view from energy stocks versus oil is slightly different in that I I believe that we went through a decade, whether it's renewables and everything that energy stocks and energy CapEx spending and all these things were you know taboo.
+1:39:17
+You basically there was no build out nothing.
+And what I believe that this war is done is structurally changed the regime that we're in, in terms of energy, the attitude towards energy and investment into energy security in and finding new sources of energy to diversify away from the hotspots.
+1:39:44
+And things like this is going to be stay mainstream.
+And I think that that the bull market in energy is is still just getting under way.
+And even and it doesn't need oil going to 200 in order for energy stocks to be in a new bull market.
+1:40:01
+And I the fact that we've seen all these energy stocks now do 50%.
+Tracements, I don't think we see the Eiffel Towers.
+The Eiffel Tower formation is obviously when us are giving back all of the gains that were made.
+1:40:17
+And I'm in the camp that that we're not going back to like previous lows like this was a short squeeze on the upside on energy stocks or something.
+I think that the old dip should be bought and we're finally seeing a dip.
+What's your thoughts?
+1:40:33
+Speaker 3
+I I think that you're going to be completely wrong and the reason you're going to be completely wrong is because everything you said I completely agree with.
+I have nothing to add.
+I it makes complete sense to me.
+I I've owned energy for a while and and when people ask me I'm selling I say Nope keeping them all alongs.
+1:40:53
+Speaker 2
+No.
+So it's very simple.
+Take the XOP and put in a monthly chart and I want to highlight that this was the bear market of the last, you know, decade and a half and this was just the breakout out of a five year trade range.
+1:41:10
+You know, does this look like a bubble that's run too far too long?
+You know, like this, this chart to me is saying that there's something on a big picture monthly chart basis that's happening that even long after this straight has reopened, something's been set in motion and that this this is going to be a place that will continue to see flows for long periods of time is my view.
+1:41:36
+And so to God's ears.
+So the, the interesting thing that, well, the next thing I want to move on actually, let's quickly just touch on gold and what's particularly interesting about gold.
+1:41:47
+Gold's Correction and the Industrial Metals Rally
+Obviously there's a lot of people that like to speak to the fact that there's sensitivity to rates, sensitivity to the dollar, all of these things driving it.
+But I like to keep the gold, the precious metals trade a little bit more simple.
+1:42:04
+When we look on a weekly chart, we had one of the most extraordinary bull markets on the upside.
+It was just an absolutely stunning 2 year bull run on the upside that ended it with a parabolic short term blow off.
+1:42:21
+And while I don't necessarily think that this ends with a huge crash, what I do think is that after a 2 year bull run and a blow off top like that, there are there's prolonged periods of a backfilling and absorption and reconsolidation before the next bull phase could resume.
+1:42:43
+And the way that gold continues to behave, it collaborates to the other, at least as technically confirming it to me like you have gold here can't beat its fifty day moving average, can't beat a Fibonacci zone.
+On the upside, this is still a market.
+1:43:01
+And where there's silver, platinum, Palladium, the gold miners, they all look the same, which is if there's a long term bull story and if you hold it long enough, you'll be fine.
+But if I'm talking the second quarter of the year, this feels like it hasn't finished correcting the the last blow off and that we have some more chop to absorb here on some backfilling before any bull market resumes.
+1:43:29
+Speaker 3
+I will say though, Patrick, the gold miners might be somewhere you could hide here, you know, just announced their earnings and blowout earnings behaving well and.
+1:43:40
+Speaker 2
+I'll say no.
+1:43:41
+Speaker 3
+You'll say no.
+OK, why is that?
+1:43:43
+Speaker 2
+No, well it's the same pattern.
+It blew off on the upside it it failed on the thing.
+Right now it is just showing a direct correlation to the the chart on gold.
+So unless I see unless I see the correlation break right now, all I see is that the pattern is actually identical on the gold miners to gold now.
+1:44:05
+It doesn't mean that there's a huge downside, it just means that you might have to absorb several months of grinding and, and this just won't be a place that's going to get a lot of attention.
+You know, the, the kind of reminds me a little bit of what uranium had to go through for a little bit.
+1:44:22
+You know, before the re resumption of the uranium bull run, it went through like 6 months of very challenging period.
+Actually, let's just use the URA as an example.
+But you know, like before the the IT went through, let's say these kind of periods where it's just spent, you know, half a year to a year just banging out some short term lows before re resuming.
+1:44:46
+And even arguably is doing that over the last year, right.
+Like there's these periods where it's still a bull market on the monthly charts, but it just spends A prolonged period just absorbing the prior bull run and before it re resumes.
+1:45:02
+On the upside, I'm a long term a very the bull thesis on gold is in my mind sound like I don't I wouldn't have no actual fundamental reason to hate gold, but they feel like they're in correction mode and there's no evidence that they have left that correction mode.
+1:45:21
+And so the assumption then is that they're that you have to assume that they were remaining in this corrective phase.
+1:45:26
+Speaker 3
+I'm more hopeful that you are that the gold miners can grind higher even in a.
+1:45:31
+Speaker 2
+Well, you might be right.
+Because we, because we disagree, that's the first sign that that one of us.
+1:45:37
+Speaker 3
+One of us is going to be right.
+That's like.
+1:45:43
+Speaker 2
+We when we both agree, we're both wrong, but if we disagree, one of us is for sure going to be right.
+OK, so listeners, this, it makes it totally worth listening to the show, OK?
+1:45:55
+Speaker 3
+That's right.
+There's always someone who's going to be right.
+OK, what's next?
+Copper?
+I I.
+1:46:00
+Speaker 2
+You know, what's interesting is that copper for the last, you know, first quarter of the year, surprisingly correlated to gold.
+There was some bizarre reason industrial metal was kind of up when gold was up, down when gold was down, but really decoupled in the last month and busted back up towards its highs.
+1:46:22
+Maybe copper is because it's getting basket into the semiconductor data center thesis, right?
+Like everyone needs copper to connect these things.
+So maybe that it's driven by the the investment in that basket.
+1:46:39
+But copper, at least at this moment, actually is behaving way better than gold.
+1:46:45
+Speaker 3
+You'd be proud of me, Patrick the other day for my I do this recap.
+I I just kind of sent some charts off to my subscribers and I was stumbling upon the fact that the Bloomberg industrial metals index.
+It was just a nice clean breakout.
+1:47:00
+It's looking terrific.
+It's it's, you probably can't pull it up, but I'm with you.
+But it's, it's that these these stocks are going and in a way that you wouldn't expect and or not these stocks.
+1:47:12
+Speaker 2
+Lithium, lithium broke out aluminum even though Alcoa missed on its earnings, but aluminum was breaking out like yeah, and even even all the iron ore plays still look very good.
+I'm just going to pick on Rio, but like it's up at 52 week highs.
+1:47:30
+So you know, if, if you're not in the precious metal space and they're in the mining space and metals and industrial metals kind of basket, they're, they're getting love.
+They're, there's, they're, they're, they're behaving very well and, and, and continue to, to take flow.
+1:47:49
+And so yes, on that.
+What's interesting, Kev, though, I want to just go back to energy for a moment and highlight gasoline.
+So this is the continuous chart on gas.
+But what you can observe here is that the pullback on gasoline was nowhere proportional to the pullback on oil.
+1:48:06
+And we're trading back to in North America at the 52 week high of gasoline futures.
+And I find it interesting, but they they didn't get the memo that things pulled back 20% off of their peak highs.
+1:48:22
+And it's interesting will be whether or not this can bust this 330 level on the upside per gallon.
+1:48:28
+Speaker 3
+There's some real seasonality to that, though.
+You have to be careful.
+And I think that's what you're going to be in summer.
+Yeah, we're going to summer the driving season, and it's to be expected that's going higher.
+And I'm pretty sure most people will say that that that's not coming down anytime soon.
+1:48:43
+Speaker 2
+Yeah.
+1:48:44
+Analyzing Dollar's Range, Yen's Weakness, and Euro's Future
+So briefly, I wanted to just change the gears here and go to the currency markets for a moment.
+The dollar is deeply embedded in its one year trade range and it's actually going on more than a year now.
+1:49:02
+Other than that little turtle head formation that it had at the back in January, more or less this entire trade range has been defined in by this kind of like 96 to 100 zone.
+And we're in a deep right in the dead center of that trade range right now.
+1:49:20
+There's no resolution on the dollar.
+The dollar is has 0 trend.
+And the interesting part to me has to be the euro.
+I mean, obviously.
+OK, first of all, let's start with the yen.
+Just get this one out of the way.
+I'm going to do the yen U.S. dollar inverse charge just so that we can talk in yen terms.
+1:49:40
+But the yen has been extraordinarily weak and and simply looks like it wants to fail.
+Like I can't believe this level like when it put it on the the traditional number of the US dollar yen where the 160 level on the upside, but there's a ceiling.
+1:49:58
+But the but it is not rejecting there doesn't with their we haven't seen an intervention.
+We haven't seen anything that has tried to talk the US dollar down or the yen up off off of this.
+First of all, we have any comment on that before we go to Europe.
+1:50:13
+Speaker 3
+So a buddy was telling me the other day that the yen is traded with within like one handle of 159 1/2 for the past like 33 days or something.
+At which point I responded.
+I told them I said makes complete sense because I'm long all sorts of all on the yen.
+1:50:33
+So I'm I'm single handedly.
+1:50:36
+Speaker 4
+Yeah, you're, you're.
+1:50:37
+Speaker 2
+On a terrible.
+1:50:38
+Speaker 3
+Call about that you.
+We were going to see some FX ball.
+It's been an absolute just dud of a call.
+We've seen nothing.
+In fact, it's the exact opposite.
+It's been so quiet.
+I'm perplexed, Patrick.
+It would seem to me that there should be more volatility in the FX market, but there's just not, and I'm wrong and there's just no excuse for it.
+1:51:00
+Speaker 2
+So I want to pick your brain on the euro here.
+So the eurozone they were doing their fiscal, they the rates differentials, everyone was expecting the US to be a little bit more the, the softer on the rates.
+1:51:17
+Everyone's looking for the ECB to potentially even raise rates here because of inflation pressures.
+All these kind of things has a lot of the banks out there anticipating 119 to 122 levels on a lot of these forecasts out there.
+1:51:35
+But the, the one thing that I kind of really spend a lot of time thinking about is, is that, you know, there there's economic stresses in Europe and the fact that they are a net importer of oil and they're a net importer of food and all the different goods from the Middle East means that they are disproportionately impacted by what's happened in the Middle East versus the US.
+1:52:03
+The US can actually has a huge buffer that can withstand and have less economic impact than Europe.
+And and therefore the whole rates differential argument I think is rubbish.
+Because in the end, I think that when we look far enough out, the Eurozone will have to inevitably provide some sort of easing to offset the impact of the economic slowdown that will result in, from from all these rising prices.
+1:52:34
+And so I'm, I'm wondering whether this is 1 big topping formation in the euro and whether the end result of this will actually be a euro that breaks this almost like head and shoulders pattern to the downside.
+What's your pushback on that or what are you thinking?
+1:52:51
+Speaker 3
+Well, I guess my pushback is that everyone knows all those things that you said in terms of the.
+1:52:58
+Speaker 2
+But yet that's not the consensus forecast.
+1:53:02
+Speaker 3
+I'm not as sure Everyone I know is bearish in the euro because they know that they have to import all sorts of oil.
+I, I don't know anyone that's saying buy the euro because they're going to raise rates.
+Everyone's, you know, talking about how screwed Europe is.
+1:53:18
+And to me, it feels like I I guess we could look at the actual sentiment charts, but I I don't see the same thing you're seeing.
+1:53:27
+Speaker 2
+So are you more neutral here on that?
+1:53:30
+Speaker 3
+I don't really have a view on the euro except that it it just feels to me that everyone is always bearish euro and the times people get more bearish euro and I'd be shocked if people aren't more bearish euro into this energy crisis.
+1:53:50
+Having said that, if the energy like if energy spikes to 200 bucks, no doubt they're going to be the ones that feel it.
+So are you like am I comfortable betting you know that that's not going to happen?
+1:54:05
+No.
+So I I'd rather just there's, there's easier trades out there to me.
+1:54:09
+Speaker 2
+Yeah, yeah.
+So, so moving on, I wanted to, by the way, there's a lot of people that are obviously getting a little bit of chatter going about the fact that Bitcoin is broken out of the trade range that I had for several months on the downside.
+1:54:28
+And the one thing that I just want to push back on the breakout because first of all, it is a breakout.
+I'm not going to technically say that it's not a breakout.
+I spent a month above its fifty day moving average.
+It broke the previous highs.
+Technically, this is a cumulative price action.
+1:54:45
+But what what we've been highlighting for the last year on Bitcoin is that it really is a risk on risk off asset.
+It is not a safe haven in any way.
+And the market here went risk on in the last month.
+1:55:02
+And so if the market's going risk on the the reaction function that I was expecting is a Bitcoin would go up and it is.
+But when you look at the magnitude of this rally relative to the way things are ripping on the things that are working, this doesn't look like anyone's giving Bitcoin any real love.
+1:55:23
+Like this is not like the the next bull market in Bitcoin is starting kind of price action.
+To me, this is just it was so oversold that it's just taking a little bit of that that oversold pressure off and it's rebounding.
+1:55:40
+But we haven't even beat A-fib zone, nor have we beat what were its previous lows acting as overhead resistance.
+And so while Bitcoin can strengthen another 10% toward let's say 85,000, on the upside, there isn't any impressive hurdles being beat yet.
+1:55:59
+That is make me want to say something more optimistic to other than it was very oversold and it was due for a retracement and it's getting one and that's the way I'm going to leave it at Bitcoin and I I don't know if you want to comment I.
+1:56:14
+Speaker 3
+Don't comment about Bitcoin.
+1:56:15
+Rates Market Stability and the Avis Short Squeeze
+The the the next thing though I wanted to touch on was a rates and I'm a shocked that nothing is really happening in the rates market.
+So this is the so for December 2026, things have been so quiet after what was an extraordinary month of March.
+1:56:35
+We had almost like a 1/2 day reaction and then they've just been in a trade range ever since.
+Like we're basically a stone throw away from the same price level we were a month ago.
+A point here being that and the correlation, the inverse correlation to oil is quite evident, right?
+1:56:57
+And the question becomes, you know, if oil is going to have another meaningful spike higher.
+And I say if because we don't know that for sure.
+But if it is, will we see another hammering on the downside of these sulfur futures or will it decouple?
+1:57:16
+And that and that's what I want to pick your brain on like what do you think that the oil correlation on?
+And here by the way, is the Ester chart and you can see in Europe almost identical chart formation in a sense of the reaction was the same.
+1:57:32
+Do do we see that if we have an oil jump to 1:20 to 1:50 that these things will have one more full leg lower?
+1:57:43
+Speaker 3
+So I think that's a great question, Patrick.
+And actually I'm writing a piece as we speak about this topic.
+I think there was a much different reaction function in the front end of the curve when you were taking out future implied easings versus pricing in further hikes.
+1:58:05
+Meaning that when oil first went up, it was easy for the front end of the curve to follow oil higher like the rates to follow them higher for the fixed income to sell off.
+Because what was occurring was that we had a situation where there was 3 cuts priced in and it seemed to be evident that the Federal Reserve would be have trouble cutting rates into a spike in oil.
+1:58:34
+It's one thing to take out further easings.
+It's a much different, you know, situation to price in hikes.
+So my suspicion is that the next time we see a spike or sorry, if we see a spike in oil, the front end of the curve will not follow oil higher by anywhere near the same degree.
+1:58:56
+And I've done some correlation work and it's already breaking down in terms of that relationship.
+It's become less sensitive and and not following.
+1:59:06
+Speaker 2
+But a double bottom retest would be within your.
+1:59:11
+Speaker 3
+If we got $200 oil, no doubt that the the front end of the curve would get under pressure.
+You to expect otherwise would be foolish.
+Having said that, I, I suspect that if we get $200 oil, the back end of the curve behaves better because what'll happen is, is they'll start pricing in a recession.
+1:59:36
+So what I, what I would anticipate seeing in a, in a spike on oil would be a flattening of the curve, which is very much against what most people believe and what, how most people are positioned.
+But that would be my expectation.
+1:59:53
+Speaker 2
+All right.
+That's the interesting thing by the way is that if you just overlay the behavior of the price on the chart rather than looking at the magnitude of the moves, it's interesting.
+But even the long end of the curve and the long bonds actually behave the same way.
+2:00:09
+We've seen generally that the rates markets have all kind of had the same reaction and and it's been an incredibly boring month.
+The last the last 3-4 weeks has just had these bond markets look like they're watching paint dry.
+2:00:27
+Speaker 3
+Well, compared to the rest of the stuff, the how much the rest of the markets are moving, that is an accurate assessment.
+But I will push back a little in that the moves in the bond market were more violent on a relative basis than the moves in the stock market in the initial kind of days or weeks ago or so.
+2:00:52
+What you might be experiencing, you're calling it boring, but it might be just a function of the bond market returning to a more normal Vol given the outside the what's happening.
+Because there's no doubt, Patrick, there was a lot of pod shops and you know, hedge funds caught off guard in terms of the front end of the curve and the moves there were way more violent as opposed to the stock market, like the stock market was down what, 810%?
+2:01:22
+Those things happen all the time.
+But the front end of the curve, we took out three, you know, what was it 3 cuts within two weeks.
+That's, that's real.
+A really violence shift in in sentiment and and and forward expectations about rates.
+2:01:40
+Speaker 2
+All right, Well, listen, I'm going to wrap things up with us having to.
+We can't not not talk about Avis.
+Yeah, like GameStop all over again.
+What's what's amazing to me is when you look at this chart, how how like this is like a complete repeat.
+2:02:02
+What's actually, though, different about versus GameStop was that GameStop and these others only took a few days to go there, a thousand, 2000% or whatever they ran.
+What's interesting is Avis's advance was more orderly.
+2:02:20
+It took almost two weeks, you know, it still went parabolic and still had the exact reaction you would have expected, but it played out a little bit more prolonged.
+Like how did you read this?
+2:02:34
+Speaker 3
+It's just insanity.
+I, I think it's just, it's made of farce of markets.
+I what I want to know, Patrick, is what do you think that the Dow Jones transport sell signal is, is valid?
+For those who don't know, this thing was 17% of the Dow Jones transports.
+2:02:50
+So now like this, the car the Avis has permanently scarred the Dow Jones transports chart.
+Go look at it.
+It's also got a ridiculous spike on it.
+It's it's not.
+2:03:03
+Speaker 2
+DJT or something?
+2:03:05
+Speaker 3
+No, DJT is Trump's thing.
+It's Tran.
+I don't know how you get it in the in the in your charts, but yeah, it was 1800 at the at the end of March.
+It it's spiked to 2500.
+It was it, it 50% increase in the transports because of this, right.
+2:03:26
+So, so all I can say is there's a there's a lot of folks that used to use that.
+Is there there be some sort of signal, I can't remember you, you're the technician, you would know, but there is some sort of signal of the Dow Jones versus the Dow Jones transports and it's just permanently scarred it.
+2:03:43
+It's like COVID permanently scarred the unemployment numbers.
+Like you can't look at those charts without having to try to remove that.
+It's the same thing now.
+But back to this, back to this car.
+Completely ridiculous.
+It'll be.
+It'll be.
+2:03:58
+Speaker 2
+It'll be interesting.
+A lot of people are talking about the competitor hurts because while the short interest at one point was like 80 plus percent on Avis, Hertz has over A50 plus percent short interest.
+2:04:13
+And what just like AMC rolled around like they take their turns cornering these short sellers and a lot of people are speculating whether Hertz is next.
+Now I've no idea whether they'll be get to squeeze on, but what I do know is Hertz had its implied volatilities double basically because of that.
+2:04:36
+And so there was an increased speculation that there was going to be a squeeze here and the the dealers just jumped out and implied so, so rapidly in this thing.
+I'll be really curious whether Hertz just was a nothing burger or whether this ends up being the next kind of knock on story.
+2:04:56
+Speaker 3
+And and it's bringing this back to what I talked about when we first started talking about the stock market and you've kind of highlighted how we've gone back to the stocks of old.
+I'm not sure that this action is healthy, right?
+2:05:15
+No, getting stocks doing this is not a sign of a, of a well functioning market.
+I know.
+OK, so did so did the the you know, the stock market is supposed to be an expectation about future cash flows of, of the stock of the stock.
+2:05:32
+Did the did the under, did the market assume that the price of the OR the future cash flows of Avis Rent a Car is going to be increasing by, you know whatever the number was 1000% over the last two weeks?
+2:05:48
+Speaker 2
+Go back to this, go back to reminisces of a stock operator and or think of all the stores.
+2:05:54
+Speaker 3
+100 years, you're using an example of you're right, you're using an example of when the market was very, very precariously perched and, and what was right before the 29 crash and there was no rules and people were getting burned and there was crazy stuff happening.
+2:06:15
+So you're the fact that you bring that up is, is a is just making my point.
+2:06:20
+Speaker 2
+No, but no, no, no, actually no.
+My point is, is that there the idea of trapped positioning and when when one group tries to corner a market and another group comes in, like think of Ackman versus Icon with Herbalife or any of these things.
+2:06:38
+What happens is that when you have 100% of a like in GameStop where you have 100% of the float carried short by hedge funds, and then you have a couple of players that come in there for a squeezing.
+This shit's been going on for hundreds of years.
+2:06:52
+Speaker 3
+Not.
+Not at this level.
+I'll push back.
+2:06:55
+Speaker 2
+This is this is OK.
+The point is, is that these kind of games have always been there.
+I'm not disagreeing.
+2:07:02
+Speaker 3
+That those games are there.
+2:07:03
+Speaker 2
+Options markets allow huge amplification of this but.
+2:07:09
+Speaker 3
+Anyway, I Patrick the the the markets exist to provide a price discovery so that companies can raise capital and and help our economy.
+2:07:23
+Speaker 2
+It's always been a speculators market.
+2:07:26
+Speaker 3
+Yeah.
+2:07:26
+Speaker 2
+Yeah.
+I, I, I, I'm going to get you.
+I'm going to get you your and you can, you can, you can start your own movement.
+But like this, markets have always been this you any one player comes in there and tries to corner something, it's the job of the rest of the participants to to to trap them.
+2:07:48
+And this is the way the market has always been and it's not going to change it's.
+2:07:54
+Speaker 3
+I, I'm so I'm not as convinced as you that the, this market is healthy.
+And the fact that you brought up reminiscence is a perfect kind of example of, of an environment that this reminds me of and and, and so we agree that this is very much like reminiscence of a stock operator.
+2:08:16
+All right.
+Anything else?
+No.
+2:08:18
+Speaker 2
+That's that's it for the talking charts.
+2:08:20
+Final Thoughts and a Special Birthday Song
+So let's give this a show, a wrap.
+2:08:23
+Speaker 3
+All right.
+Thanks for tuning in, Patrick.
+Where can they find out more about you and your incredible analysis of the squiggles?
+2:08:31
+Speaker 2
+Well, you can follow my my channel on YouTube where I do the daily market analytics for free.
+On the on the channel it's the patrick_suresnaandyoucanfollowmysubscription@bigpicturetrading.com and camp where.
+Can they follow you buddy?
+2:08:45
+Speaker 3
+Themacrotours.com and Bull Listen, Bull market, Bear market.
+We're just happy to for you to spend some time together on this crazy ride.
+Now stick around for the after show.
+OK, so no beer revealed because you've done it for.
+2:08:57
+Speaker 2
+One say I was missing.
+I was just missing a nice squeeze of lime, you know, like this is a beer on a nice kind of warm day where it just needs a little citrus and I failed on that front, but I'm not going to score it.
+2:09:13
+It's a it's a corona.
+Everyone knows how it tastes.
+It's.
+2:09:16
+Speaker 3
+Yeah.
+By the way, while we were doing this between 10:00 and 11:00 this morning, did you see the video?
+No 200 to two O 8 or something right now, straight up.
+2:09:29
+Speaker 2
+That happened while we were recording because when I put the chart up like 40 minutes ago, the world the.
+2:09:36
+Speaker 3
+World just exploded.
+Is that a new high?
+I think it might be a new high.
+What is the high?
+2:09:41
+Speaker 2
+Well, you know, you know, what's crazy is like I was, I was saying that we should have added some.
+And so the fact that I'm not in is exactly why it's going up.
+It's.
+2:09:52
+Speaker 3
+All right, listen, I don't have anything have anything said about.
+2:09:56
+Speaker 2
+Danny, you're on.
+2:09:59
+Speaker 3
+Danny.
+2:09:59
+Speaker 4
+I'm here.
+2:10:03
+Speaker 2
+Hello.
+Hello.
+So what was cool, Kev?
+I I had my birthday a lot of the other week.
+2:10:12
+Speaker 3
+Oh, congratulations, happy birthday, I missed.
+2:10:14
+Speaker 2
+It thank you.
+And so those familiar with big picture trading and and the membership and know my little protege Masil, who basically comes on to the webinars with me and everything, and for my birthday he went out of his way to use AI to write a song about me.
+2:10:40
+Speaker 3
+Why are we gonna?
+Can we include it?
+2:10:42
+Speaker 2
+Yeah, and like he, like Danny.
+What did you think of it?
+2:10:48
+Speaker 4
+Well, I mean, I, I think it suits your personality very well.
+I think in, in the, the, the beat, you know, the sound, everything.
+It's very Patrick.
+2:10:59
+Speaker 3
+OK, so should we use it to play it out?
+2:11:02
+Speaker 2
+Yeah, let's throw it in here.
+2:11:04
+Speaker 3
+OK, so we'll use it to play it out.
+Well, happy birthday, Happy belated birthday, Patrick.
+And in the meantime, here is Missiles, a song that he wrote for you.
+2:11:13
+Speaker 2
+All right.
+2:11:14
+Speaker 3
+Take care, everybody.
+Thanks, Ed.
+2:11:56
+Speaker 1
+Airlines.
+Feed the DK working for him while you sleep.
+Vega crush when bold drops.
+He saw it coming.
+Gamma scalping like it's a video game.
+Head so heavy he never sweats.
+Calm while the market bleed.
+2:12:11
+PPP pat on
+2:12:31
+pads imagery king small risk massive upset draws Fibonacci zones like the sniper's crosshairs.
+Always in the zones Yeah, he's stacking up the bags.
+Bear markets are his playground.
+Everyone panic.
+Stock whisper all over commodities gold for energy metal G metals on 100% turns Messel cooks them on jazz but.

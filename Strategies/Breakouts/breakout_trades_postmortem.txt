@@ -1,0 +1,128 @@
+HOLISTIC POST-MORTEM OF BREAKOUT OPTION TRADES
+
+1. HIGH-LEVEL PATTERN RECOGNITION (GLOBAL VIEW)
+
+Your PnL dispersion is asymmetric in your favor:
+- Winners typically range from +500 to +1,700 USD
+- Losers cluster around -250 to -350 USD, with few structural outliers
+
+Key conclusion:
+Directional skill is strong. The main driver of underperformance is option structure (volatility, timing, convexity), not market reading.
+
+This is primarily a volatility and path-dependency problem, not a directional one.
+
+
+2. MACRO / SECTOR LAYER
+
+WHAT WORKED
+Winning trades are concentrated in environments with:
+- Clear macro tailwinds (Gold, Energy, Mega-cap Tech)
+- Sector leadership and trend persistence
+- No contradiction between macro regime and trade direction
+
+These trades aligned with risk regime, rates, USD, and sentiment.
+They benefited from volatility expansion rather than fighting it.
+
+WHAT FAILED
+Losing trades often occurred when:
+- Macro narratives were crowded (USO / geopolitical risk)
+- Regime uncertainty dominated (rates, bonds)
+- Volatility was being sold rather than bought (index trades)
+
+Key insight:
+Breakout options fail most often when markets compress volatility, even if direction is broadly correct.
+
+
+3. IDIOSYNCRATIC / SINGLE-NAME STRUCTURE
+
+WINNING TRADES
+- Clear price discovery (new highs/lows)
+- Narrative aligned with price action
+- Active management (partials, adaptive exits)
+- Discipline when asymmetry disappeared
+
+LOSING TRADES
+- Late entries after consolidation
+- Mean-reversion environments
+- Trades held on thesis rather than market feedback
+
+Many losing trades were logically correct but structurally wrong.
+
+
+4. TECHNICAL STRUCTURE
+
+WINNERS
+- Entry near volatility expansion
+- Break beyond Fibonacci zones
+- Price aligned with key moving averages
+- Predefined technical exits
+
+LOSERS
+- Entries inside Fibonacci ranges
+- Price hovering around 25/50 DMA
+- Lack of momentum follow-through
+
+Key rule:
+Options lose money fastest in markets that hesitate.
+
+
+5. OPTION PRICING & GREEKS
+
+WHY WINNERS PAID
+- IV not elevated at entry
+- Delta expansion aligned with spot
+- Gamma acceleration offset theta
+- Exits often preceded IV collapse
+
+WHY LOSERS DID NOT
+In several losing trades, the option was objectively too expensive even though spot did not collapse.
+
+Failure modes:
+1. IV crush
+2. Theta decay during consolidation
+3. Low-delta options with insufficient time
+4. Repositioning strikes without extending duration
+
+Core principle:
+Options must be cheap relative to expected realized volatility, not cheap in absolute dollars.
+
+
+6. CONSISTENT EDGES IN BEST TRADES
+
+- Market-based exit logic (Fib targets, BS estimates)
+- Respect for asymmetry exhaustion
+- Highly liquid underlyings enabling execution edge
+
+
+7. DIAGNOSTIC QUESTIONS FOR BREAKOUT OPTION TRADES
+
+MACRO / REGIME
+- Is the asset aligned with the dominant macro regime?
+- Is volatility being bid or offered?
+- Is the narrative already consensus?
+
+STRUCTURAL PRICE CONTEXT
+- Is price breaking out of value or balance?
+- Continuation or first breakout attempt?
+- Where is price vs 25/50/200 DMA?
+
+VOLATILITY & OPTION PRICING
+- IV percentile (30–60 day)?
+- Am I paying for volatility expansion that already occurred?
+- What realized volatility is required?
+- How much PnL comes from delta vs vega vs gamma?
+
+TIME & PATH DEPENDENCY
+- Does slow movement still pay?
+- How many flat days can the trade survive?
+- Am I trading time or direction?
+
+ASYMMETRY & EXITS
+- Where does asymmetry disappear?
+- What invalidates the trade before max loss?
+- Is exit logic market-based or PnL-based?
+
+BEHAVIORAL
+- Would I enter this trade again today?
+- Am I holding due to thesis or sunk cost?
+- Is this still the same trade or a new one?

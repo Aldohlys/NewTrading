@@ -1,0 +1,33 @@
+https://www.reddit.com/r/options/comments/a36k4j/the_wheel_aka_triple_income_strategy_explained/
+
+Opening at 30 to 45 DTE offers a good premium as the theta/time decay starts to accelerate
+70% Prob OTM (~.30 Delta) offers high probability of success while collecting a good premium
+The number of contracts are based on account size able to handle assignment
+
+Opening at 5% max risk to the account is good practice, and keeping ~50% of the trading account in cash helps manage market downturns, assignments and trading opportunities
+The Put can be closed at a 50% profit with a GTC Limit Order that can close automatically. 
+A put can then be sold on the same stock or another based on your opening criteria. 
+Closing early will reduce early assignment and gamma risk to take the lower risk "easy" profit off the top
+
+If challenged Roll out in time, and down in strike, for a net credit when possible. 
+Roll for as long as a net credit is possible. 
+See this post for details on rolling puts to help avoid assignment: https://www.reddit.com/r/Optionswheel/comments/lliy8x/rolling_short_puts_to_avoid_assignment/
+
+If a credit cannot be made then it is best to let the put expire to take assignment of the stock
+If the net stock cost is above the current market price and you keep the stock, 
+then the goal is to sell CC premium to continue adding to the Credits and lowering the net stock cost below where the stock is trading before it gets called away.
+
+Selling CCs suggested process:
+Sell a Call 7 to 10 DTE at or above the net stock cost whenever possible. 
+Note that I will settle for a lower premium to be at or above the net cost rather than sell below and risk being assigned for a loss. 
+Allow the CC to expire, then sell another if the shares are not called away.
+
+If CCs cannot be sold at or above the net stock cost, then waiting until the share price rises may be needed. 
+This is why it is noted to only trade on stocks you are good holding if needed.
+
+Continue selling CCs until the net stock cost is below the strike price at which time the stock can be left to be called away (some note that it cost less in fees to close the option and just sell the stock which accomplishes the same thing).
+
+Advanced Strategy - Some may consider selling a Covered Strangle, which is a CC with an added CSP that "doubles up" on the premiums to help the position recover faster.
+
+Note the risk of additional shares may be assigned, so it is critical to ensure the stock is still a good one to hold, the account has adequate capital to purchase additional shares, and that this does not make the stock position too much of a risk to the overall account.
+In addition to the double premiums, if more shares are assigned the net stock will average down quickly that can help repair the position more quickly.

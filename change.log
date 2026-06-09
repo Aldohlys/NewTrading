@@ -1,3 +1,27 @@
+## 2026-06-09 - ATR-move coefficient cross-asset validity envelope
+
+**Project:** NewTrading (Strategies/Breakouts, Reports)
+
+**Summary:** Stress-tested the BOT `|N-day move| ≈ C·ATR%·√N` coefficients (C_med 0.48 / C_p90 1.25) outside their original 60-US-name, 1–5% ATR, ~10d-horizon calibration. 22 instruments, ~8y daily, N=3→60: ETFs, commodities, US/EU/JP single-names, FX, futures. **Median coefficient confirmed (grand mean C_med20=0.48); p90 ran higher (~1.30) → adopt 1.30 as broad p90 center.** Shape travels to EUR/JPY/GBP equities + ETFs. Found a 3-edge envelope.
+
+**Changes:**
+
+1. **`Strategies/Breakouts/atr_move_envelope.py` (new).** Generalizes `atr_move_validation.py` across asset classes and horizons; backs out C at median & p90 and tests √N scaling per name.
+
+2. **`Reports/atr_move_envelope_20260609.md` (new).** Full results + the validity envelope rule.
+
+3. **Memory `reference_atr_move_multiples.md` updated** with the quantile framing (0.48/1.25 = two points on one distribution, not a per-ticker choice) and the cross-asset envelope + caveats.
+
+**Findings (the envelope):**
+
+- **HOLDS:** equities + equity/commodity ETFs, any region, ATR 1–5%, horizon **3–25 sessions**.
+- **FX FAILS** (EURUSD C_med 0.36 / C_p90 0.94 — thin-tailed, mean-reverting; over-predicts strong moves ~25–30%) → recalibrate FX to 0.36 / 0.95.
+- **Futures** (CL=F) ~0.41 / 1.13, +continuous-roll caveat.
+- **Horizon >25 sessions: √N breaks both ways** — trending assets exceed it (NVDA C_med 0.54→0.71 at 60d), post-parabolic high-ATR names mean-revert (MP scale→0.76).
+- **ATR/σ = 1.13 pooled** (range 0.86–1.57), not the assumed ~1.3 → reinforces measuring ATR directly over routing through σ√T.
+
+---
+
 ## 2026-06-08 - XLF financials breakout screen + /analyze expiry & earnings fixes
 
 **Project:** NewTrading (Strategies/Breakouts, Reports) + RStudies (reports/analyze)
