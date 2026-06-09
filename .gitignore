@@ -31,10 +31,7 @@ Discussions/
 # Generated HTML reports (analyze_*.html, etc.)
 *.html
 
-# Office files (docx/odt now tracked; spreadsheets/pdf still ignored)
-*.xlsx
-*.xlsm
-*.ods
+# Office files (docx/odt + spreadsheets now tracked; pdf/csv still ignored)
 *.pdf
 *.csv
 
