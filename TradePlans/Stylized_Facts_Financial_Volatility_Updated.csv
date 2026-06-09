@@ -1,0 +1,10 @@
+Rank;Stylized Fact;Relevance for Stock Exchange Indexes;Relevance for Large Cap Stocks;Explanation
+1;Volatility clustering;Very High;Very High;Large changes in prices tend to be followed by more large changes and small changes tend to be followed by more small changes.
+2;Leverage effect;High;Medium to High;When the value of an asset decreases, its volatility generally increases.
+3;Fat tails and excess kurtosis;High;High;Financial return distributions have heavier tails than the normal distribution, indicating a higher likelihood of extreme changes.
+4;Mean reversion;Medium to High;Medium;Volatility tends to return to a long-term average over time.
+5;Asymmetric volatility;Medium;Medium;Volatility can react differently to positive and negative returns.
+6;Long memory;Medium;Low to Medium;Volatility exhibits long-range dependence, where past volatility can affect future volatility for extended periods.
+7;Time-varying correlation (Contagion and co-movement);Medium;Low to Medium;The correlation between asset returns can change over time, especially during market stress.
+8;Volatility tends to be serially uncorrelated;Low to Medium;Low;Volatility might not follow a predictable pattern from one time period to the next.
+9;Risk-premium;Low;Low to Medium;Higher risk is often associated with higher expected returns.

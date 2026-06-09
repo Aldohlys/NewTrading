@@ -31,9 +31,13 @@ Discussions/
 # Generated HTML reports (analyze_*.html, etc.)
 *.html
 
-# Office files (docx/odt + spreadsheets now tracked; pdf/csv still ignored)
-*.pdf
-*.csv
+# Office docs, spreadsheets, pdf, csv are all tracked now.
+# Exception: large third-party textbooks (>15 MB) kept out — re-downloadable, bloat git history.
+Documentation/Options as a Strategic Investment ( PDFDrive ).pdf
+Documentation/OptionsAsStrategicInvestment-4thEdition.pdf
+Documentation/Hull/Hull_J_C_Options_4th_Edition.pdf
+Documentation/John_J_Murphy_Technical_Analysis_Of_The.pdf
+Documentation/In-Gold-We-Trust-report-2022-english (15).pdf
 
 # Archive
 Archive/

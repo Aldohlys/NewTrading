@@ -1,0 +1,392 @@
+TradeNr,Account,TradeDate,Instrument,Pos,Prix,Comm.,Total,Exp.Date,Risk,Reward,PnL,Statut,Currency,Remarques
+569,Live,20250411,GLD 16MAY25 266 C,-1,34.35,0.805533,3434.194467,16.05.2025,0.0,0.0,1692.0688706,Fermé,USD,Break out is over here as we are in the target zone and no asymmetry any more.
+568,Live,20250411,SLV 17APR25 28 P,4,0.22,1.449,-89.449,17.04.2025,0.0,0.0,1633.4738134,Fermé,USD,Close the 3rd piece of the trade as planned - before Friday evening as no asymmetry any more
+376,Live,20240122,AAPL 26JAN24 190 C,-1,5.0,1.04364,498.95636,26.01.2024,0.0,0.0,1346.44733,Fermé,USD,Great trade - I progressively sold and adjusted the sell levels as needed
+393,Live,20240304,AAPL 15MAR24 180 P,-1,6.55,1.04488,653.95512,15.03.2024,0.0,0.0,1277.3539,Fermé,USD,"No asymmetry left - trade went down to support level, may go back up."
+351,Live,20231129,GOLD 15DEC23 16 C,-5,1.48,1.36437,738.63563,15.12.2023,0.0,0.0,1116.47848,Fermé,USD,"First I took a partial profit as it gained a lot, then took the whole profit on the Gold reversal day"
+644,Live,20251119,JNJ 19DEC25 200 C,-2,5.225,2.09738,1042.90262,19.12.2025,0.0,0.0,1040.0162300000002,Fermé,USD,"All sell limit orders were based upon a ""reasonable"" future  option price estimate using BS:
+- Day: 18th Nov
+-Vol: +2% vol
+- Price: 202 as middle of FIb extension zone
+-> 5.50 and then took last option value, i.e. 4.35 and then put as trades 4.95 and 5.50 (interpolation and ""attractive price"" for buyer).
+-> Automatic sell were all executed."
+391,Live,20240325,XOM 19APR24 110 C,-1,5.7,1.0442,568.9558,19.04.2024,0.0,0.0,886.27917,Fermé,USD,Take profit target got hit - I made the max profit I was expecting. It did not go much higher that day . until 6.40$ very briefly so I could only have gained 70$ more. Worth closing and going to something else.
+353,Live,20231214,AMGN 19JAN24 275 C,-1,11.05,0.80053,1104.19947,19.01.2024,0.0,0.0,867.52348,Fermé,USD,NA
+653,Live,20251201,WMT 19DEC25 108 C,-2,4.15,2.03378,827.96622,19.12.2025,0.0,0.0,829.07983,Fermé,USD,"I first close one contract at opening at 3.95 USD - then looking at previous upward moves, it seems to me that WMT would not go much higher than 114 by Dec 19. So better close the trade with a 4.35 USD proposal on the market (last trade value).
+ALso I will not be able to closely follow this trade during Wed-Fri as I am in vacations"
+649,Live,20251205,NFLX 19DEC25 105 P,-1,7.37,0.76689,736.23311,19.12.2025,0.0,0.0,791.09262,Fermé,USD,"Automatic close trade reached - was planned at 5.80$ but triggered at 7.37$.
+NB In retrospect, not really worth scheduling a last close price. "
+533,Live,20250122,EQT 21FEB25 50 C,-1,4.75,0.821245,474.178755,21.02.2025,0.0,0.0,721.15655,Fermé,USD,"Automatic target at 4.75$. Let us not be too greedy, knowing that NatGas price is going down right now (see BOIL).
+"
+495,Simu,20240918,SPX 18SEP24 5570 P,1,0.7,1.55585,-71.55585,18.09.2024,0.0,0.0,676.9232,Fermé,USD,Did more than 600$ win in 1 day - so got out. This is Tast Trade pck slightly adapted on SPX. Not a good win as I do not understand the trade
+300,Simu,20230829,V 15SEP23 220 C,-1,26.3,1.07353,2628.92647,15.09.2023,0.0,0.0,627.87642,Fermé,USD,"This trade kept going up and up, and I let it continue- even when Patrick was saying it was better to close it. As long as fib zone was not retraced, I continued -> Nice profit!"
+428,Live,20240607,ABBV 19JUL24 170 C,-2,4.3,1.403188,858.596812,19.07.2024,0.0,0.0,587.198112,Fermé,USD,Not so much money for BOT result - but at this stage it is better to take profit and wait for ABBV to retrace and go up again.
+621,Live,20251007,GLD 17OCT25 350 C,-1,17.71,0.69869,1770.30131,17.10.2025,0.0,0.0,514.79723,Fermé,USD,Automatic 85% max value (close at 850 USD sell). Hard to think it could go much higher
+510,Live,20241017,MU 25OCT24 110 C,-2,4.0,1.41372,798.58628,25.10.2024,0.0,0.0,501.19558,Fermé,USD,"Automatic profit order triggered.I could have closed it for 1$ more - so 200$ more profit. But I had only one week left. Next time automatic sell order on only 1 contract, not 2. Like I did for Apple.
+"
+583,Live,20250618,NTR 20JUN25 60 C,-1,2.25,0.06074,224.93926,20.06.2025,0.0,0.0,464.49393,Fermé,USD,"There is not much upside momentum to expect:
+- exp date is on June 20th and June19th is closed
+- FOMC meeting today (June 18th) so potential downside
+- IV is quite low (6 months low for June exp), so no move expected"
+493,Live,20240925,TLT 27SEP24 95 P,-2,0.01,1.7623356,0.2376644,27.09.2024,0.0,0.0,438.711517,Fermé,USD,Some key figures should be published tomorrow morning before market opening - it may move TLT up. Better to close it all.
+628,Live,20251029,URA 31OCT25 52 C,-2,4.67,-0.10262,934.10262,31.10.2025,0.0,0.0,400.42164,Fermé,USD,Automatic close at 90 cents remaining value on a total of 4 i.e. 77% of the total available profit. Looks like the best possible deal without waiting until Friday. Only 2 days left till expiration.
+547,Live,20250310,QCOM 14MAR25 155 P,-1,3.64,1.0695592,362.9304408,14.03.2025,0.0,0.0,389.1988348,Fermé,USD,Took profit as no decisive breakdown and expiration date looms
+395,Live,20240411,GOLD 19APR24 17 C,-2,0.88,0.560688,175.439312,19.04.2024,0.0,0.0,388.718446,Fermé,USD,GOLD does not seem to break higher but is more or less flat -> quit the trade before it drops
+603,Live,20250908,STNG 19SEP25 50 C,-1,6.1,0.05344,609.94656,19.09.2025,0.0,0.0,362.42933,Fermé,USD,"Automatic profit target. It was filled right at opening.
+ANd now is between 7.80 and 8.10$...
+Once again automatic profit target on Break out trades does not make real sense...."
+310,Live,20230905,XOM 20OCT23 115 C,-2,3.7,1.4113,738.5887,20.10.2023,0.0,0.0,357.1886,Fermé,USD,NA
+663,Live,20251223,GLD 26DEC25 400 C,-1,10.25,0.66689,1024.33311,26.12.2025,0.0,0.0,300.33802,Fermé,USD,"Max possible gain  (only 0.65$ still available in the spread vs. max profit) - in retrospect I should have bought 2 lots instead of 1, as I was below my max authorized BOT value (i.e. 133 USD vs. 300 USD)."
+328,Live,20231018,RRC 17NOV23 34 C,-1,2.45,1.04365,243.95635,17.11.2023,0.0,0.0,283.31244,Fermé,USD,Successful trade and there does not seem to be much more upside given the time left. Closed for a profit.
+42,Simu,20220808,+1 Call @158,-1,12.9,1.08,1288.92,NA,0.0,0.0,259.52,Fermé,USD,"Prise de bénéfice à +30%, Ss-jacent à 165 USD.  Remarque: Date du 30Dec pour le Call trop éloignée"
+622,Live,20251024,TLT 24OCT25 90 C,-1,1.3,0.62869,129.37131,24.10.2025,0.0,0.0,219.50198,Fermé,USD,
+474,Live,20240822,ABT 30AUG24 107 C,-1,4.8,0.712984,479.287016,30.08.2024,0.0,0.0,157.590166,Fermé,USD,"Last week for ABT option before expiration, and not much upside to be expected. Trade to re-launch after NVDA earnings"
+561,Live,20250327,MCD 17APR25 320 C,-1,3.95,1.070421,393.929579,17.04.2025,0.0,0.0,128.122929,Fermé,USD,Automatic 50% gain taken
+587,Live,20250604,AMD 06JUN25 115 C,-1,4.02,0.71074,401.28926,06.06.2025,0.0,0.0,123.16262000000006,Fermé,USD,Automatic target profit taken- could not get much more knowing that we re 2 days before expiration with Job report on Friday.
+386,Live,20240222,AAPL 15MAR24 180 P,-3,2.2,0.8442,659.1558,15.03.2024,0.0,0.0,96.09525,Fermé,USD,"There is no more asymmetry in the trade. Although AAPL is weak, the nice earnings from NVDA risk to push all tech higher. Go out of the trade"
+553,Live,20250319,JPM 28MAR25 245 C,-2,1.685,0.6982486,336.3017514,28.03.2025,0.0,0.0,25.263269000000037,Fermé,USD,"Trade was not correctly set up at first: high IV for JPM so expensive calls, and not much time to let JPM go higher. Better close this trade at break even."
+492,Live,20241001,USO 18OCT24 72 C,-2,2.54,0.6904024,507.3095976,18.10.2024,0.0,0.0,19.2960812,Fermé,USD,Iran sends missiles over Israel - oil price goes high and I exit this trade that has never really worked for a very small profit.
+430,Live,20240614,SPY 28JUN24 535 C,-1,7.7,0.721046,769.278954,28.06.2024,0.0,0.0,17.770810999999867,Fermé,USD,10% gain automatic take profit order was triggered. BUt this is small gain. 
+224,Live,20230403,SPY 05MAY23 410 C,1,9.98,1.04905,-999.04905,05.05.2023,0.0,0.0,0.0,Fermé,USD,"This is raised during WITT. Patrick wants to build on the idea that short term (until end of April), market will rise. And then should go down by end of June. Hence the straddle with possible repositioning in the future."
+224,Live,20230403,SPY 30JUN23 410 P,1,12.69,1.04905,-1270.04905,30.06.2023,0.0,0.0,0.0,Fermé,USD,NA
+224,Live,20230425,SPY 05MAY23 420 C,-1,1.03,1.052314,101.947686,05.05.2023,0.0,0.0,0.0,Fermé,USD,Sell short term 420 Call To pay less for the call that is expensive (interest rates are high).
+224,Live,20230428,SPY Vertical Spread 05.05.2023 410/420 -1C/1C,1,-5.55,1.756092,553.243908,05.05.2023,0.0,0.0,0.0,Fermé,USD,"In view of May 4th FOMC meeting, roll the trade beyond May 4th.  So close current May 5th straddle."
+227,Live,20230406,OXY 19JAN24 60 P,-2,6.11,0.672756,1221.327244,19.01.2024,0.0,0.0,0.0,Fermé,USD,NA
+227,Live,20230406,OXY 19MAY23 55 P,2,0.71,0.6581,-142.6581,19.05.2023,0.0,0.0,0.0,Fermé,USD,Energy play and W. Buffet's favorite
+227,Live,20230505,OXY 19JAN24 60 P,2,6.54,0.6581,-1308.6581,19.01.2024,0.0,0.0,0.0,Fermé,USD,NA
+250,Simu,20230501,AMGN 16JUN23 225 C,1,16.4,1.03905,-1641.03905,16.06.2023,0.0,0.0,0.0,Fermé,USD,NA
+250,Simu,20230501,AMGN 19MAY23 237.5 P,1,3.6,1.04905,-361.04905,19.05.2023,0.0,0.0,0.0,Fermé,USD,NA
+250,Simu,20230518,AMGN 19MAY23 237.5 P,-1,13.6,0.67237,1359.32763,19.05.2023,0.0,0.0,0.0,Fermé,USD,NA
+255,Live,20230517,SPY 30JUN23 380 P,-1,1.77,1.502906,175.497094,30.06.2023,0.0,0.0,0.0,Fermé,USD,Adjust to SPY trade - SPY going down
+255,Live,20230518,SPY 18AUG23 415 P,1,11.7,1.53905,-1171.53905,18.08.2023,1171.0,2000.0,0.0,Fermé,USD,NA
+255,Live,20230518,SPY Vertical Spread 16.06.2023 415/425 1C/-1C,1,5.08,2.172404,-510.172404,16.06.2023,0.0,0.0,0.0,Fermé,USD,NA
+255,Live,20230602,SPY 21JUL23 400 P,-1,2.28,1.053314,226.946686,21.07.2023,200.0,226.95,0.0,Fermé,USD,NA
+255,Live,20230602,SPY 30JUN23 380 P,1,0.45,1.37905,-46.37905,30.06.2023,0.0,0.0,0.0,Fermé,USD,Adjust to new SPY level
+255,Live,20230602,SPY Vertical Spread 16.06.2023 415/425 -1C/1C,1,-8.2,1.41182,818.58818,16.06.2023,0.0,0.0,0.0,Fermé,USD,NA
+255,Live,20230608,SPY 21JUL23 400 P,1,1.35,1.03905,-136.03905,21.07.2023,0.0,0.0,0.0,Fermé,USD,"Only 90$ credit, but for only 10% of the total time. WOrth closing and reopening a new one."
+298,Live,20230815,GILD 15SEP23 75 C,1,5.43,1.05005,-544.05005,15.09.2023,200.0,400.0,0.0,Fermé,USD,Rotation from tech to health (defensive sector). BPT idea: Miss on earnings but should rebounce quickly as all the healthcare sector is gaining momentum
+300,Simu,20230802,V 15SEP23 220 C,1,20.0,1.05005,-2001.05005,15.09.2023,0.0,0.0,0.0,Fermé,USD,WITT: Took the break-out trade. Visa has just got good earnings.
+310,Live,20230829,XOM 20OCT23 115 C,2,1.9,1.4001,-381.4001,20.10.2023,190.0,0.0,0.0,Fermé,USD,Idea from Pat - pure BOT trade
+314,Live,20230830,TLT Vertical Spread 19.01.2024 100/110 1C/-1C,2,2.01,1.406072,-403.406072,19.01.2024,0.0,0.0,0.0,Fermé,USD,Pat's idea - TLT (20 yrs+ bonds have bottomed)
+314,Live,20230922,TLT 19JAN24 110 C,2,0.16,0.6605,-32.6605,19.01.2024,0.0,0.0,0.0,Fermé,USD,NA
+328,Live,20230926,RRC 17NOV23 34 C,2,0.87,1.4005,-175.4005,17.11.2023,0.0,150.0,0.0,Fermé,USD,New idea from Patrick - RRC is an energy company
+328,Live,20231011,RRC 17NOV23 34 C,-1,2.15,0.24341,214.75659,17.11.2023,0.0,0.0,0.0,Fermé,USD,Takes profit as RRC in profit zone. Only 1 Call left. Risk free trade.
+335,Live,20231003,F 17NOV23 11 P,10,0.27,8.8925,-278.8925,17.11.2023,0.0,0.0,0.0,Fermé,USD,BOT from Pat
+335,Live,20231003,F 20OCT23 12.5 C,10,0.22,8.8925,-228.8925,20.10.2023,0.0,0.0,0.0,Fermé,USD,NA
+335,Live,20231005,F 20OCT23 12.5 C,-10,0.12,10.36786,109.63214,20.10.2023,0.0,0.0,0.0,Fermé,USD,NA
+348,Live,20231107,USO 15DEC23 78 C,3,1.36666666666667,1.01775,-411.01775,15.12.2023,411.0,600.0,0.0,Fermé,USD,"Copy paste of Pat's idea during WITT 7.11. Max risk is Ok, reward also in line. Asymmetry clearly in"
+351,Live,20231114,GOLD 15DEC23 16 C,10,0.387,6.7425,-393.7425,15.12.2023,393.0,600.0,0.0,Fermé,USD,"GOLD has a nice breakout profile. WITT session. If goes up to 17, nice 600 USD profit"
+351,Live,20231204,GOLD 15DEC23 16 C,-5,1.55,3.41465,771.58535,15.12.2023,0.0,0.0,0.0,Fermé,USD,NA
+353,Live,20231122,AMGN 19JAN24 275 C,2,4.8,0.8785,-960.8785,19.01.2024,237.0,600.0,0.0,Fermé,USD,"2 errors when entering the trade: 1/ I looked at 50-days SMA, but I should have looked at it at close, not at init. ANd this has no meaning during the first 10 minute of the trading day 2/ Trading during the first 30 minutes is not a good idea - too much pressure and artificial prices Moreover I need to define a limit price for the option so I do not buy it if too high- especially for breakout trades."
+353,Live,20231207,AMGN 19JAN24 275 C,-1,7.25,0.79749,724.20251,19.01.2024,0.0,0.0,0.0,Fermé,USD,"Finally AMGN popped up so I took some profit off the table, and continued the trade."
+363,Live,20231207,GOOG 19JAN24 137.5 C,1,5.45,0.61925,-545.61925,19.01.2024,545.0,200.0,0.0,Fermé,USD,I took the trade despite the low Risk/Reward ratio - but GOOG had already popped upon great Gemini outcome. See also Journal
+376,Live,20240109,AAPL 26JAN24 190 C,3,1.0,0.83055,-300.83055,26.01.2024,300.0,600.0,0.0,Fermé,USD,"WITT session from 9.01 - BOT trade. Mag 7 are still on the mark, worth taking the trade as there is asymmetry. Target 192."
+376,Live,20240123,AAPL 26JAN24 190 C,-1,6.0,1.04444,598.95556,26.01.2024,0.0,0.0,0.0,Fermé,USD,NA
+376,Live,20240125,AAPL 26JAN24 190 C,-1,5.5,0.63404,549.36596,26.01.2024,0.0,0.0,0.0,Fermé,USD,NA
+384,Live,20240206,MS 15MAR24 82.5 P,3,1.05,1.82055,-316.82055,15.03.2024,316.0,1000.0,0.0,Fermé,USD,WITT BOT - Asymmetry looks good - MS is bearish and not a good bank as per price action -not like JPM..
+385,Live,20240209,CCJ 15MAR24 50 C,2,0.48,1.3937,-97.3937,15.03.2024,97.0,300.0,0.0,Fermé,USD,"CCJ had a bug down day yesterday due to earning miss. But his did not really continue today so I take an additional 100$ risk (on top of 500$ already committed) but on the call side,"
+385,Live,20240213,CCJ 15MAR24 50 C,-1,0.24,1.039832,22.960168,15.03.2024,0.0,0.0,0.0,Fermé,USD,Adjust CCJ BOT trade as CCJ does not seem to recover fast
+386,Live,20240213,AAPL 15MAR24 180 P,3,1.87,2.06055,-563.06055,15.03.2024,560.0,1000.0,0.0,Fermé,USD,WITT session 13.02 Apple seems weak - has not shown strength recently. Should go down by SPY going down
+391,Live,20240222,XOM 19APR24 110 C,2,1.81,0.5537,-362.5537,19.04.2024,362.0,750.0,0.0,Fermé,USD,"WITT 20 Feb- I took the trade on 22. Oil is breaking out, higher highs and higher lows. So XOM is an opportunity"
+391,Live,20240228,XOM 19APR24 110 C,1,1.67,1.03685,-168.03685,19.04.2024,0.0,0.0,0.0,Fermé,USD,Add one more to XOM bullish trade. XOM price action is bullkish but this is not reflected in the call price yet.
+391,Live,20240315,XOM 19APR24 110 C,-1,3.55,1.04248,353.95752,19.04.2024,0.0,0.0,0.0,Fermé,USD,Take some profit off the table. Next step is on March 19- before FOMC meeting on March 20.
+391,Live,20240319,XOM 19APR24 110 C,-1,4.95,1.0436,493.9564,19.04.2024,0.0,0.0,0.0,Fermé,USD,"As planned I sold one call - only one is left - My take is that between now and April 19th, there will be some more money to be made. For instance it could go up to 116$. So I leave it with one call at 5.70$ Maybe too optimistic, let us see"
+393,Live,20240227,AAPL 15MAR24 180 P,2,1.8,0.5537,-360.5537,15.03.2024,0.0,1000.0,0.0,Fermé,USD,AAPL looks weak again - did not progress as much as other stocks while the SP index was crawling higher
+393,Live,20240305,AAPL 15MAR24 180 P,-1,9.85,1.04752,983.95248,15.03.2024,0.0,0.0,0.0,Fermé,USD,NA
+395,Live,20240305,GOLD 19APR24 17 C,9,0.33,2.49165,-299.49165,19.04.2024,115.0,600.0,0.0,Fermé,USD,Barrick Gold should see a nice uptick - Gold break outs on ATH
+395,Live,20240402,GOLD 19APR24 17 C,-8,0.49,5.600256,386.399744,19.04.2024,0.0,0.0,0.0,Fermé,USD,GOld is due for a retrace - take some profit off the stage
+395,Live,20240402,GOLD 19APR24 17 C,4,0.5,2.7874,-202.7874,19.04.2024,0.0,0.0,0.0,Fermé,USD,
+395,Live,20240409,GOLD 19APR24 17 C,-3,1.1,0.84156,329.15844,19.04.2024,0.0,0.0,0.0,Fermé,USD,
+397,Live,20240319,CSCO 19APR24 47.5 P,10,0.35,6.8685,-356.8685,19.04.2024,357.0,800.0,0.0,Fermé,USD,WITT 19.03: CSCO is on a bearish primary trend and just got a fib retracement - it is in retracement zone from downward pattern. looking for 44$ as first target.
+398,Live,20240321,SMH 19APR24 240 C,1,3.05,1.03685,-306.03685,19.04.2024,306.0,600.0,0.0,Fermé,USD,"WITT 21.03 Pure BOT trade with limited possible loss, and clear exit path. If it goes below fib retracement then out. NVIDIA is the champ here and all semi conductor sector stocks could very well go higher."
+400,Live,20240326,AMGN 19APR24 290 C,1,3.25,0.79685,-325.79685,19.04.2024,325.0,650.0,0.0,Fermé,USD,"WITT 26.03 AMGN broke its fib retracement starting Jun'23. Patrick recommends May exp date, but I find it too expensive. I take a bet on 1 Call 290 Apr 19 instead of 1 Call 300 May bet."
+401,Live,20240402,CSCO 26APR24 47 P,10,0.2,4.4685,-204.4685,26.04.2024,200.0,600.0,0.0,Fermé,USD,WITT 02.04.2024: CSCO is due for going down again - reopen the trade as asymmetry is still here
+404,Live,20240416,USO 17MAY24 87 C,3,1.33,1.34055,-400.34055,17.05.2024,400.0,800.0,0.0,Fermé,USD,"USO is on a typical breakout situation. DUring WITT session on 17.04, Patrick says that this is one of the few things that work. It has not plunged when SPY was nose diving. SO give it a try. Geo political tensions will not help as well (although .. trash the news!!)"
+404,Live,20240424,USO 17MAY24 84 C,3,0.686666666666667,1.84055,-207.84055,17.05.2024,0.0,0.0,0.0,Fermé,USD,There is not enough time to get to 87 level - but a bit more to go till 84. So I roll down to give the trade a second chance
+404,Live,20240424,USO 17MAY24 87 C,-3,0.316666666666667,1.84968,93.15032,17.05.2024,0.0,0.0,0.0,Fermé,USD,
+41,Simu,20220721,+1 Call @76 +1 Put @73 -1 Put @70,1,12.15,2.0,-1217.0,20.01.2023,1217.0,0.0,0.0,Fermé,USD,Bottom head and shoulders for CL! - Idée Where is the Trade - 21.07.2022
+422,Live,20240524,EBAY 21JUN24 58 C,12,0.24,5.3622,-293.3622,21.06.2024,300.0,1000.0,0.0,Fermé,USD,"Ebay is a cash machine with high dividend, It did not disappoint on last earning. It just broke out of a +2 months range. So I take a chance with a Hail Mary 14 Call Delta. Duration is 30 days which is last advance duration."
+422,Live,20240618,EBAY 21JUN24 58 C,-1,0.02,1.0396956,0.9603044,21.06.2024,0.0,0.0,0.0,Fermé,USD,Trying to sell - but too late
+425,Simu,20240528,MCL AUG24,1,79.68,0.77,-7968.77,19.07.2024,300.0,1000.0,0.0,Fermé,USD,New crude oil trade. Just broke out and looks good!
+427,Live,20240530,OVV 19JUL24 55 C,7,0.42,4.87795,-298.87795,19.07.2024,210.0,820.0,0.0,Fermé,USD,OVV is a prominent shale actor in the US. So both nat gas and oil producer. As 1/ nat gas looks better 2/ technical setup is there with a good asymmetry I give it a shot as BOT with bracket order.
+428,Live,20240604,ABBV 19JUL24 170 C,2,1.35,1.3987,-271.3987,19.07.2024,260.0,800.0,0.0,Fermé,USD,New opening position. Healthcare sector sees inflows. Price action is good for ABBV.
+42,Simu,20220721,+1 Call @158 +1 Put @155 -1 Put @150,1,10.27,2.4,-1029.4,30.12.2022,545.0,0.0,0.0,Fermé,USD,Gold: Technical analysis Major support + 2 measured moves completed
+430,Live,20240607,SPY 28JUN24 535 C,1,5.26,0.69685,-526.69685,28.06.2024,0.0,0.0,0.0,Fermé,USD,
+430,Live,20240607,SPY 28JUN24 540 C,-2,2.91,0.7154596,581.2845404,28.06.2024,0.0,0.0,0.0,Fermé,USD,
+430,Live,20240607,SPY 28JUN24 545 C,1,1.41,0.69685,-141.69685,28.06.2024,90.0,140.0,0.0,Fermé,USD,Butterfly end of June for a small amount so if market goes up till end of June I have something to sell for a gain
+430,Live,20240614,SPY 28JUN24 540 C,2,4.33,0.6937,-866.6937,28.06.2024,0.0,0.0,0.0,Fermé,USD,
+430,Live,20240614,SPY 28JUN24 545 C,-1,2.03,0.7052834,202.2947166,28.06.2024,0.0,0.0,0.0,Fermé,USD,
+447,Simu,20240625,MCL SEP24,1,80.0,0.0,-8000.0,19.08.2024,300.0,600.0,0.0,Fermé,USD,CL is breaking out. Stop loss and take profit are both in place
+448,Live,20240625,XLE 16AUG24 94 C,2,1.52,1.3737,-305.3737,16.08.2024,300.0,600.0,0.0,Fermé,USD,"Patrick's BOT week of 24th June.
+- CTAs are long again oil
+- Oil has a bullish pattern
+- Not too expensive i.e. IV about 18%, 52 weeks IVR is 15%"
+452,Live,20240703,CSCO 16AUG24 45 P,4,0.71,2.7474,-286.7474,16.08.2024,290.0,600.0,0.0,Fermé,USD,"BOT from Patrick, July 2. CSCO got a bearish price action. Just small fib retrace upside but in fib zone."
+452,Live,20240717,CSCO 16AUG24 45 P,-8,0.4125,6.601294,323.398706,16.08.2024,0.0,0.0,0.0,Fermé,USD,
+452,Live,20240717,CSCO 16AUG24 45 P,4,0.4,3.1874,-163.1874,16.08.2024,0.0,0.0,0.0,Fermé,USD,Tried to transform outright put into a bear put spread but missed the point. In the end got a simple Put
+452,Live,20240717,CSCO 16AUG24 47.5 P,-2,1.05,2.305118,207.694882,16.08.2024,0.0,0.0,0.0,Fermé,USD,
+452,Live,20240717,CSCO 16AUG24 47.5 P,4,1.0825,3.2849,-436.2849,16.08.2024,0.0,0.0,0.0,Fermé,USD,
+461,Live,20240723,GLD 20SEP24 215 C,1,10.75,0.62685,-1075.62685,20.09.2024,300.0,600.0,0.0,Fermé,USD,"WITT session 23.07. Right in the middle of the fib zone and good macroeconomic landscape as well (interest rates should soon decrease with the good inflation print).
+I will try the ITM Call instead of the usual OTM call as it does better for small moves."
+465,Live,20240801,GOLD 30AUG24 19 C,7,0.39,4.80795,-277.80795,30.08.2024,200.0,600.0,0.0,Fermé,USD,"BOT WITT 01.08 - after FOMC session - this is bullish from 8, 25 and 50 days EMA - looked at 15mn, 4h, 1d, 1w
+Donwside: earnings on Aug 12
+Gold is globally bullish"
+468,Live,20240806,PFE 20SEP24 31 C,4,0.73,2.7874,-294.7874,20.09.2024,295.0,600.0,0.0,Fermé,USD,"BOT from WITT 06.08 - there are money inflows to health care sector, so I want to have one leg in this game. PFE is technically good: earnings Ok, above 50/21 dma, just above fib zone. Looking to 33 on the upside."
+473,Simu,20240814,SU 18OCT24 210 C,1,13.8,1.1,-1381.1,18.10.2024,730.0,360.0,0.0,Fermé,EUR,10 deltas Oct Diagonal Call  to profit from a potential move of SU from 210 to 225 euros
+474,Live,20240814,ABT 30AUG24 107 C,1,3.23,0.0,-323.0,30.08.2024,300.0,580.0,0.0,Fermé,USD,"WITT 14.08: Health care in good position, ABT already hit big in  the past, good earnings.
+As per TT recommendation, slight ITM long call, and sell call to adjust risk/reward profile"
+474,Live,20240814,ABT 30AUG24 116 C,-1,0.15,0.0,15.0,30.08.2024,0.0,0.0,0.0,Fermé,USD,
+474,Live,20240822,ABT 30AUG24 116 C,1,0.13,0.69685,-13.69685,30.08.2024,0.0,0.0,0.0,Fermé,USD,
+486,Live,20240905,SPY 15NOV24 540 P,1,12.01,0.70165,-1201.70165,15.11.2024,350.0,1150.0,0.0,Fermé,USD,
+486,Live,20240919,SPY 15NOV24 540 P,-1,4.86,0.7196508,485.2803492,15.11.2024,0.0,0.0,0.0,Fermé,USD,
+492,Live,20240913,USO 18OCT24 72 C,2,2.23,0.6667,-446.6667,18.10.2024,310.0,600.0,0.0,Fermé,USD,"There is a good asymmetry here for Crude Oil
+It could rebounce to 75-77 USD in the short term
+So I take a bet here"
+492,Live,20240913,USO 18OCT24 77 C,-2,0.69,0.6761164,137.3238836,18.10.2024,0.0,0.0,0.0,Fermé,USD,
+492,Live,20241001,USO 18OCT24 77 C,2,0.89,0.6707,-178.6707,18.10.2024,0.0,0.0,0.0,Fermé,USD,
+493,Live,20240917,TLT 27SEP24 101 P,3,0.8,2.11005,-242.11005,27.09.2024,0.0,0.0,0.0,Fermé,USD,
+493,Live,20240917,TLT 27SEP24 95 P,3,0.04,1.16005,-13.16005,27.09.2024,180.0,600.0,0.0,Fermé,USD,"I am playing a bet that market will be disappointed by Fed move - i.e. only 25 bps rate cut. Reason is:
+- Inflation is sticky and could come back, decreasing rates too quickly could enforce it
+- US economic data are good so far - why cutting rates aggressively?"
+493,Live,20240917,TLT 27SEP24 98 P,-6,0.12,4.2388416,67.7611584,27.09.2024,0.0,0.0,0.0,Fermé,USD,
+493,Live,20240924,TLT 27SEP24 101 P,-1,2.38,0.7127564,237.2872436,27.09.2024,0.0,0.0,0.0,Fermé,USD,
+493,Live,20240924,TLT 27SEP24 95 P,-1,0.01,0.7061678,0.2938322,27.09.2024,0.0,0.0,0.0,Fermé,USD,Take benefits at this stage - looks like TLT will not get bvack higher? At least situation is not asymmetric any more and I must get out slowly now.
+493,Live,20240924,TLT 27SEP24 98 P,2,0.21,0.7067,-42.7067,27.09.2024,0.0,0.0,0.0,Fermé,USD,
+493,Live,20240925,TLT 27SEP24 101 P,-2,2.86,1.7781816,570.2218184,27.09.2024,0.0,0.0,0.0,Fermé,USD,
+493,Live,20240925,TLT 27SEP24 98 P,4,0.3425,2.1134,-139.1134,27.09.2024,0.0,0.0,0.0,Fermé,USD,
+494,Live,20240917,XLK 27SEP24 225 C,1,1.3,0.80335,-130.80335,27.09.2024,130.0,460.0,0.0,Fermé,USD,"If really Fed is decreasing the rates by 50 bps, then tech sector should rebound quickly, at least in the short term. I am playing a 5 days more than 3% bounce in the tech sector."
+495,Simu,20240917,SPX 18SEP24 5570 P,-1,11.3,1.64585,1128.35415,18.09.2024,0.0,0.0,0.0,Fermé,USD,"In case FOMC is a nothing burger, then this trade should go well. This means SPX is rangebound +/- 50 points around value at trade time."
+495,Simu,20240917,SPX 18SEP24 5670 P,-1,55.7,1.64585,5568.35415,18.09.2024,0.0,0.0,0.0,Fermé,USD,
+495,Simu,20240917,SPX 20SEP24 5570 P,1,22.1,1.64585,-2211.64585,20.09.2024,600.0,1200.0,0.0,Fermé,USD,
+495,Simu,20240917,SPX 20SEP24 5670 P,1,65.2,1.64585,-6521.64585,20.09.2024,0.0,0.0,0.0,Fermé,USD,
+495,Simu,20240918,SPX 18SEP24 5670 P,1,19.0,1.64585,-1901.64585,18.09.2024,0.0,0.0,0.0,Fermé,USD,
+495,Simu,20240918,SPX 20SEP24 5570 P,-1,9.4,1.64585,938.35415,20.09.2024,0.0,0.0,0.0,Fermé,USD,
+495,Simu,20240918,SPX 20SEP24 5670 P,-1,37.5,1.64585,3748.35415,20.09.2024,0.0,0.0,0.0,Fermé,USD,
+498,Live,20240925,AIG 18OCT24 72 P,2,1.1,-0.4333,-219.5667,18.10.2024,219.0,600.0,0.0,Fermé,USD,WITT 25.09: AIG price action is weak and should go down on an ybad news. Small size bet.
+510,Live,20241001,MU 25OCT24 110 C,2,1.48,1.3907,-297.3907,25.10.2024,300.0,300.0,0.0,Fermé,USD,WITT 01.10 MU has just passed its earnings with a nice gap and is retracing it. 
+513,Live,20241002,SPY 03OCT24 572 C,1,0.86,1.05535,-87.05535,03.10.2024,0.0,0.0,0.0,Fermé,USD,Lottery ticket on job's number - assume this will trigger an upside move and look for a 100% gain
+525,Live,20241022,FCX 15NOV24 51 C,2,1.07,2.3059,-216.3059,15.11.2024,200.0,400.0,0.0,Fermé,USD,WITT 22.10: Technical setup is Ok - not extraordinary but ok - so only 200 USD. IV is high 37%. Underlying could go till 54 - so 3:2 reward ratio. Reward just like MU.
+533,Live,20250102,EQT 21FEB25 50 C,3,1.25,1.39575,-376.39575,21.02.2025,376.39575,0.0,0.0,Fermé,USD,"WITT 2.01 NatGas has a nice upward move these last days, so Patrick tries a break out there."
+533,Live,20250114,EQT 21FEB25 50 C,-1,2.5,0.80799,249.19201,21.02.2025,0.0,0.0,0.0,Fermé,USD,"Took partial profits on this posiiton:
+- +100% on first sell
+- +200% for the second sell"
+533,Live,20250115,EQT 21FEB25 50 C,-1,3.75,0.818465,374.181535,21.02.2025,0.0,0.0,0.0,Fermé,USD,
+540,Live,20250128,USO 14FEB25 81 C,3,0.82,1.36575,-247.36575,14.02.2025,247.0,600.0,0.0,Fermé,USD,"As per WITT 28.01, break out trade as it is highly asymmetric.
+"
+541,Live,20250130,EQT 14FEB25 54 C,3,0.62,2.08575,-188.08575,14.02.2025,188.0,600.0,0.0,Fermé,USD,"DUring WITT 28.01, EQT is still bullish and has retraced. Worth going back and ride the trend!"
+547,Live,20250225,QCOM 14MAR25 155 P,2,2.21,0.9105,-442.9105,14.03.2025,442.0,600.0,0.0,Fermé,USD,WITT 25.02: The whole semis may go down - best stock but to be chkeced after NVDA earnings on Wed
+547,Live,20250227,QCOM 14MAR25 155 P,-1,4.7,0.821106,469.178894,14.03.2025,0.0,0.0,0.0,Fermé,USD,"Took my first profit target - i.e. pay entirely for the trade. From now on, it is only bonus.
+NB: ANother possibility would have been to sell 2 Puts way donw the strike ladder, leveraging the high IV. To be looked at."
+550,Live,20250305,GM 17APR25 50 P,1,4.2,0.70665,-420.70665,17.04.2025,420.0,0.0,0.0,Fermé,USD,"WITT 04.03 - Bad outlook for auto makers and technical setup for bearish trade on GM - give it a try with ITM (70 delta) Put, Apr 17th"
+553,Live,20250312,JPM 28MAR25 245 C,2,1.84,0.6733,-368.6733,28.03.2025,260.0,400.0,0.0,Fermé,USD,"To compensate high IV, I bought a bull call spread instead of an outright call"
+553,Live,20250312,JPM 28MAR25 255 C,-2,0.54,0.6818824,107.3181176,28.03.2025,0.0,0.0,0.0,Fermé,USD,
+553,Live,20250319,JPM 28MAR25 255 C,2,0.245,0.6833,-49.6833,28.03.2025,0.0,0.0,0.0,Fermé,USD,
+561,Live,20250326,MCD 17APR25 320 C,1,2.65,0.80665,-265.80665,17.04.2025,265.0,130.0,0.0,Fermé,USD,"I was a bit hesitant to take the trade on MCD as we are globally bearish on US equities.
+However it did make a nice breakout and there is for sure some continuation patten that should work in the very short term.
+Therefore I took a limited risk trade, target a 50% only return as breakout is already under way."
+568,Live,20250407,SLV 17APR25 28 C,20,0.54,6.505,-1086.505,17.04.2025,1086.0,0.0,0.0,Fermé,USD,"WITT 07.04: SLV is due for a bounce quickly - ratio synthetic is the idea to sell a put and with proceeds to buy calls. 
+Worse case is to be assigned 1000 shares SLV at 28 USD which is not too bad."
+568,Live,20250407,SLV 17APR25 28 P,-10,1.23,3.314594,1226.685406,17.04.2025,600.0,0.0,0.0,Fermé,USD,
+568,Live,20250409,SLV 17APR25 28 C,-6,0.721666666666667,2.1122774,430.8877226,17.04.2025,0.0,0.0,0.0,Fermé,USD,"I take partial profits - SLV is volatile and depends also upon industrial projections for silver use- so may get down as well.
+Plan is to take profit by 1/3rd each."
+568,Live,20250409,SLV 17APR25 28 P,3,0.543333333333333,1.04175,-164.04175,17.04.2025,0.0,0.0,0.0,Fermé,USD,
+568,Live,20250410,SLV 17APR25 28 C,-6,0.66,2.1112488,393.8887512,17.04.2025,0.0,0.0,0.0,Fermé,USD,2/3rd now profit taken - last part for Friday
+568,Live,20250410,SLV 17APR25 28 P,3,0.54,1.04175,-163.04175,17.04.2025,0.0,0.0,0.0,Fermé,USD,
+568,Live,20250411,SLV 17APR25 28 C,-8,1.36,2.9505664,1085.0494336,17.04.2025,0.0,0.0,0.0,Fermé,USD,
+569,Live,20250408,GLD 16MAY25 266 C,1,14.89,0.70725,-1489.70725,16.05.2025,1779.0,1200.0,0.0,Fermé,USD,WITT 08.04 GLD has retraced a bit and seems poised to gain to new highs.
+569,Live,20250408,GLD 17APR25 277 P,1,2.89,0.70725,-289.70725,17.04.2025,0.0,0.0,0.0,Fermé,USD,
+569,Live,20250411,GLD 17APR25 277 P,-1,0.38,0.7110964,37.2889036,17.04.2025,0.0,0.0,0.0,Fermé,USD,
+574,Live,20250422,C 30MAY25 60 P,2,1.64,0.7145,-328.7145,30.05.2025,328.0,600.0,0.0,Fermé,USD,WITT 22.04 - Let us check what it entails
+576,Live,20250429,ABT 20JUN25 140 C,2,1.35,0.9145,-270.9145,20.06.2025,270.0,0.0,0.0,Fermé,USD,"WITT 29.04: I have watched this stock for a long time. It held up remarkably when market was crashing. Is in the process of going higher.
+Currently just above its fib zone from last retracement."
+578,Live,20250505,GC 27MAY25 3370 C,1,52.4,2.52,-5242.52,27.05.2025,375.0,600.0,0.0,Fermé,USD,"WITT 05.05. Patrick is very bullish on Gold and clearly it started to breakout on Friday. So I take a bet on Gold futures because it is very liquid, better than GLD. However it costs also more so I have to do a narrow Bull Call spread"
+578,Live,20250505,GC 27MAY25 3380 C,-1,48.7,2.52,4867.48,27.05.2025,0.0,0.0,0.0,Fermé,USD,
+578,Live,20250512,GC JUN25 3380 C,1,11.4,2.52,-1142.52,27.05.2025,0.0,0.0,0.0,Fermé,USD,
+580,Live,20250506,NEM 30MAY25 56 C,2,0.92,0.9159,-184.9159,30.05.2025,184.9159,600.0,0.0,Fermé,USD,WITT 06.05 - GOld miners a bit behind Gold itself - hence the trade
+583,Live,20250514,NTR 20JUN25 60 C,3,0.67,2.12385,-203.12385,20.06.2025,203.12385,0.0,0.0,Fermé,USD,"WITT 14.05. This looks like an A+ setup:
+- Ag sector generally bullish and is a diversification in my trading portfolio
+- After a long basin formation, NTR finally broke out. Bullish on weekly and daily range.
+Low IVP (10%!) so calls are inexpensive.
+Slight contango - so better to buy front month rather than back months. HV is much higher than IV, so IV should go higher.
+delta is 26 only (so I buy below my usual 30-50 delta range).
+60 is a resistance line.
+Cost is only 200 USD."
+583,Live,20250605,NTR 20JUN25 60 C,-1,1.43,0.26074,142.73926,20.06.2025,0.0,0.0,0.0,Fermé,USD,This first sell allows to pay for 2 - and the trade is already present for a while.
+583,Live,20250613,NTR 20JUN25 60 C,-1,3.0,0.06074,299.93926,20.06.2025,0.0,0.0,0.0,Fermé,USD,"Very nice up candle, IV jumped from 23% to 28%, I took intermediate profit as per the rule ""pay for entry"", knowing also that it expires next week."
+586,Live,20250520,VZ 20JUN25 45 C,3,0.76,1.63385,-229.63385,20.06.2025,229.63385,0.0,0.0,Fermé,USD,"WITT 20.5 VZ has shown a good price action, IV is relatively cheap"
+587,Live,20250528,AMD 06JUN25 115 C,1,3.09,0.70795,-309.70795,06.06.2025,175.42,0.0,0.0,Fermé,USD,"WITT 27.05 Go with a higher market, and bet on a good NVDA earnings day. AMZN was the proposed trade, but AMD has exactly the same technical pattern and is much cheaper."
+587,Live,20250528,AMD 06JUN25 120 C,-1,1.35,0.71074,134.28926,06.06.2025,0.0,0.0,0.0,Fermé,USD,
+587,Live,20250604,AMD 06JUN25 120 C,1,1.02,0.70795,-102.70795,06.06.2025,0.0,0.0,0.0,Fermé,USD,
+589,Live,20250603,CNQ 18JUL25 32.5 C,3,0.69,2.12385,-209.12385,18.07.2025,209.12385,400.0,0.0,Fermé,USD,"WITT 03.06 - I took the trade at end of day - stock was already 2% higher and is now (today) 1% lower. Nevertheless:
+-  it went thru a 1 year downward trend
+- it had a V-shape recovery
+- it is above 50d and 200d EMA, as well as fibzone.
+This is linked with oil price."
+589,Live,20250613,CNQ 18JUL25 32.5 C,-1,1.95,0.06074,194.93926,18.07.2025,0.0,0.0,0.0,Fermé,USD,"Took a partial profit on this position, as per ""pay for the entry"" rule."
+594,Live,20250701,GDX 15AUG25 55 C,2,1.31,0.4473,-262.4473,15.08.2025,262.0,0.0,0.0,Fermé,USD,"WITT 01.07: GDX has a good technical setup. However I am still on a B setup only becaquse gold lost a lot of its momentum. IV is low compared with April.
+However:
+- less than 300 USD committed to the trade
+- 35 delta
+- 2 calls opened, possibnly more if I see price action confirmed
+- 45 days - so plenty of time"
+596,Live,20250707,NTR 15AUG25 65 C,2,0.89,1.4073,-179.4073,15.08.2025,179.4073,0.0,0.0,Fermé,USD,"- Above 50d MA and 200 dMA
+- delta is 26, so below normal 30-50 delta range
+- IV is 28.8%, above historical average
+So I opened only 2 calls, and at 21:45 - so just before market close
+- 39 days DTE, so plenty of time
+
+
+"
+603,Live,20250730,STNG 19SEP25 50 C,2,1.5,1.4073,-301.4073,19.09.2025,452.0,0.0,0.0,Fermé,USD,"Earnings in strong progression and did a nice gap up after earnings.
+OTM 30 delta something trade
+Above 50 days EMA
+"
+603,Live,20250804,STNG 19SEP25 50 C,1,1.52,0.00145,-152.00145,19.09.2025,0.0,0.0,0.0,Fermé,USD,Trend is bullish and clearly an uptrend while option price decreased quite a bit.
+603,Live,20250813,STNG 19SEP25 50 C,-1,0.77,1.05424,75.94576,19.09.2025,0.0,0.0,0.0,Fermé,USD,"STNG has lost momentum - still lbulllish but not so much, no reason to be overweight but more neutral as breakout."
+610,Live,20250814,BAC 19SEP25 45 P,1,0.52,1.45145,-53.45145,19.09.2025,53.45145,0.0,0.0,Fermé,USD,WITT session 12.08: Recession signs and financial are the first to tank. BAC is the weakest brand among its peers. I go underweight as bearish trend is not obvious - it gapped down on earnings but then recoevered and did not go back down afterwards.
+603,Live,20250825,STNG 19SEP25 50 C,-1,1.3,0.05424,129.94576,19.09.2025,0.0,0.0,0.0,Fermé,USD,Same thing - it just lost momentum and could go in retracement now
+615,Live,20250903,MRK 17OCT25 90 C,1,1.32,1.05065,-133.05065,17.10.2025,133.0,300.0,0.0,Fermé,USD,"WITT 03.09: Healthcare is generally behaving well (see XLV, Biogen, even Pfizer). Get out of a bear market with clear technical pattern for break out.
+However I start small as not yet going up clearly.
+"
+620,Live,20250922,AMD 17OCT25 175 C,1,2.93,1.05065,-294.05065,17.10.2025,294.05065,0.0,0.0,Fermé,USD,"WITT 16.09 New AMD trade. I am late to open this trade, ahould have opned it earlier on but was hesitating due to higher capital outlay for only 1 call opened- see https://x.com/BPTs_BOT_Trades/status/1967955858765042011 opened as Hail Mary.
+I did not open a Bull Call spread though as recommended- only an outright call. I want to leverage the IV - already from 43% to 45% in a week (so 5% increase) and hopefully gaining momentum till 55% like end of July.
+It has the disadvantage to increase capital outlay and less flexilibty to increase position size, but advantage to capture earlier momentum than a bull call spread. So I can close it sooner also."
+621,Live,20250922,GLD 17OCT25 350 C,1,3.32,0.70065,-332.70065,17.10.2025,127.40409,0.0,0.0,Fermé,USD,"WITT 22.09: I was suffering FOMO, and Patrick sees upside till 4000. So I went on buying a bull call spread till Oct 17. I intend to buy back the short leg when price will move up, and sell it back higher.
+I could also increase position size in the bull call spread."
+621,Live,20250922,GLD 17OCT25 355 C,-1,2.06,0.70344,205.29656,17.10.2025,0.0,0.0,0.0,Fermé,USD,
+622,Live,20250923,TLT 24OCT25 90 C,1,0.96,0.63065,-96.63065,24.10.2025,96.63,0.0,0.0,Fermé,USD,WITT 23.09 THis is typically a contrarian trade - fib retracement and not much love for long bonds. We will give it a try this is quite cheap. If that works I will buy a second call or sell another call higher.
+621,Live,20250930,GLD 17OCT25 355 C,1,5.6,0.70065,-560.70065,17.10.2025,206.40409,0.0,0.0,Fermé,USD,"THe idea is that I believe (Patrick believes) that gold will go till 4000. ALso GLD is now above 355 which is my upper strike- so I have to extend it.
+The other option was to close this trade, take profit, and reopen a new bull call spread 355/360."
+621,Live,20250930,GLD 17OCT25 360 C,-1,3.55,0.70344,354.29656,17.10.2025,0.0,0.0,0.0,Fermé,USD,
+622,Live,20250930,TLT 24OCT25 90 C,2,0.9,0.5613,-180.5613,24.10.2025,180.5613,0.0,0.0,Fermé,USD,TLT path is clearly bullish and right at 90$ level. So I keep pressing the trade by doubling amount involved as this is a break out trade.
+628,Live,20251003,URA 31OCT25 52 C,2,2.0,-0.1082,-399.8918,31.10.2025,219.78918,0.0,0.0,Fermé,USD,"I suffer from URA FOMO so taking the trade as BOT. The idea is simple: 
+1/ Watch where the max gain could realistically be obtained
+2/ Deduce the corresponding bull spread
+3/ Position size accordingly to risk"
+628,Live,20251003,URA 31OCT25 56 C,-2,0.9,-0.10262,180.10262,31.10.2025,0.0,0.0,0.0,Fermé,USD,
+630,Live,20251007,MOS 14NOV25 38 C,1,1.08,1.0459,-109.0459,14.11.2025,109.0459,0.0,0.0,Fermé,USD,"WITT 30.09: Contrary to other stocks, Ag stocks like MOS, CF or NTR are moving after months of decline.
+MOS is clearly back in uptrend and I have waited too long before buying 1 call, 35 delta. 
+If trend continues I will buy a second one. ANd maybe I should have bought 2 on the first day. 
+I took slightly shorter and higher call values (38 instead of 37.5 strike, and Nov 14 instead of Nov 21).
+Earnings are on Nov 11 - so IV is much higher on Nov 7 and Nov 12 than on Oct 30.
+In retrospect, I should have bought 1 35 delta 37 call for Oct 31. Let us see tomorrow.
+Above its 50 day MA, "
+621,Live,20251007,GLD 17OCT25 360 C,1,9.21,0.6959,-921.6959,17.10.2025,0.0,0.0,0.0,Fermé,USD,
+630,Live,20251008,MOS 31OCT25 37 C,1,0.7,0.6959,-70.6959,31.10.2025,70.6959,0.0,0.0,Fermé,USD,"Added one more position: 
+1/ looking at where IV is lowest (31 Oct expiration)
+2/ where strike level makes sense (a bit lower than current strike level)
+Risk is fairly low and this is also interesting to watch."
+630,Live,20251014,MOS 31OCT25 37 C,-1,0.03,1.05119,1.94881,31.10.2025,1.94881,0.0,0.0,Fermé,USD,"THere was some bad news for MOS (announced some sales revision), and the price suddenly took a bad hit. So I closed the end of October call which has less than 5 delta!"
+633,Live,20251017,SLV 21NOV25 49 C,1,2.4,0.6959,-240.6959,21.11.2025,111.39459,0.0,0.0,Fermé,USD,"I suffer from FOMO and want to open a trade in precious metals. I take the best suited option structure: a bull call spread, and if I lose it all, it will not be an issue."
+633,Live,20251017,SLV 21NOV25 53 C,-1,1.3,0.69869,129.30131,21.11.2025,0.0,0.0,0.0,Fermé,USD,
+635,Live,20251020,GLD 31OCT25 405 C,1,6.87,0.6959,-687.6959,31.10.2025,176.39459,0.0,0.0,Fermé,USD,Another FOMO trade - just like SLV on Friday. RIsk is small anyway.
+635,Live,20251020,GLD 31OCT25 410 C,-1,5.12,0.69869,511.30131,31.10.2025,0.0,0.0,0.0,Fermé,USD,
+622,Live,20251021,TLT 24OCT25 90 C,-1,2.07,0.62869,206.37131,24.10.2025,0.0,0.0,0.0,Fermé,USD,Taking partial benefit - pays for 2 contracts.
+633,Live,20251022,SLV 21NOV25 53 C,1,0.3,0.6259,-30.6259,21.11.2025,0.0,0.0,0.0,Fermé,USD,Took profit on the short leg - hoping for a rebound on SLV so the long leg will regain some value. Idea from Patrick.
+636,Live,20251022,ITB 28NOV25 110 C,2,1.85,2.0818,-372.0818,28.11.2025,372.0818,0.0,0.0,Fermé,USD,"WITT 21.10: 
+Nice bull breakout on 21.10 with increasing volume
+61.8% retracement at 111$.
+No earnings worry only DHI - constructor, 15% of ITB has earnings in 6 days.
+Looking at term structure - lowest IV is 28% at Nov 28 expiry (cheaper than Nov 21 expiry).
+Still a solid 5 points above HV which is at 23%.
+Delta is 35."
+622,Live,20251020,TLT 24OCT25 90 C,-1,1.62,1.04869,160.95131,24.10.2025,0.0,0.0,0.0,Fermé,USD,
+635,Live,20251021,GLD 31OCT25 405 C,-1,2.44,1.04869,242.95131,31.10.2025,0.0,0.0,0.0,Fermé,USD,"Big down day in GLD, breaking all technicals. I am still on precious metals bull trade with SLV but have more time with SLV and not much time left with this GLD trade.
+Also the thesis with Bull Call was that as long as it goes it goes, meaning it makese no sens if price action is no more in full bull mode."
+628,Live,20251029,URA 31OCT25 56 C,2,1.57,-0.1082,-313.8918,31.10.2025,0.0,0.0,0.0,Fermé,USD,
+641,Simu,20251015,GLD 31OCT25 390 C,1,7.6,0.7959,-760.7959,31.10.2025,88.30672,0.0,0.0,Ouvert,USD,"Bull Call spread + selling a call to finance it- last shot at GLD, assuming not much upside
+"
+641,Simu,20251015,GLD 31OCT25 400 C,-2,4.25,0.89738,849.10262,31.10.2025,0.0,0.0,0.0,Ouvert,USD,
+643,Simu,20250918,MSF APR26,2,1.2924,0.82,-32310.82,16.03.2026,32310.82,0.0,0.0,Ouvert,USD,New hedge currency trade for March 2026.
+644,Live,20251111,JNJ 19DEC25 200 C,3,1.14,2.0877,-344.0877,19.12.2025,344.0877,0.0,0.0,Fermé,USD,"WITT 11.11: BOT of the week. This time I want to open it today, because I feel that otherwise I may not be able to open it in coming days as this is going up and up.
+Delta is only 18 at the time of opening, and already at 25 3 hours later.
+It is not too expensive with 19-Dec 200 Call IV at 19% which is slightly above 30-days ATM IV at 18.5%. Volume is high: more than 1000 calls opened today and OI already at 3840."
+649,Live,20251118,NFLX 19DEC25 105 P,2,1.585,2.0918,-319.0918,19.12.2025,319.0918,0.0,0.0,Fermé,USD,WITT 18.11: Short NFLX as the market seems to be hinging towards decline. Delta is a bit above 20. 
+644,Live,20251117,JNJ 19DEC25 200 C,-1,3.42,0.79869,341.20131,19.12.2025,0.0,0.0,0.0,Fermé,USD,Auomatic target 1 sell: put the trade risk-off
+651,Live,20251120,HAL 19DEC25 29 C,5,0.36,3.4795,-183.4795,19.12.2025,183.4795,0.0,0.0,Fermé,USD,"Energy trades look like a good diversification strategy.
+HAL seems like an ideal setup: after a long downward move, had a bottoming formation and is now well advanced in a recovery process, with successive higher highs et highers lows.
+Technical indicators all good and IV (37%) far lower than RV (46%). So it is cheap. "
+653,Live,20251125,WMT 19DEC25 108 C,3,1.16,2.0877,-350.0877,19.12.2025,350.0877,0.0,0.0,Fermé,USD,"WITT session 25.11: I took the BOT right at session opening, for a short ride. Got burnt by BOT AMGN trade where I could not enter.
+Different from strike/duration of BPT.
+Let us see where we go from there, I may sell it for a profit and reopen a new trade with longer duration and higher strike."
+649,Live,20251124,NFLX 19DEC25 105 P,-1,3.75,1.04869,373.95131,19.12.2025,0.0,0.0,0.0,Fermé,USD,Makes NFLX a cost free trade.
+653,Live,20251128,WMT 19DEC25 108 C,-1,3.52,0.79869,351.20131,19.12.2025,0.0,0.0,0.0,Fermé,USD,"Risk free trade, automated take profit order - 3 x initial price"
+657,Live,20251202,HAL 16JAN26 29 C,4,0.5,1.6564,-201.6564,16.01.2026,201.6564,0.0,0.0,Ajusté,USD,"Good setup but not stellar as well. 
+Put a bit under my previous break out trades with only 200$ at stake.
+Did not choose 28 as strike level as it was already too busy and did not manage to buy at the price I wanted- but went with the 29 strike instead. Looked better and less crowded. A bit cheaper (33.2% instead of 33.7%)"
+657,Live,20251205,HAL 16JAN26 29 C,-2,1.06,1.33378,210.66622,16.01.2026,0.0,0.0,0.0,Ajusté,USD,"Sold 2 calls at double the initial price so that all remaing 2 calls are now without any risk.
+NB If I had opened 3 contracts and not 4, I would have needed to wait until the price triped and not doubled. So this makes it an easier trade."
+658,Live,20251209,AAPL 26DEC25 287.5 C,2,1.37,1.3282,-275.3282,26.12.2025,275.3282,0.0,0.0,Fermé,USD,"WITT 9.12 - BOT of the week: earnings are end of Jan, CHristmas is coming and sales in Black Friday were good. SPY rallying till previous top - AAPL should follow.
+I take earlier than Jan 16 expiration because price is too high otherwise. Delta is 22 (a bit too low but still Ok). IV at 18.5%. Previous ATH at 288.5.
+Last rally was +8.5% on 7 trading sessions - so could go till 300 by Friday 19th - even 295 could be more than +1300$ gain!
+"
+663,Live,20251211,GLD 26DEC25 400 C,1,3.55,0.6641,-355.6641,26.12.2025,133.33099,0.0,0.0,Fermé,USD,"SUffer from high FOMO against precious metals parabolic rise- needs to buy something, anything,,, Stupid isn'it? But not completely I want some diversification also. ANd risk is kept at bay thanks to a bull call spread."
+663,Live,20251211,GLD 26DEC25 405 C,-1,2.23,0.66689,222.33311,26.12.2025,0.0,0.0,0.0,Fermé,USD,
+663,Live,20251223,GLD 26DEC25 405 C,1,5.9,0.6641,-590.6641,26.12.2025,0.0,0.0,0.0,Fermé,USD,
+664,Live,20251216,AMGN 09JAN26 345 C,1,1.6,0.6641,-160.6641,09.01.2026,160.6641,0.0,0.0,Ajusté,USD,"WITT 16.12 BOT of the week, but I open only one as price tag is high (so laddering in)"
+664,Live,20251217,AMGN 09JAN26 345 C,1,2.05,1.0141,-206.0141,09.01.2026,206.0141,0.0,0.0,Ajusté,USD,Trade looks good - laddering in even if higher cost
+589,Live,20250718,CNQ 18JUL25 32.5 C,-2,0.0,0.0,0.0,18.07.2025,0.0,0.0,-14.184590000000014,Fermé,USD,
+610,Live,20250903,BAC 19SEP25 45 P,-1,0.1,0.85344,9.14656,19.09.2025,0.0,0.0,-44.30489,Fermé,USD,Trade will fail anyway - get back small amount still available.
+261,Live,20230518,SPY Vertical Spread 26.05.2023 410/420 -1C/1C,1,-5.79,2.086212,576.913788,26.05.2023,0.0,0.0,-48.84,Fermé,USD,Erreur: -48.84$...
+494,Live,20240924,XLK 27SEP24 225 C,-1,0.65,0.807947,64.192053,27.09.2024,0.0,0.0,-66.611297,Fermé,USD,Delta is below 25 - no more upside possible at this point on XLK. Get out of the trade for a small loss (even if only 3 days left!)
+385,Live,20240315,CCJ 15MAR24 50 C,-1,0.0,0.0,0.0,15.03.2024,0.0,0.0,-74.433532,Fermé,USD,NA
+513,Live,20241003,SPY 03OCT24 572 C,-1,0.0,0.0,0.0,03.10.2024,0.0,0.0,-87.05535,Fermé,USD,Lottery ticket did not win
+452,Live,20240725,CSCO 16AUG24 47.5 P,-2,1.31,1.8565636,260.1434364,16.08.2024,0.0,0.0,-94.98267560000005,Fermé,USD,"Got out of the fib zone. Even with a negative environment, the stock did surprisingly well. The trade looks dead"
+473,Simu,20240913,SU 18OCT24 210 C,-1,18.75,1.1,1873.9,18.10.2024,0.0,0.0,-99.39999999999975,Fermé,EUR,Hard to close - hard to understand how it worked. I slept on it... could have closed it much earlier on for a good profit.
+615,Live,20250922,MRK 17OCT25 90 C,-1,0.34,0.70344,33.29656,17.10.2025,0.0,0.0,-99.75408999999999,Fermé,USD,No momentum as needed for a break out trade. It seems that healthcare is out of love still...
+635,Live,20251021,GLD 31OCT25 410 C,1,1.74,1.0459,-175.0459,31.10.2025,0.0,0.0,-108.48918,Fermé,USD,"Nasty breakdown that day - all bullish technicals were broken. As per plan I exited the trade : limited time to recovery, still SLV to go to precious metals bullish thesis."
+651,Live,20251201,HAL 19DEC25 29 C,-5,0.15,2.08445,72.91555,19.12.2025,0.0,0.0,-110.56395,Fermé,USD,"The BOT has failed from my viewpoint as it did not move quickly enough to show significant positive price action before De 19. So I put a price to get rid of these options.
+Another solution would be to reopen a trade for Jan expiration. But no time right now - will do next week when I am back from vacations"
+335,Live,20231005,F 17NOV23 11 P,-10,0.295,10.36926,284.63074,17.11.2023,0.0,0.0,-113.52212,Fermé,USD,I butchered it. I do not know how to create a break out trade when bearish. Have to think about it.
+448,Live,20240730,XLE 16AUG24 94 C,-2,0.96,1.4046176,190.5953824,16.08.2024,0.0,0.0,-114.77831759999998,Fermé,USD,"Close for several reasons:
+- 15 days only left and the trade has not worked so far
+However in the fib zone, the trade has done nothing wrong.
+In retrospect I misinterpreted WITT 30.07 Patrick stance on XLE and sold it a bit early. On July 31, Hamas chef killing by Israel and XLE went back to profitability"
+633,Live,20251114,SLV 21NOV25 49 C,-1,0.28,1.04869,26.95131,21.11.2025,0.0,0.0,-115.06917999999999,Fermé,USD,"As per trade plan, I do not let an outright option go in its last week - unless there is nothing to get back like MOS recent trade."
+620,Live,20250926,AMD 17OCT25 175 C,-1,1.68,1.05344,166.94656,17.10.2025,0.0,0.0,-127.10409000000001,Fermé,USD,Delta smaller than 20 - i do not see any upside here.
+596,Live,20250728,NTR 15AUG25 65 C,-2,0.25,0.41288,49.58712,15.08.2025,0.0,0.0,-129.82018,Fermé,USD,
+384,Live,20240222,MS 15MAR24 82.5 P,-3,0.63,2.100432,186.899568,15.03.2024,0.0,0.0,-129.920982,Fermé,USD,"According to Patrick, no sign of weakness on MS. It is out of the fib zone. Close the short trade."
+401,Live,20240423,CSCO 26APR24 47 P,-10,0.05,9.0168,40.9832,26.04.2024,0.0,0.0,-163.4853,Fermé,USD,With only 3 days left there is no chance that this trade is anything but a loss. So I close the trade to decrease the loss.
+255,Live,20230608,SPY 18AUG23 415 P,-1,4.72,0.705266,471.294734,18.08.2023,0.0,0.0,-171.80286,Fermé,USD,Close this put to adjust to new SPY spot price and fit with Pat's idea. Put lost 564$ (about 50% of its value).
+397,Live,20240322,CSCO 19APR24 47.5 P,-10,0.19,6.89792,183.10208,19.04.2024,0.0,0.0,-173.76642,Fermé,USD,CSCO got out of the fib zone during 3 days - sold the Put as I do not see any clear path to down.
+630,Live,20251114,MOS 14NOV25 38 C,-1,0.0,0.0,0.0,14.11.2025,0.0,0.0,-177.79299,Fermé,USD,"Expired worthless - tried to sell it before the last day, but was not tradeable during the last week.
+Should have been taken off the week before expiration week."
+250,Simu,20230518,AMGN 16JUN23 225 C,-1,4.6,0.66517,459.33483,16.06.2023,0.0,0.0,-183.42564,Fermé,USD,NA
+580,Live,20250530,NEM 30MAY25 56 C,-2,0.0,0.0,0.0,30.05.2025,0.0,0.0,-184.9159,Fermé,USD,"Duration was a bit too short for NEM to rebound from its lows. It namely went back up the week after it expired. 
+But is now done again - in a trading range. No real breakout."
+541,Live,20250214,EQT 14FEB25 54 C,-3,0.0,0.0,0.0,14.02.2025,0.0,0.0,-188.08575,Fermé,USD,End of BOT - failed
+586,Live,20250610,VZ 20JUN25 45 C,-3,0.13,1.38222,37.61778,20.06.2025,0.0,0.0,-192.01606999999998,Fermé,USD,"Looking at volatility, there is only a 20% chance remaining that this trade is profitable.No technical positive setup (not negative either)."
+227,Live,20230505,OXY 19MAY23 55 P,-2,0.19,0.663284,37.336716,19.05.2023,0.0,0.0,-192.65224,Fermé,USD,USO moved below fib pocket. No more potential upside in oil.
+465,Live,20240807,GOLD 30AUG24 19 C,-7,0.12,4.8298152,79.1701848,30.08.2024,0.0,0.0,-198.6377652,Fermé,USD,"R loss so I quit.
+The crash on Aug 5 did crash GOLD price action. And while it as regained some foot since, there does not seem to be any chance that it will get back on a strong momentum by Aug 30."
+594,Live,20250731,GDX 15AUG25 55 C,-2,0.32,0.85288,63.14712,15.08.2025,0.0,0.0,-199.30018,Fermé,USD,"Looking at volatility, small chance GDX can get it back to 55 (about 20% chance), but it is now below 52$, and Gold is losing momentum as USD is in a short squeeze.
+"
+576,Live,20250603,ABT 20JUN25 140 C,-2,0.34,0.92148,67.07852,20.06.2025,0.0,0.0,-203.83597999999998,Fermé,USD,"Looking at the trade, there is no way it can be beneficial. I looked at volatility and multiplied by square root of remaining time.
+So I closed the trade."
+298,Live,20230817,GILD 15SEP23 75 C,-1,3.38,1.055194,336.944806,15.09.2023,0.0,0.0,-207.105244,Fermé,USD,Broke the fib zone
+525,Live,20241115,FCX 15NOV24 51 C,-2,0.0,0.0,0.0,15.11.2024,0.0,0.0,-216.3059,Fermé,USD,Cupper trade never played out - just let the call expire worthless.
+468,Live,20240809,PFE 20SEP24 31 C,-4,0.2,1.670784,78.329216,20.09.2024,0.0,0.0,-216.458184,Fermé,USD,"Several reasons to close this trade:
+1- Underlying is below fib zone
+2- Loss is already equal to R
+3- Delta is below 30. So it looks like it cannot become profitable below 30 and thereis no reason to believe it will go back to 30 before end of August"
+498,Live,20241018,AIG 18OCT24 72 P,-2,0.0,0.0,0.0,18.10.2024,0.0,0.0,-219.5667,Fermé,USD,Patrick completely missed the point. AIG just rocketed. But the setup itself was correct and price action was initially weak.
+427,Live,20240604,OVV 19JUL24 55 C,-7,0.12,4.8998152,79.1001848,19.07.2024,0.0,0.0,-219.7777652,Fermé,USD,Got stopped out by a nasty breakdown. Trade is no longer a breakout due to energy sector breakdown.
+400,Live,20240403,AMGN 19APR24 290 C,-1,0.9,1.04036,88.95964,19.04.2024,0.0,0.0,-236.83721,Fermé,USD,"2nd day below fib retracement zone -> got out of the trade, as planned with BOT."
+658,Live,20251216,AAPL 26DEC25 287.5 C,-2,0.19,2.0537799999999997,35.94622,26.12.2025,0.0,0.0,-239.38198,Fermé,USD,Price action is weak and delta is under 10 - better to get out of the trade. Patrick does the same a couple of days later.
+540,Live,20250214,USO 14FEB25 81 C,-3,0.0,0.0,0.0,14.02.2025,0.0,0.0,-247.36575,Fermé,USD,End of BOT - did not succeed
+578,Live,20250512,GC JUN25 3370 C,-1,12.7,2.52,1267.48,27.05.2025,0.0,0.0,-250.08000000000084,Fermé,USD,GC future is below 3300 - close it as was envisioned from the start.
+314,Live,20230922,TLT 19JAN24 100 C,-2,0.82,0.666692,163.333308,19.01.2024,0.0,0.0,-272.733264,Fermé,USD,Fermé
+348,Live,20231116,USO 15DEC23 78 C,-3,0.46,1.326174,136.673826,15.12.2023,0.0,0.0,-274.343924,Fermé,USD,Completely unexpected move downwards of USO. Seems it was an overcrowded trade. Sell the news (Israeli-Hamas war) did not seem to bother markets. I gues it was too easy!
+461,Live,20240725,GLD 20SEP24 215 C,-1,7.9,0.651602,789.348398,20.09.2024,0.0,0.0,-286.27845200000013,Fermé,USD,I reached the 300$ max risk so close the trade.
+422,Live,20240621,EBAY 21JUN24 58 C,-11,0.0,0.0,0.0,21.06.2024,0.0,0.0,-292.4018956,Fermé,USD,
+363,Live,20231212,GOOG 19JAN24 137.5 C,-1,2.52,1.043706,250.956294,19.01.2024,0.0,0.0,-294.662956,Fermé,USD,Bet was lost - GOOG did not turn out as expected
+425,Simu,20240531,MCL AUG24,-1,76.67,0.77,7666.23,19.07.2024,0.0,0.0,-302.5400000000009,Fermé,USD,Got stopped out - CL broke down 1%
+398,Live,20240419,SMH 19APR24 240 C,-1,0.0,0.0,0.0,19.04.2024,0.0,0.0,-306.03685,Fermé,USD,It never really worked out - as a BOT I let it go till the end as there was no evident breakdown from FIb zone either.
+550,Live,20250324,GM 17APR25 50 P,-1,1.13,0.8125814,112.1874186,17.04.2025,0.0,0.0,-308.5192314,Fermé,USD,"It broke out of the fib on the upside after a long consolidation period within the fib -> breakout trade is dead.
+Pat had already told this last week."
+574,Live,20250512,C 30MAY25 60 P,-2,0.03,1.1216468,4.8783532,30.05.2025,0.0,0.0,-323.8361468,Fermé,USD,"Should have been closed earlier. I have been lazy on this one. Knew I had to close it, but postponing trade close, even if it was already way above its fib zone."
+636,Live,20251103,ITB 28NOV25 110 C,-2,0.2,1.37738,38.62262,28.11.2025,0.0,0.0,-333.45918,Fermé,USD,"About 7 delta, below the fib, below 50 and 25 DMA - get out of the trade.
+"
+447,Simu,20240729,MCL SEP24,-1,75.63,0.77,7562.23,19.08.2024,0.0,0.0,-437.77000000000044,Fermé,USD,"Still in the fib zone, but loss is too big."
+404,Live,20240510,USO 17MAY24 84 C,-3,0.03,1.118992,7.881008,17.05.2024,0.0,0.0,-507.149772,Fermé,USD,USO trade closed down this break out trade did not work. In retrospect it is not worth trying to reposition in strike if not in duration as well - as it is then a new trade.
+224,Live,20230518,SPY 30JUN23 410 P,-1,6.18,0.706434,617.293566,30.06.2023,0.0,0.0,-996.57,Fermé,USD,"Max risk loss due to IV decrease from 17% to 13% (vega approxim. 80 - so 320$ loss) plus theta burn. Opened at SPY spot price 410$, closed at 419$ In total 650$ loss on put side and 350$ loss on call side."

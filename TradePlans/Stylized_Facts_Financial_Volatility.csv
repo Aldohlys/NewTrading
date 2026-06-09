@@ -1,0 +1,10 @@
+Rank;Stylized Fact;Relevance for Stock Exchange Indexes;Relevance for Large Cap Stocks
+1;Volatility clustering;Very High;Very High
+2;Leverage effect;High;Medium to High
+3;Fat tails and excess kurtosis;High;High
+4;Mean reversion;Medium to High;Medium
+5;Asymmetric volatility;Medium;Medium
+6;Long memory;Medium;Low to Medium
+7;Time-varying correlation (Contagion and co-movement);Medium;Low to Medium
+8;Volatility tends to be serially uncorrelated;Low to Medium;Low
+9;Risk-premium;Low;Low to Medium

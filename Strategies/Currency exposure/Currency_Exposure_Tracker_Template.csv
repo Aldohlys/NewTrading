@@ -1,0 +1,36 @@
+Date,Trade_Nr,Security,Market,Currency,Position_Size_Local,FX_Rate_Entry,CHF_Value,Percent_of_Portfolio,Target_Currency_Pct,Delta_vs_Target,Action_Needed
+2026-01-04,Example1,AAPL,Tech,USD,500,0.88,440,10%,40-50%,OK,None
+2026-01-04,Example2,GLD,Precious Metals,USD,400,0.88,352,8%,40-50%,OK,None
+2026-01-04,Example3,ASML,Tech,EUR,500,0.96,480,11%,30-40%,OK,None
+2026-01-04,Example4,NOVN,Healthcare,CHF,600,1.00,600,13%,10-20%,OK,None
+
+# Instructions:
+# 1. Update this daily when opening/closing positions
+# 2. Position_Size_Local = premium paid in local currency (USD, EUR, or CHF)
+# 3. FX_Rate_Entry = CHF per unit of foreign currency at entry
+#    - For USD: typically 0.85-0.95 (e.g., 0.88 means 1 USD = 0.88 CHF)
+#    - For EUR: typically 0.93-1.05 (e.g., 0.96 means 1 EUR = 0.96 CHF)
+#    - For CHF: always 1.00
+# 4. CHF_Value = Position_Size_Local × FX_Rate_Entry
+# 5. Calculate currency totals at bottom:
+#
+# CURRENCY SUMMARY:
+# Total USD Exposure: Sum of all USD CHF_Values
+# Total EUR Exposure: Sum of all EUR CHF_Values
+# Total CHF Exposure: Sum of all CHF CHF_Values
+# Total Portfolio: Sum of all CHF_Values
+#
+# USD Percentage: (Total USD / Total Portfolio) × 100%
+# EUR Percentage: (Total EUR / Total Portfolio) × 100%
+# CHF Percentage: (Total CHF / Total Portfolio) × 100%
+#
+# TARGET ALLOCATION:
+# USD: 40-50% (adjust to 50-60% if USD trending strong, 30-40% if weak)
+# EUR: 30-40% (adjust to 40-50% if EUR trending strong, 25-30% if weak)
+# CHF: 10-20% (maintain as base currency anchor)
+#
+# REBALANCING RULES:
+# - If any currency >10% above target max → AVOID new trades in that currency
+# - If any currency >5% below target min → PRIORITIZE trades in that currency
+# - If USD >65% → MUST close lowest-conviction USD trade
+# - If CHF <10% → MUST add CHF defensive position (Novartis, Nestlé)

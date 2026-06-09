@@ -1,0 +1,260 @@
+TradeNr,EntryDate,Symbol,PnL,Notes,put_count,call_count,is_futures,direction,is_winner,sector,entry_str,setup,breakout,color,squeeze,vol_dec,vol_surge,rng_pct,rsi,ma50_dist,flags
+42,20220721,GLD,259.52,"Gold: Technical analysis Major support + 2 measured moves completed,Prise de bénéfice à +30%, Ss-jacent à 165 USD.  Remarque: Date du 30Dec pour le Call trop éloignée",0,0,0,long,True,Precious Metals,2022-07-21,0.0,0.0,GREY,0.834,0.95,0.84,15.9,23.7,-4.9,S1:- S2:- S3:- S4:- S5:- S6:- | BK1:- BK2:- BK3:- BK4:-
+224,20230403,SPY,-996.57,"This is raised during WITT. Patrick wants to build on the idea that short term (until end of April), market will rise. And then should go down by end of June. Hence the straddle with possible repositioning in the future.,NA,Sell short term 420 Call To pay less for the call that is expensive (interest rates are high).,In view of May 4th FOMC meeting, roll the trade beyond May 4th.  So close current May 5th straddle.,Max risk loss due to IV decrease from 17% to 13% (vega approxim. 80 - so 320$ loss) plus theta burn. Opened at SPY spot price 410$, closed at 419$ In total 650$ loss on put side and 350$ loss on call side.",0,0,0,long,False,Macro,2023-04-03,4.0,3.0,AMBER,0.901,1.185,0.6,98.7,70.6,2.7,S1:+ S2:+ S3:+ S4:+ S5:- S6:- | BK1:+ BK2:+ BK3:+ BK4:-
+227,20230406,OXY,-192.65224,"NA,Energy play and W. Buffet's favorite,USO moved below fib pocket. No more potential upside in oil.",0,0,0,long,False,Energy,2023-04-06,2.0,2.0,GREY,0.971,1.098,0.63,68.7,67.3,2.5,S1:+ S2:- S3:+ S4:- S5:- S6:- | BK1:+ BK2:+ BK3:- BK4:-
+250,20230501,AMGN,-183.42564,NA,0,0,0,long,False,Healthcare,2023-05-01,2.0,0.0,GREY,0.75,0.847,0.99,24.6,22.2,-0.1,S1:- S2:+ S3:- S4:- S5:- S6:+ | BK1:- BK2:- BK3:- BK4:-
+255,20230517,SPY,-171.80286,"Adjust to SPY trade - SPY going down,NA,Adjust to new SPY level,Close this put to adjust to new SPY spot price and fit with Pat's idea. Put lost 564$ (about 50% of its value).,Only 90$ credit, but for only 10% of the total time. WOrth closing and reopening a new one.",0,0,0,long,False,Macro,2023-05-17,5.0,2.0,AMBER,0.492,0.874,1.13,82.8,53.9,2.5,S1:+ S2:+ S3:+ S4:- S5:+ S6:+ | BK1:+ BK2:- BK3:+ BK4:-
+261,20230518,SPY,-48.84,Erreur: -48.84$...,0,0,0,long,False,Macro,2023-05-18,5.0,4.0,GREEN,0.526,0.882,1.24,97.2,54.5,3.4,S1:+ S2:+ S3:+ S4:- S5:+ S6:+ | BK1:+ BK2:+ BK3:+ BK4:+
+298,20230815,GILD,-207.105244,"Rotation from tech to health (defensive sector). BPT idea: Miss on earnings but should rebounce quickly as all the healthcare sector is gaining momentum,Broke the fib zone",0,0,0,long,False,Unknown,2023-08-15,3.0,3.0,GREY,0.892,1.032,0.63,71.7,64.1,2.7,S1:+ S2:+ S3:+ S4:- S5:- S6:- | BK1:+ BK2:+ BK3:+ BK4:-
+300,20230802,V,627.87642,"WITT: Took the break-out trade. Visa has just got good earnings.,This trade kept going up and up, and I let it continue- even when Patrick was saying it was better to close it. As long as fib zone was not retraced, I continued -> Nice profit!",0,0,0,long,True,Financial,2023-08-02,3.0,0.0,GREY,0.726,0.833,0.87,55.9,37.1,2.3,S1:+ S2:+ S3:- S4:- S5:- S6:+ | BK1:- BK2:- BK3:- BK4:-
+310,20230829,XOM,357.1886,"Idea from Pat - pure BOT trade,NA",0,0,0,long,True,Energy,2023-08-29,6.0,2.0,AMBER,0.633,0.892,0.71,81.9,53.2,4.2,S1:+ S2:+ S3:+ S4:+ S5:+ S6:+ | BK1:- BK2:+ BK3:+ BK4:-
+314,20230830,TLT,-272.733264,"Pat's idea - TLT (20 yrs+ bonds have bottomed),Fermé,NA",0,0,0,long,False,Macro,2023-08-30,1.0,3.0,GREY,0.491,1.032,0.62,77.4,53.5,-2.4,S1:- S2:- S3:- S4:- S5:+ S6:- | BK1:+ BK2:+ BK3:+ BK4:-
+328,20230926,RRC,283.31244,"New idea from Patrick - RRC is an energy company,Takes profit as RRC in profit zone. Only 1 Call left. Risk free trade.,Successful trade and there does not seem to be much more upside given the time left. Closed for a profit.",0,0,0,long,True,Unknown,2023-09-26,1.0,1.0,GREY,0.882,0.916,1.31,29.8,41.1,-2.3,S1:- S2:+ S3:- S4:- S5:- S6:- | BK1:- BK2:- BK3:- BK4:+
+335,20231003,F,-113.52212,"BOT from Pat,NA,I butchered it. I do not know how to create a break out trade when bearish. Have to think about it.",0,0,0,long,False,Unknown,2023-10-03,0.0,0.0,GREY,0.812,0.989,1.15,22.2,36.5,-3.0,S1:- S2:- S3:- S4:- S5:- S6:- | BK1:- BK2:- BK3:- BK4:-
+348,20231107,USO,-274.343924,"Copy paste of Pat's idea during WITT 7.11. Max risk is Ok, reward also in line. Asymmetry clearly in,Completely unexpected move downwards of USO. Seems it was an overcrowded trade. Sell the news (Israeli-Hamas war) did not seem to bother markets. I gues it was too easy!",0,0,0,long,False,Macro,2023-11-07,1.0,1.0,GREY,0.888,1.198,1.46,1.8,30.6,-8.0,S1:- S2:+ S3:- S4:- S5:- S6:- | BK1:- BK2:- BK3:- BK4:+
+351,20231114,GOLD,1116.47848,"GOLD has a nice breakout profile. WITT session. If goes up to 17, nice 600 USD profit,First I took a partial profit as it gained a lot, then took the whole profit on the Gold reversal day,NA",0,0,0,long,True,Unknown,2023-11-14,0.0,1.0,GREY,0.803,1.072,1.75,43.3,39.3,-10.3,S1:- S2:- S3:- S4:- S5:- S6:- | BK1:- BK2:- BK3:- BK4:+
+353,20231122,AMGN,867.52348,"2 errors when entering the trade: 1/ I looked at 50-days SMA, but I should have looked at it at close, not at init. ANd this has no meaning during the first 10 minute of the trading day 2/ Trading during the first 30 minutes is not a good idea - too much pressure and artificial prices Moreover I need to define a limit price for the option so I do not buy it if too high- especially for breakout trades.,Finally AMGN popped up so I took some profit off the table, and continued the trade.,NA",0,0,0,long,True,Healthcare,2023-11-22,1.0,0.0,GREY,0.694,0.964,0.66,63.1,50.1,-1.3,S1:- S2:+ S3:- S4:- S5:- S6:- | BK1:- BK2:- BK3:- BK4:-
+363,20231207,GOOG,-294.662956,"I took the trade despite the low Risk/Reward ratio - but GOOG had already popped upon great Gemini outcome. See also Journal,Bet was lost - GOOG did not turn out as expected",0,0,0,long,False,Communications,2023-12-07,5.0,2.0,AMBER,0.559,0.941,1.88,77.4,49.5,2.7,S1:+ S2:+ S3:+ S4:+ S5:+ S6:- | BK1:- BK2:- BK3:+ BK4:+
+376,20240109,AAPL,1346.44733,"WITT session from 9.01 - BOT trade. Mag 7 are still on the mark, worth taking the trade as there is asymmetry. Target 192.,Great trade - I progressively sold and adjusted the sell levels as needed,NA",0,0,0,long,True,Technology,2024-01-09,1.0,0.0,GREY,1.0,1.06,0.75,25.6,26.3,-1.5,S1:- S2:+ S3:- S4:- S5:- S6:- | BK1:- BK2:- BK3:- BK4:-
+384,20240206,MS,-129.920982,"WITT BOT - Asymmetry looks good - MS is bearish and not a good bank as per price action -not like JPM..,According to Patrick, no sign of weakness on MS. It is out of the fib zone. Close the short trade.",0,0,0,long,False,Financial,2024-02-06,1.0,2.0,GREY,0.689,1.163,0.73,38.8,64.5,-0.3,S1:- S2:+ S3:- S4:- S5:- S6:- | BK1:+ BK2:+ BK3:- BK4:-
+385,20240209,CCJ,-74.433532,"CCJ had a bug down day yesterday due to earning miss. But his did not really continue today so I take an additional 100$ risk (on top of 500$ already committed) but on the call side,,Adjust CCJ BOT trade as CCJ does not seem to recover fast,NA",0,0,0,long,False,Basic Materials,2024-02-09,1.0,0.0,GREY,0.755,1.185,1.05,5.2,42.9,-3.4,S1:- S2:+ S3:- S4:- S5:- S6:- | BK1:- BK2:- BK3:- BK4:-
+386,20240213,AAPL,96.09525,"WITT session 13.02 Apple seems weak - has not shown strength recently. Should go down by SPY going down,There is no more asymmetry in the trade. Although AAPL is weak, the nice earnings from NVDA risk to push all tech higher. Go out of the trade",0,0,0,long,True,Technology,2024-02-13,1.0,0.0,GREY,0.895,1.017,1.0,35.2,29.8,-2.7,S1:- S2:- S3:+ S4:- S5:- S6:- | BK1:- BK2:- BK3:- BK4:-
+391,20240222,XOM,886.27917,"WITT 20 Feb- I took the trade on 22. Oil is breaking out, higher highs and higher lows. So XOM is an opportunity,Add one more to XOM bullish trade. XOM price action is bullkish but this is not reflected in the call price yet.,Take some profit off the table. Next step is on March 19- before FOMC meeting on March 20.,As planned I sold one call - only one is left - My take is that between now and April 19th, there will be some more money to be made. For instance it could go up to 116$. So I leave it with one call at 5.70$ Maybe too optimistic, let us see,Take profit target got hit - I made the max profit I was expecting. It did not go much higher that day . until 6.40$ very briefly so I could only have gained 70$ more. Worth closing and going to something else.",0,0,0,long,True,Energy,2024-02-22,4.0,2.0,GREY,0.637,0.96,1.06,90.3,61.6,4.3,S1:+ S2:+ S3:+ S4:- S5:+ S6:- | BK1:+ BK2:- BK3:+ BK4:-
+393,20240227,AAPL,1277.3539,"AAPL looks weak again - did not progress as much as other stocks while the SP index was crawling higher,No asymmetry left - trade went down to support level, may go back up.,NA",0,0,0,long,True,Technology,2024-02-27,0.0,0.0,GREY,0.733,0.99,1.0,28.8,30.8,-3.0,S1:- S2:- S3:- S4:- S5:- S6:- | BK1:- BK2:- BK3:- BK4:-
+395,20240305,GOLD,388.718446,"Barrick Gold should see a nice uptick - Gold break outs on ATH,GOld is due for a retrace - take some profit off the stage,,GOLD does not seem to break higher but is more or less flat -> quit the trade before it drops",0,0,0,long,True,Unknown,2024-03-05,3.0,3.0,GREY,0.801,1.242,1.12,84.7,63.3,0.6,S1:+ S2:- S3:+ S4:+ S5:- S6:- | BK1:+ BK2:+ BK3:+ BK4:-
+397,20240319,CSCO,-173.76642,"WITT 19.03: CSCO is on a bearish primary trend and just got a fib retracement - it is in retracement zone from downward pattern. looking for 44$ as first target.,CSCO got out of the fib zone during 3 days - sold the Put as I do not see any clear path to down.",0,0,0,long,False,Technology,2024-03-19,3.0,0.0,GREY,0.583,0.984,0.98,51.2,61.0,-1.5,S1:- S2:- S3:+ S4:+ S5:+ S6:- | BK1:- BK2:- BK3:- BK4:-
+398,20240321,SMH,-306.03685,"WITT 21.03 Pure BOT trade with limited possible loss, and clear exit path. If it goes below fib retracement then out. NVIDIA is the champ here and all semi conductor sector stocks could very well go higher.,It never really worked out - as a BOT I let it go till the end as there was no evident breakdown from FIb zone either.",0,0,0,long,False,Technology,2024-03-21,5.0,0.0,GREY,0.595,1.101,1.13,60.8,54.8,11.8,S1:+ S2:+ S3:+ S4:+ S5:+ S6:- | BK1:- BK2:- BK3:- BK4:-
+400,20240326,AMGN,-236.83721,"WITT 26.03 AMGN broke its fib retracement starting Jun'23. Patrick recommends May exp date, but I find it too expensive. I take a bet on 1 Call 290 Apr 19 instead of 1 Call 300 May bet.,2nd day below fib retracement zone -> got out of the trade, as planned with BOT.",0,0,0,long,False,Healthcare,2024-03-26,2.0,3.0,GREY,0.3,1.006,1.05,76.7,58.8,-2.8,S1:- S2:- S3:+ S4:- S5:+ S6:- | BK1:+ BK2:+ BK3:+ BK4:-
+401,20240402,CSCO,-163.4853,"WITT 02.04.2024: CSCO is due for going down again - reopen the trade as asymmetry is still here,With only 3 days left there is no chance that this trade is anything but a loss. So I close the trade to decrease the loss.",0,0,0,long,False,Technology,2024-04-02,1.0,1.0,GREY,0.671,0.989,0.82,39.9,41.0,-0.8,S1:- S2:- S3:+ S4:- S5:- S6:- | BK1:- BK2:+ BK3:- BK4:-
+404,20240416,USO,-507.149772,"USO is on a typical breakout situation. DUring WITT session on 17.04, Patrick says that this is one of the few things that work. It has not plunged when SPY was nose diving. SO give it a try. Geo political tensions will not help as well (although .. trash the news!!),There is not enough time to get to 87 level - but a bit more to go till 84. So I roll down to give the trade a second chance,,USO trade closed down this break out trade did not work. In retrospect it is not worth trying to reposition in strike if not in duration as well - as it is then a new trade.",0,0,0,long,False,Macro,2024-04-16,5.0,2.0,AMBER,0.609,1.073,0.95,71.4,74.3,7.2,S1:+ S2:+ S3:+ S4:+ S5:+ S6:- | BK1:+ BK2:- BK3:+ BK4:-
+422,20240524,EBAY,-292.4018956,"Ebay is a cash machine with high dividend, It did not disappoint on last earning. It just broke out of a +2 months range. So I take a chance with a Hail Mary 14 Call Delta. Duration is 30 days which is last advance duration.,Trying to sell - but too late,",0,0,0,long,False,Unknown,2024-05-24,4.0,4.0,AMBER,1.0,1.01,1.45,97.0,78.9,5.7,S1:+ S2:+ S3:+ S4:+ S5:- S6:- | BK1:+ BK2:+ BK3:+ BK4:+
+427,20240530,OVV,-219.7777652,"OVV is a prominent shale actor in the US. So both nat gas and oil producer. As 1/ nat gas looks better 2/ technical setup is there with a good asymmetry I give it a shot as BOT with bracket order.,Got stopped out by a nasty breakdown. Trade is no longer a breakout due to energy sector breakdown.",0,0,0,long,False,Unknown,2024-05-30,1.0,1.0,GREY,0.613,1.023,1.21,46.6,45.3,-2.7,S1:- S2:- S3:- S4:- S5:+ S6:- | BK1:- BK2:- BK3:- BK4:+
+428,20240604,ABBV,587.198112,"New opening position. Healthcare sector sees inflows. Price action is good for ABBV.,Not so much money for BOT result - but at this stage it is better to take profit and wait for ABBV to retrace and go up again.",0,0,0,long,True,Healthcare,2024-06-04,1.0,1.0,GREY,0.769,0.958,0.82,66.3,51.1,-1.8,S1:- S2:- S3:- S4:+ S5:- S6:- | BK1:+ BK2:- BK3:- BK4:-
+430,20240607,SPY,17.770810999999867,",Butterfly end of June for a small amount so if market goes up till end of June I have something to sell for a gain,10% gain automatic take profit order was triggered. BUt this is small gain. ",0,0,0,long,True,Macro,2024-06-07,6.0,2.0,AMBER,0.431,0.784,0.9,84.5,57.3,3.1,S1:+ S2:+ S3:+ S4:+ S5:+ S6:+ | BK1:- BK2:+ BK3:+ BK4:-
+448,20240625,XLE,-114.77831759999998,"Patrick's BOT week of 24th June.
+- CTAs are long again oil
+- Oil has a bullish pattern
+- Not too expensive i.e. IV about 18%, 52 weeks IVR is 15%,Close for several reasons:
+- 15 days only left and the trade has not worked so far
+However in the fib zone, the trade has done nothing wrong.
+In retrospect I misinterpreted WITT 30.07 Patrick stance on XLE and sold it a bit early. On July 31, Hamas chef killing by Israel and XLE went back to profitability",0,0,0,long,False,Energy,2024-06-25,2.0,2.0,GREY,0.63,0.994,0.96,81.6,62.5,-0.3,S1:- S2:- S3:+ S4:- S5:+ S6:- | BK1:+ BK2:- BK3:+ BK4:-
+452,20240703,CSCO,-94.98267560000005,"BOT from Patrick, July 2. CSCO got a bearish price action. Just small fib retrace upside but in fib zone.,,Tried to transform outright put into a bear put spread but missed the point. In the end got a simple Put,Got out of the fib zone. Even with a negative environment, the stock did surprisingly well. The trade looks dead",0,0,0,long,False,Technology,2024-07-03,3.0,3.0,GREY,0.564,1.009,0.41,73.5,70.5,0.0,S1:+ S2:- S3:- S4:+ S5:+ S6:- | BK1:+ BK2:+ BK3:+ BK4:-
+461,20240723,GLD,-286.27845200000013,"WITT session 23.07. Right in the middle of the fib zone and good macroeconomic landscape as well (interest rates should soon decrease with the good inflation print).
+I will try the ITM Call instead of the usual OTM call as it does better for small moves.,I reached the 300$ max risk so close the trade.",0,0,0,long,False,Precious Metals,2024-07-23,4.0,1.0,GREY,0.968,0.971,0.76,59.7,63.6,1.9,S1:+ S2:+ S3:+ S4:+ S5:- S6:- | BK1:- BK2:+ BK3:- BK4:-
+465,20240801,GOLD,-198.6377652,"BOT WITT 01.08 - after FOMC session - this is bullish from 8, 25 and 50 days EMA - looked at 15mn, 4h, 1d, 1w
+Donwside: earnings on Aug 12
+Gold is globally bullish,R loss so I quit.
+The crash on Aug 5 did crash GOLD price action. And while it as regained some foot since, there does not seem to be any chance that it will get back on a strong momentum by Aug 30.",0,0,0,long,False,Unknown,2024-08-01,3.0,0.0,GREY,0.885,0.958,0.92,62.9,54.5,3.0,S1:+ S2:- S3:+ S4:+ S5:- S6:- | BK1:- BK2:- BK3:- BK4:-
+468,20240806,PFE,-216.458184,"BOT from WITT 06.08 - there are money inflows to health care sector, so I want to have one leg in this game. PFE is technically good: earnings Ok, above 50/21 dma, just above fib zone. Looking to 33 on the upside.,Several reasons to close this trade:
+1- Underlying is below fib zone
+2- Loss is already equal to R
+3- Delta is below 30. So it looks like it cannot become profitable below 30 and thereis no reason to believe it will go back to 30 before end of August",0,0,0,long,False,Healthcare,2024-08-06,4.0,1.0,GREY,0.818,1.127,0.74,46.2,47.4,3.0,S1:+ S2:+ S3:+ S4:+ S5:- S6:- | BK1:- BK2:+ BK3:- BK4:-
+473,20240814,SU,-99.39999999999975,"10 deltas Oct Diagonal Call  to profit from a potential move of SU from 210 to 225 euros,Hard to close - hard to understand how it worked. I slept on it... could have closed it much earlier on for a good profit.",0,0,0,long,False,Industrial,2024-08-14,5.0,3.0,GREEN,1.0,0.822,0.79,97.4,63.0,7.6,S1:+ S2:+ S3:+ S4:+ S5:- S6:+ | BK1:+ BK2:+ BK3:+ BK4:-
+474,20240814,ABT,157.590166,"WITT 14.08: Health care in good position, ABT already hit big in  the past, good earnings.
+As per TT recommendation, slight ITM long call, and sell call to adjust risk/reward profile,,Last week for ABT option before expiration, and not much upside to be expected. Trade to re-launch after NVDA earnings",0,0,0,long,True,Healthcare,2024-08-14,4.0,2.0,GREY,1.0,1.191,0.71,80.5,62.3,4.7,S1:+ S2:+ S3:+ S4:+ S5:- S6:- | BK1:- BK2:+ BK3:+ BK4:-
+492,20240913,USO,19.2960812,"There is a good asymmetry here for Crude Oil
+It could rebounce to 75-77 USD in the short term
+So I take a bet here,,Iran sends missiles over Israel - oil price goes high and I exit this trade that has never really worked for a very small profit.",0,0,0,long,True,Macro,2024-09-13,0.0,0.0,GREY,0.866,1.139,0.71,31.1,35.7,-7.5,S1:- S2:- S3:- S4:- S5:- S6:- | BK1:- BK2:- BK3:- BK4:-
+493,20240917,TLT,438.711517,",I am playing a bet that market will be disappointed by Fed move - i.e. only 25 bps rate cut. Reason is:
+- Inflation is sticky and could come back, decreasing rates too quickly could enforce it
+- US economic data are good so far - why cutting rates aggressively?,Take benefits at this stage - looks like TLT will not get bvack higher? At least situation is not asymmetric any more and I must get out slowly now.,Some key figures should be published tomorrow morning before market opening - it may move TLT up. Better to close it all.",0,0,0,long,True,Macro,2024-09-17,5.0,3.0,GREEN,0.509,0.892,0.94,85.4,69.3,4.8,S1:+ S2:+ S3:+ S4:- S5:+ S6:+ | BK1:+ BK2:+ BK3:+ BK4:-
+494,20240917,XLK,-66.611297,"If really Fed is decreasing the rates by 50 bps, then tech sector should rebound quickly, at least in the short term. I am playing a 5 days more than 3% bounce in the tech sector.,Delta is below 25 - no more upside possible at this point on XLK. Get out of the trade for a small loss (even if only 3 days left!)",0,0,0,long,False,Technology,2024-09-17,2.0,1.0,GREY,0.666,0.856,0.71,66.4,46.1,0.7,S1:+ S2:- S3:- S4:- S5:- S6:+ | BK1:- BK2:+ BK3:- BK4:-
+495,20240917,SPX,676.9232,"In case FOMC is a nothing burger, then this trade should go well. This means SPX is rangebound +/- 50 points around value at trade time.,,Did more than 600$ win in 1 day - so got out. This is Tast Trade pck slightly adapted on SPX. Not a good win as I do not understand the trade",0,0,0,long,True,Unknown,2024-09-17,,,NO DATA,,,,,,,
+498,20240925,AIG,-219.5667,"WITT 25.09: AIG price action is weak and should go down on an ybad news. Small size bet.,Patrick completely missed the point. AIG just rocketed. But the setup itself was correct and price action was initially weak.",0,0,0,long,False,Financial,2024-09-25,1.0,0.0,GREY,0.58,1.034,0.61,38.0,47.5,-1.3,S1:- S2:- S3:- S4:- S5:+ S6:- | BK1:- BK2:- BK3:- BK4:-
+510,20241001,MU,501.19558,"WITT 01.10 MU has just passed its earnings with a nice gap and is retracing it. ,Automatic profit order triggered.I could have closed it for 1$ more - so 200$ more profit. But I had only one week left. Next time automatic sell order on only 1 contract, not 2. Like I did for Apple.
+",0,0,0,long,True,Technology,2024-10-01,3.0,2.0,GREY,1.0,1.166,1.13,52.8,60.4,2.9,S1:+ S2:- S3:+ S4:+ S5:- S6:- | BK1:+ BK2:+ BK3:- BK4:-
+513,20241002,SPY,-87.05535,"Lottery ticket on job's number - assume this will trigger an upside move and look for a 100% gain,Lottery ticket did not win",0,0,0,long,False,Macro,2024-10-02,5.0,2.0,AMBER,0.634,0.956,0.73,84.2,68.4,3.2,S1:+ S2:+ S3:+ S4:+ S5:+ S6:- | BK1:- BK2:+ BK3:+ BK4:-
+525,20241022,FCX,-216.3059,"WITT 22.10: Technical setup is Ok - not extraordinary but ok - so only 200 USD. IV is high 37%. Underlying could go till 54 - so 3:2 reward ratio. Reward just like MU.,Cupper trade never played out - just let the call expire worthless.",0,0,0,long,False,Basic Materials,2024-10-22,4.0,2.0,GREY,0.405,1.028,1.23,26.9,39.4,6.5,S1:+ S2:+ S3:- S4:+ S5:+ S6:- | BK1:- BK2:+ BK3:- BK4:+
+533,20250102,EQT,721.15655,"WITT 2.01 NatGas has a nice upward move these last days, so Patrick tries a break out there.,Took partial profits on this posiiton:
+- +100% on first sell
+- +200% for the second sell,,Automatic target at 4.75$. Let us not be too greedy, knowing that NatGas price is going down right now (see BOIL).
+",0,0,0,long,True,Unknown,2025-01-02,5.0,4.0,GREEN,0.466,0.913,1.5,95.5,58.7,11.0,S1:+ S2:+ S3:+ S4:+ S5:+ S6:- | BK1:+ BK2:+ BK3:+ BK4:+
+540,20250128,USO,-247.36575,"As per WITT 28.01, break out trade as it is highly asymmetric.
+,End of BOT - did not succeed",0,0,0,long,False,Macro,2025-01-28,4.0,0.0,GREY,0.746,1.111,0.54,47.5,54.3,5.1,S1:+ S2:+ S3:+ S4:+ S5:- S6:- | BK1:- BK2:- BK3:- BK4:-
+541,20250130,EQT,-188.08575,"DUring WITT 28.01, EQT is still bullish and has retraced. Worth going back and ride the trend!,End of BOT - failed",0,0,0,long,False,Unknown,2025-01-30,4.0,1.0,GREY,0.711,1.073,0.64,64.2,59.0,10.0,S1:+ S2:+ S3:+ S4:+ S5:- S6:- | BK1:- BK2:+ BK3:- BK4:-
+547,20250225,QCOM,389.1988348,"WITT 25.02: The whole semis may go down - best stock but to be chkeced after NVDA earnings on Wed,Took my first profit target - i.e. pay entirely for the trade. From now on, it is only bonus.
+NB: ANother possibility would have been to sell 2 Puts way donw the strike ladder, leveraging the high IV. To be looked at.,Took profit as no decisive breakdown and expiration date looms",0,0,0,long,True,Technology,2025-02-25,2.0,1.0,GREY,0.725,1.028,1.03,10.1,33.4,-1.9,S1:- S2:+ S3:- S4:+ S5:- S6:- | BK1:- BK2:+ BK3:- BK4:-
+550,20250305,GM,-308.5192314,"WITT 04.03 - Bad outlook for auto makers and technical setup for bearish trade on GM - give it a try with ITM (70 delta) Put, Apr 17th,It broke out of the fib on the upside after a long consolidation period within the fib -> breakout trade is dead.
+Pat had already told this last week.",0,0,0,long,False,Unknown,2025-03-05,2.0,2.0,GREY,0.572,1.022,2.42,66.8,52.7,-3.2,S1:- S2:- S3:- S4:+ S5:+ S6:- | BK1:- BK2:+ BK3:- BK4:+
+553,20250312,JPM,25.263269000000037,"To compensate high IV, I bought a bull call spread instead of an outright call,,Trade was not correctly set up at first: high IV for JPM so expensive calls, and not much time to let JPM go higher. Better close this trade at break even.",0,0,0,long,True,Financial,2025-03-12,0.0,1.0,GREY,1.0,1.112,1.45,2.3,15.2,-11.5,S1:- S2:- S3:- S4:- S5:- S6:- | BK1:- BK2:- BK3:- BK4:+
+561,20250326,MCD,128.122929,"I was a bit hesitant to take the trade on MCD as we are globally bearish on US equities.
+However it did make a nice breakout and there is for sure some continuation patten that should work in the very short term.
+Therefore I took a limited risk trade, target a 50% only return as breakout is already under way.,Automatic 50% gain taken",0,0,0,long,True,Unknown,2025-03-26,4.0,2.0,GREY,0.699,1.086,0.69,58.4,52.9,5.0,S1:+ S2:+ S3:+ S4:+ S5:- S6:- | BK1:+ BK2:+ BK3:- BK4:-
+569,20250408,GLD,1692.0688706,"WITT 08.04 GLD has retraced a bit and seems poised to gain to new highs.
+THis is an 80 delta ITM 1-month call with a Put protection for 2 weeks only. Synthetic call version of the BOT.,,Break out is over here as we are in the target zone and no asymmetry any more.",0,0,0,long,True,Precious Metals,2025-04-08,4.0,0.0,GREY,0.745,1.146,1.12,32.9,40.9,1.4,S1:+ S2:+ S3:+ S4:+ S5:- S6:- | BK1:- BK2:- BK3:- BK4:-
+574,20250422,C,-323.8361468,"WITT 22.04 - Let us check what it entails,Should have been closed earlier. I have been lazy on this one. Knew I had to close it, but postponing trade close, even if it was already way above its fib zone.",0,0,0,long,False,Unknown,2025-04-22,0.0,1.0,GREY,0.785,1.223,0.58,46.2,40.7,-9.7,S1:- S2:- S3:- S4:- S5:- S6:- | BK1:- BK2:+ BK3:- BK4:-
+576,20250429,ABT,-203.83597999999998,"WITT 29.04: I have watched this stock for a long time. It held up remarkably when market was crashing. Is in the process of going higher.
+Currently just above its fib zone from last retracement.,Looking at the trade, there is no way it can be beneficial. I looked at volatility and multiplied by square root of remaining time.
+So I closed the trade.",0,0,0,long,False,Healthcare,2025-04-29,2.0,2.0,GREY,0.689,1.052,0.56,74.3,65.9,0.2,S1:+ S2:- S3:- S4:+ S5:- S6:- | BK1:+ BK2:- BK3:+ BK4:-
+578,20250505,GCM5,-250.08000000000084,"WITT 05.05. Patrick is very bullish on Gold and clearly it started to breakout on Friday. So I take a bet on Gold futures because it is very liquid, better than GLD. However it costs also more so I have to do a narrow Bull Call spread,,GC future is below 3300 - close it as was envisioned from the start.",0,0,0,long,False,Unknown,2025-05-05,,,NO DATA,,,,,,,
+580,20250506,NEM,-184.9159,"WITT 06.05 - GOld miners a bit behind Gold itself - hence the trade,Duration was a bit too short for NEM to rebound from its lows. It namely went back up the week after it expired. 
+But is now done again - in a trading range. No real breakout.",0,0,0,long,False,Basic Materials,2025-05-06,4.0,1.0,GREY,0.881,1.186,0.86,80.0,50.1,12.4,S1:+ S2:+ S3:+ S4:+ S5:- S6:- | BK1:- BK2:- BK3:+ BK4:-
+583,20250514,NTR,464.49393,"WITT 14.05. This looks like an A+ setup:
+- Ag sector generally bullish and is a diversification in my trading portfolio
+- After a long basin formation, NTR finally broke out. Bullish on weekly and daily range.
+Low IVP (10%!) so calls are inexpensive.
+Slight contango - so better to buy front month rather than back months. HV is much higher than IV, so IV should go higher.
+delta is 26 only (so I buy below my usual 30-50 delta range).
+60 is a resistance line.
+Cost is only 200 USD.,This first sell allows to pay for 2 - and the trade is already present for a while.,Very nice up candle, IV jumped from 23% to 28%, I took intermediate profit as per the rule ""pay for entry"", knowing also that it expires next week.,There is not much upside momentum to expect:
+- exp date is on June 20th and June19th is closed
+- FOMC meeting today (June 18th) so potential downside
+- IV is quite low (6 months low for June exp), so no move expected",0,0,0,long,True,Agricultural,2025-05-14,5.0,2.0,AMBER,0.504,0.984,0.7,79.2,64.9,9.1,S1:+ S2:+ S3:+ S4:+ S5:+ S6:- | BK1:- BK2:+ BK3:+ BK4:-
+586,20250520,VZ,-192.01606999999998,"WITT 20.5 VZ has shown a good price action, IV is relatively cheap,Looking at volatility, there is only a 20% chance remaining that this trade is profitable.No technical positive setup (not negative either).",0,0,0,long,False,Unknown,2025-05-20,4.0,2.0,GREY,0.614,0.707,0.72,89.7,51.4,2.1,S1:+ S2:- S3:+ S4:- S5:+ S6:+ | BK1:+ BK2:- BK3:+ BK4:-
+587,20250528,AMD,123.16262000000006,"WITT 27.05 Go with a higher market, and bet on a good NVDA earnings day. AMZN was the proposed trade, but AMD has exactly the same technical pattern and is much cheaper.,,Automatic target profit taken- could not get much more knowing that we re 2 days before expiration with Job report on Friday.",0,0,0,long,True,Technology,2025-05-28,4.0,0.0,GREY,0.666,1.033,0.63,68.5,67.8,11.3,S1:+ S2:+ S3:+ S4:+ S5:- S6:- | BK1:- BK2:- BK3:- BK4:-
+589,20250603,CNQ,-14.184590000000014,"WITT 03.06 - I took the trade at end of day - stock was already 2% higher and is now (today) 1% lower. Nevertheless:
+-  it went thru a 1 year downward trend
+- it had a V-shape recovery
+- it is above 50d and 200d EMA, as well as fibzone.
+This is linked with oil price.,Took a partial profit on this position, as per ""pay for the entry"" rule.,",0,0,0,long,False,Unknown,2025-06-03,6.0,2.0,AMBER,0.542,0.9,0.98,79.5,40.6,6.0,S1:+ S2:+ S3:+ S4:+ S5:+ S6:+ | BK1:- BK2:+ BK3:+ BK4:-
+594,20250701,GDX,-199.30018,"WITT 01.07: GDX has a good technical setup. However I am still on a B setup only becaquse gold lost a lot of its momentum. IV is low compared with April.
+However:
+- less than 300 USD committed to the trade
+- 35 delta
+- 2 calls opened, possibnly more if I see price action confirmed
+- 45 days - so plenty of time,Looking at volatility, small chance GDX can get it back to 55 (about 20% chance), but it is now below 52$, and Gold is losing momentum as USD is in a short squeeze.
+",0,0,0,long,False,Precious Metals,2025-07-01,3.0,1.0,GREY,0.456,0.917,0.94,39.3,52.7,3.2,S1:+ S2:+ S3:- S4:- S5:+ S6:- | BK1:+ BK2:- BK3:- BK4:-
+596,20250707,NTR,-129.82018,"- Above 50d MA and 200 dMA
+- delta is 26, so below normal 30-50 delta range
+- IV is 28.8%, above historical average
+So I opened only 2 calls, and at 21:45 - so just before market close
+- 39 days DTE, so plenty of time
+
+
+,",0,0,0,long,False,Agricultural,2025-07-07,4.0,1.0,GREY,0.69,0.999,0.66,52.2,41.2,4.4,S1:+ S2:+ S3:+ S4:+ S5:- S6:- | BK1:- BK2:+ BK3:- BK4:-
+603,20250730,STNG,362.42933,"Earnings in strong progression and did a nice gap up after earnings.
+OTM 30 delta something trade
+Above 50 days EMA
+,Trend is bullish and clearly an uptrend while option price decreased quite a bit.,STNG has lost momentum - still lbulllish but not so much, no reason to be overweight but more neutral as breakout.,Same thing - it just lost momentum and could go in retracement now,Automatic profit target. It was filled right at opening.
+ANd now is between 7.80 and 8.10$...
+Once again automatic profit target on Break out trades does not make real sense....",0,0,0,long,True,Energy,2025-07-30,4.0,3.0,AMBER,0.803,1.099,1.24,72.5,50.8,8.8,S1:+ S2:+ S3:+ S4:+ S5:- S6:- | BK1:- BK2:+ BK3:+ BK4:+
+610,20250814,BAC,-44.30489,"WITT session 12.08: Recession signs and financial are the first to tank. BAC is the weakest brand among its peers. I go underweight as bearish trend is not obvious - it gapped down on earnings but then recoevered and did not go back down afterwards.,Trade will fail anyway - get back small amount still available.",0,0,0,long,False,Financial,2025-08-14,5.0,0.0,GREY,0.833,0.855,0.63,69.6,44.9,2.5,S1:+ S2:+ S3:+ S4:+ S5:- S6:+ | BK1:- BK2:- BK3:- BK4:-
+615,20250903,MRK,-99.75408999999999,"WITT 03.09: Healthcare is generally behaving well (see XLV, Biogen, even Pfizer). Get out of a bear market with clear technical pattern for break out.
+However I start small as not yet going up clearly.
+,No momentum as needed for a break out trade. It seems that healthcare is out of love still...",0,0,0,long,False,Healthcare,2025-09-03,5.0,0.0,GREY,0.822,0.823,1.16,60.2,55.7,2.3,S1:+ S2:+ S3:+ S4:+ S5:- S6:+ | BK1:- BK2:- BK3:- BK4:-
+620,20250922,AMD,-127.10409000000001,"WITT 16.09 New AMD trade. I am late to open this trade, ahould have opned it earlier on but was hesitating due to higher capital outlay for only 1 call opened- see https://x.com/BPTs_BOT_Trades/status/1967955858765042011 opened as Hail Mary.
+I did not open a Bull Call spread though as recommended- only an outright call. I want to leverage the IV - already from 43% to 45% in a week (so 5% increase) and hopefully gaining momentum till 55% like end of July.
+It has the disadvantage to increase capital outlay and less flexilibty to increase position size, but advantage to capture earlier momentum than a bull call spread. So I can close it sooner also.,Delta smaller than 20 - i do not see any upside here.",0,0,0,long,False,Technology,2025-09-22,3.0,0.0,GREY,0.582,0.79,1.03,48.6,46.4,-3.1,S1:- S2:+ S3:- S4:- S5:+ S6:+ | BK1:- BK2:- BK3:- BK4:-
+621,20250922,GLD,514.79723,"WITT 22.09: I was suffering FOMO, and Patrick sees upside till 4000. So I went on buying a bull call spread till Oct 17. I intend to buy back the short leg when price will move up, and sell it back higher.
+I could also increase position size in the bull call spread.,,THe idea is that I believe (Patrick believes) that gold will go till 4000. ALso GLD is now above 355 which is my upper strike- so I have to extend it.
+The other option was to close this trade, take profit, and reopen a new bull call spread 355/360.,Automatic 85% max value (close at 850 USD sell). Hard to think it could go much higher",0,4,0,long,True,Precious Metals,2025-09-22,4.0,2.0,GREY,0.803,1.241,0.94,99.9,79.6,8.9,S1:+ S2:+ S3:+ S4:+ S5:- S6:- | BK1:- BK2:+ BK3:+ BK4:-
+622,20250923,TLT,219.50198,"WITT 23.09 THis is typically a contrarian trade - fib retracement and not much love for long bonds. We will give it a try this is quite cheap. If that works I will buy a second call or sell another call higher.,TLT path is clearly bullish and right at 90$ level. So I keep pressing the trade by doubling amount involved as this is a break out trade.,Taking partial benefit - pays for 2 contracts.,",0,4,0,long,True,Macro,2025-09-23,4.0,0.0,GREY,1.0,1.08,0.66,69.1,67.5,2.5,S1:+ S2:+ S3:+ S4:+ S5:- S6:- | BK1:- BK2:- BK3:- BK4:-
+628,20251003,URA,400.42164,"I suffer from URA FOMO so taking the trade as BOT. The idea is simple: 
+1/ Watch where the max gain could realistically be obtained
+2/ Deduce the corresponding bull spread
+3/ Position size accordingly to risk,,Automatic close at 90 cents remaining value on a total of 4 i.e. 77% of the total available profit. Looks like the best possible deal without waiting until Friday. Only 2 days left till expiration.",0,4,0,long,True,Basic Materials,2025-10-03,4.0,1.0,GREY,0.674,1.215,0.89,83.1,61.8,16.7,S1:+ S2:+ S3:+ S4:+ S5:- S6:- | BK1:- BK2:- BK3:+ BK4:-
+630,20251007,MOS,-177.79299,"WITT 30.09: Contrary to other stocks, Ag stocks like MOS, CF or NTR are moving after months of decline.
+MOS is clearly back in uptrend and I have waited too long before buying 1 call, 35 delta. 
+If trend continues I will buy a second one. ANd maybe I should have bought 2 on the first day. 
+I took slightly shorter and higher call values (38 instead of 37.5 strike, and Nov 14 instead of Nov 21).
+Earnings are on Nov 11 - so IV is much higher on Nov 7 and Nov 12 than on Oct 30.
+In retrospect, I should have bought 1 35 delta 37 call for Oct 31. Let us see tomorrow.
+Above its 50 day MA, ,Added one more position: 
+1/ looking at where IV is lowest (31 Oct expiration)
+2/ where strike level makes sense (a bit lower than current strike level)
+Risk is fairly low and this is also interesting to watch.,THere was some bad news for MOS (announced some sales revision), and the price suddenly took a bad hit. So I closed the end of October call which has less than 5 delta!,Expired worthless - tried to sell it before the last day, but was not tradeable during the last week.
+Should have been taken off the week before expiration week.",0,4,0,long,False,Agricultural,2025-10-07,3.0,0.0,GREY,0.794,0.909,0.95,67.2,57.3,5.6,S1:+ S2:- S3:+ S4:+ S5:- S6:- | BK1:- BK2:- BK3:- BK4:-
+633,20251017,SLV,-115.06917999999999,"I suffer from FOMO and want to open a trade in precious metals. I take the best suited option structure: a bull call spread, and if I lose it all, it will not be an issue.,,Took profit on the short leg - hoping for a rebound on SLV so the long leg will regain some value. Idea from Patrick.,As per trade plan, I do not let an outright option go in its last week - unless there is nothing to get back like MOS recent trade.",0,4,0,long,False,Precious Metals,2025-10-17,4.0,3.0,AMBER,0.667,1.557,1.72,77.2,68.5,19.7,S1:+ S2:+ S3:+ S4:+ S5:- S6:- | BK1:- BK2:+ BK3:+ BK4:+
+635,20251020,GLD,-108.48918,"Another FOMO trade - just like SLV on Friday. RIsk is small anyway.,,Nasty breakdown that day - all bullish technicals were broken. As per plan I exited the trade : limited time to recovery, still SLV to go to precious metals bullish thesis.,Big down day in GLD, breaking all technicals. I am still on precious metals bull trade with SLV but have more time with SLV and not much time left with this GLD trade.
+Also the thesis with Bull Call was that as long as it goes it goes, meaning it makese no sens if price action is no more in full bull mode.",0,4,0,long,False,Precious Metals,2025-10-20,4.0,4.0,AMBER,0.653,1.425,1.58,99.8,80.2,18.6,S1:+ S2:+ S3:+ S4:+ S5:- S6:- | BK1:+ BK2:+ BK3:+ BK4:+
+636,20251022,ITB,-333.45918,"WITT 21.10: 
+Nice bull breakout on 21.10 with increasing volume
+61.8% retracement at 111$.
+No earnings worry only DHI - constructor, 15% of ITB has earnings in 6 days.
+Looking at term structure - lowest IV is 28% at Nov 28 expiry (cheaper than Nov 21 expiry).
+Still a solid 5 points above HV which is at 23%.
+Delta is 35.,About 7 delta, below the fib, below 50 and 25 DMA - get out of the trade.
+",0,2,0,long,False,Unclassified,2025-10-22,4.0,0.0,GREY,0.576,0.878,0.92,42.5,38.6,-4.3,S1:- S2:+ S3:- S4:+ S5:+ S6:+ | BK1:- BK2:- BK3:- BK4:-
+644,20251111,JNJ,1040.0162300000002,"WITT 11.11: BOT of the week. This time I want to open it today, because I feel that otherwise I may not be able to open it in coming days as this is going up and up.
+Delta is only 18 at the time of opening, and already at 25 3 hours later.
+It is not too expensive with 19-Dec 200 Call IV at 19% which is slightly above 30-days ATM IV at 18.5%. Volume is high: more than 1000 calls opened today and OI already at 3840.,Auomatic target 1 sell: put the trade risk-off,All sell limit orders were based upon a ""reasonable"" future  option price estimate using BS:
+- Day: 18th Nov
+-Vol: +2% vol
+- Price: 202 as middle of FIb extension zone
+-> 5.50 and then took last option value, i.e. 4.35 and then put as trades 4.95 and 5.50 (interpolation and ""attractive price"" for buyer).
+-> Automatic sell were all executed.",0,3,0,long,True,Healthcare,2025-11-11,4.0,2.0,GREY,0.464,0.925,0.98,93.4,52.1,4.9,S1:+ S2:+ S3:+ S4:- S5:+ S6:- | BK1:+ BK2:- BK3:+ BK4:-
+651,20251120,HAL,-110.56395,"Energy trades look like a good diversification strategy.
+HAL seems like an ideal setup: after a long downward move, had a bottoming formation and is now well advanced in a recovery process, with successive higher highs et highers lows.
+Technical indicators all good and IV (37%) far lower than RV (46%). So it is cheap. ,The BOT has failed from my viewpoint as it did not move quickly enough to show significant positive price action before De 19. So I put a price to get rid of these options.
+Another solution would be to reopen a trade for Jan expiration. But no time right now - will do next week when I am back from vacations",0,2,0,long,False,Energy,2025-11-20,5.0,2.0,AMBER,0.443,0.738,1.29,4.7,38.9,2.6,S1:+ S2:+ S3:- S4:+ S5:+ S6:+ | BK1:- BK2:+ BK3:- BK4:+
+653,20251125,WMT,829.07983,"WITT session 25.11: I took the BOT right at session opening, for a short ride. Got burnt by BOT AMGN trade where I could not enter.
+Different from strike/duration of BPT.
+Let us see where we go from there, I may sell it for a profit and reopen a new trade with longer duration and higher strike.,Risk free trade, automated take profit order - 3 x initial price,I first close one contract at opening at 3.95 USD - then looking at previous upward moves, it seems to me that WMT would not go much higher than 114 by Dec 19. So better close the trade with a 4.35 USD proposal on the market (last trade value).
+ALso I will not be able to closely follow this trade during Wed-Fri as I am in vacations",0,3,0,long,True,Consumer non cyclical,2025-11-25,3.0,2.0,GREY,0.866,1.165,0.99,87.6,64.9,3.3,S1:+ S2:+ S3:+ S4:- S5:- S6:- | BK1:+ BK2:- BK3:+ BK4:-
+657,20251202,HAL,671.90574,"Good setup but not stellar as well. 
+Put a bit under my previous break out trades with only 200$ at stake.
+Did not choose 28 as strike level as it was already too busy and did not manage to buy at the price I wanted- but went with the 29 strike instead. Looked better and less crowded. A bit cheaper (33.2% instead of 33.7%),Sold 2 calls at double the initial price so that all remaing 2 calls are now without any risk.
+NB If I had opened 3 contracts and not 4, I would have needed to wait until the price triped and not doubled. So this makes it an easier trade.
+I could also have bought 6 contracts for a total of 300 $, and then would have sold 3 at this point.,On good news (Trump saying that some US oil companies will make a lot of money in Venezuela) HAL prices rocketed.
+This may not last and HAL fib extension is already exhausted. Better take benefit now as tomorrow may not be as good (also said by Patrick in WITT 05.01).
+
+Notice that I did not follow my rules as I took only a 200 USD risk (4 contracts) and not a 300 USD risk (6 contracts) as I should have done. 
+Therefore if I had followed my rules I would have gained  350-400 USD more (1 additional contract sold in the riskless trade). 
+Compare this with AMGN loser where I did spend +300 USD in risk money and these 300 USD are lost.,",0,4,0,long,True,Energy,2025-12-02,5.0,1.0,AMBER,0.519,0.759,1.15,53.2,38.7,5.5,S1:+ S2:+ S3:- S4:+ S5:+ S6:+ | BK1:- BK2:+ BK3:- BK4:-
+658,20251209,AAPL,-239.38198,"WITT 9.12 - BOT of the week: earnings are end of Jan, CHristmas is coming and sales in Black Friday were good. SPY rallying till previous top - AAPL should follow.
+I take earlier than Jan 16 expiration because price is too high otherwise. Delta is 22 (a bit too low but still Ok). IV at 18.5%. Previous ATH at 288.5.
+Last rally was +8.5% on 7 trading sessions - so could go till 300 by Friday 19th - even 295 could be more than +1300$ gain!
+,Price action is weak and delta is under 10 - better to get out of the trade. Patrick does the same a couple of days later.",0,2,0,long,False,Technology,2025-12-09,4.0,0.0,GREY,0.528,0.97,0.72,50.9,65.0,4.1,S1:+ S2:+ S3:+ S4:- S5:+ S6:- | BK1:- BK2:- BK3:- BK4:-
+663,20251211,GLD,300.33802,"SUffer from high FOMO against precious metals parabolic rise- needs to buy something, anything,,, Stupid isn'it? But not completely I want some diversification also. ANd risk is kept at bay thanks to a bull call spread.,,Max possible gain  (only 0.65$ still available in the spread vs. max profit) - in retrospect I should have bought 2 lots instead of 1, as I was below my max authorized BOT value (i.e. 133 USD vs. 300 USD).",0,4,0,long,True,Precious Metals,2025-12-11,5.0,3.0,GREEN,0.592,0.609,1.12,96.7,81.8,4.3,S1:+ S2:+ S3:+ S4:- S5:+ S6:+ | BK1:+ BK2:+ BK3:+ BK4:-
+664,20251216,AMGN,41.46772,"WITT 16.12 BOT of the week, but I open only one as price tag is high (so laddering in),Trade looks good - laddering in even if higher cost. 
+In retrospect, it is better to wait for a retrace to buy a second one - but a retrace that still shows price action strength. ANd this means also that time is needed. So maybe it is better to go straight in with the target allocation, not wait for a retrace.,On Wednesday, Jan 7, AMGN stock surged. 345 Jan 9 Call that was dead money (5 delta option before) became hot (30 delta option) and recovered all its lost value. At one point it was bought at 3.15!! I sold it at 2.15/1.95 for a small gain but I was prepared for a loss.
+In retrospect, when buying initially the call, I should have chose a Jan 16 and not a Jan 9 duration. This would have left time for the option and stock to recover from end of year break. Jan 9 was a bit cheaper than Jan 16 (2.05 instead of 2.80) - but there was a reason.,",0,4,0,long,True,Healthcare,2025-12-16,4.0,1.0,GREY,0.563,1.096,0.92,42.2,38.9,3.7,S1:+ S2:+ S3:- S4:+ S5:+ S6:- | BK1:- BK2:+ BK3:- BK4:-
+666,20260106,KNIN,463.72,"Everything looks good in this breakout trade. See journal for setup details.
+,Very nice gap up this morning. Position was up to +900 at some point, but I sold one call only in the afternoon as I was in meetings.
+It is still a very good trade as I sold for 5.20 F a call that cost me 2.00 F. Notice that someone earlier in the day bought it for 1.50 F. At that time I felt pissed off.
+
+-> If the setup is good, and if analysis shows what is the limit for the 2:1 reward ratio, go for this limit.
+
+-> Never have automatic close call- even partial- for an option, it can go higher than you think! I would have set up a 4.00 F sale, missing 1.20 F.
+This does not hold for sell vol orders where the mean reversion is the rule.,Take profit order at 3.50 F - seems reasonable price to target.
+NB: It went up till 4.90 F as trade the same day. 
+No trade since (we are on Feb 6th), 6.90 F as mid point. Remain to be seen if 6.90 would have been accepted as a trade.
+NB 2: If I had closed it on Jan 14th, mid point went up to 10F - however I was the single one trade of the day on this option...so not sure what would have been the real trading price",0,3,0,long,True,Industrial,2026-01-06,,,NO DATA,,,,,,,
+667,20260107,URA,489.59684,"WITT Jan 6, Pat is saying: You have got to be in Uranium trade. technical setup is Ok.
+IV is quite high, so I took a spread instead of an outright call.
+1.20 seemed reasonable but price did not get filled I increased to 1.30, which still gives me a 1:1.7 profit ratio. 
+I got filled the day after at opening.
+,,As per my #1 rule in BOT, partial sell in order to have a riskless trade and sleep well.,I left a limit order at 4.50$, i.e. 90% of the max profit which I think was reasonable - Ok I might have gone till 95% or 99% of the max profit, but I don't think it was worth the risk.",0,6,0,long,True,Basic Materials,2026-01-07,3.0,3.0,GREY,0.783,0.903,1.12,99.2,77.1,10.4,S1:+ S2:- S3:+ S4:+ S5:- S6:- | BK1:+ BK2:+ BK3:+ BK4:-
+668,20260107,V,-246.10079,"This is a bet on Financial sector.
+Visa has its earnings on Jan 22 - so may be risky trade and therefore I am betting only 1 lot.
+Technical sedtup is nice.
+IV is Ok compared with others (MA, AXP).,Breakdown below the fib for V following a comment of credit card limitations by D. Trump.
+Momentum seems lost, knowing there are only 2 weeks before end of trade. I recoup what remains.",0,2,0,long,False,Financial,2026-01-07,4.0,1.0,GREY,0.826,0.986,1.0,91.8,66.4,4.8,S1:+ S2:+ S3:+ S4:+ S5:- S6:- | BK1:- BK2:- BK3:+ BK4:-
+672,20260113,TSLA,-219.50658000000004,"WITT 13.01, BOT of the week.
+There were 2 call spreads possibilities: 
+1/ expiration date before the earnings, with long leg near to spot price, medium IV value
+2/ expiration date after the earnings, long leg a bit further off spot price, higher IV value 
+I took the first option, and chose in my spread tool a small a spread with a long leg relatively near (460) to current price, as expressed by Patrick.,,Outside fib zone, delta smaller than 10. I don't see any comeback possible at this point.",0,4,0,long,False,Consumer cyclical,2026-01-13,2.0,0.0,GREY,0.642,0.957,0.72,30.7,30.0,0.7,S1:+ S2:- S3:- S4:- S5:+ S6:- | BK1:- BK2:- BK3:- BK4:-
+674,20260114,LULU,-261.75079,"Same idea as for UNH or DOW (could not get filled for DOW - which is sad).
+Got filled in at session opening on LULU, using my max limit price at 2.85. 
+- LULU 30 days RV is at 49.5 and IV at 39.3, so a solid negative VRP that justifies buying vol.
+- I chose 27th Feb and 240 C using RPreTrade and doing some simulations to get a 2:1 ratio if price goes up to 224 by 23rd Jan.
+
+,Out of the fib zone, delta smaller than 10, Get out of the trade as soon as I can. Tried the day before but was asking likely too much - 0.65$. Got out at 0.25$ finally.",0,2,0,long,False,Consumer non cyclical,2026-01-14,4.0,1.0,GREY,0.393,0.997,0.62,10.5,40.4,7.0,S1:+ S2:+ S3:- S4:+ S5:+ S6:- | BK1:- BK2:+ BK3:- BK4:-
+678,20260127,TGT,728.99842,"WITT 27.01 BOT of the week. Retail has a good momentum and TGT has not participated yet like WMT. Has a ""Woke"" reputation that may have yield to issues?
+Techn indicators are good and earnings are on March 3rd so after the call expiration.,Automatic partial close to make the trade riskless. But as TGT was expensive, only 1 call remains to profit from price action. Would be better to have 2.,We are in the profit taking zone for a while already, but momentum is getting lower: succession of ups dans downs days, no significant moves compared with initial signficant moves.
+The call is deep ITM and could lose a lot of value as we still have 2 weeks left: too little to recover from a down period, too long not to lose value.
+I don't want to leave a momentum trade during 3 days (Monday Feb 16th is closed in US).
+I put a limit order a bit below the ask (was at 7.40) at 7.30.
+",0,3,0,long,True,Consumer non cyclical,2026-01-27,5.0,1.0,AMBER,0.658,0.861,0.73,47.6,49.5,6.8,S1:+ S2:+ S3:+ S4:+ S5:- S6:+ | BK1:- BK2:+ BK3:- BK4:-
+679,20260130,HAL,-265.49995,"This idea was triggered by Moontower.AI.
+VRP is good, steepness IV 6 montsh / 1 mont also good. So there is mispricing for the option price.
+All technical indicators are green
+Earnings are past. Nice macro story (Venezuela) still on.,Wanted to leg in the trade as it has both macro and technical good setups.
+I put my buy order at opening for 0.80$ - notice that it has been then traded at 0.68$ just after as HAL was opening lower. 
+Automatic option call is not a good idea (different from automatic profit order that have been designed as part of the trade plan),In retrospect, I should have closed this BOT a week earlier. There was no time for it to get back to 36 before Mar 6 with current vol.
+Tried to get the best possible price",0,3,0,long,False,Energy,2026-01-30,4.0,2.0,GREY,0.838,1.343,0.79,72.3,57.3,13.6,S1:+ S2:+ S3:+ S4:+ S5:- S6:- | BK1:- BK2:+ BK3:+ BK4:-
+688,20260219,GDX,-22.6249599999999,"Took a bet on GDX as volatility came off the top, momentum again in GLD universe.
+Spread definition was optimized using spread calculator, balancing between delta long leg (about 30) and risk:reward ratio - 1:4.,,Vicious decline that broke the ascending line. This was unexpected as Iran-US war started and does not smell good.
+Not enough time to recover in my opinion and very small loss.",0,6,0,long,False,Precious Metals,2026-02-19,4.0,1.0,GREY,0.71,1.278,0.53,56.9,46.8,10.1,S1:+ S2:+ S3:+ S4:+ S5:- S6:- | BK1:- BK2:+ BK3:- BK4:-
+692,20260302,DOW,1057.65405,"A+ setup - checked on both IBKR and Moontower.ai:
+ Nice negative VRP (-4 pts), no earnings soon
+Went trhough a deep bear market and has got a tested rebounce
+Positive macro backdrop for chemical,Partial profit as first target is reached
+NB I did not apply my usual tactics to sell first to have a riskless trade as I read it was a losing strategy. Let us see it it is the case.,Hit a first target today- 
+Now a riskless trade, as market breadth deteriorates, the stock rotation macro backdrop may fade. 
+People may need liquidity and sell good stocks.
+My next targets are 2.90 (2), and the last one at 3.35 : This is the max extended value with fib extension and +5% in IV at 50% of the time, i.e. March 25th
+,I set my spot price targets looking at Fib extensions + increased vol, and deduced the corresponding target price for this option. 
+I included also an intermediate price target to be sure I would not miss the upside move.
+It worked wonderfully. I am now out of this great trade.,",0,5,0,long,True,Basic Materials,2026-03-02,4.0,0.0,GREY,0.669,1.082,1.01,50.4,43.9,10.7,S1:+ S2:+ S3:+ S4:+ S5:- S6:- | BK1:- BK2:- BK3:- BK4:-
