@@ -15,6 +15,9 @@ chains/
 strikes/
 Reports/reports/
 
+# Generated HTML reports (analyze_*.html, etc.)
+*.html
+
 # Office lock files
 *.docx
 *.xlsx
