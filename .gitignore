@@ -31,11 +31,9 @@ Discussions/
 # Generated HTML reports (analyze_*.html, etc.)
 *.html
 
-# Office lock files
-*.docx
+# Office files (docx/odt now tracked; spreadsheets/pdf still ignored)
 *.xlsx
 *.xlsm
-*.odt
 *.ods
 *.pdf
 *.csv
