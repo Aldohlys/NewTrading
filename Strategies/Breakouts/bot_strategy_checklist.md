@@ -305,10 +305,14 @@ The grid is the default plan. But momentum can break before the grid is filled. 
 
 **The grid and the override are not contradictory.** The grid says "if momentum continues, here is where I sell." The override says "momentum is no longer continuing, sell now regardless of where the grid says."
 
-**Step 4 — Time stop**
-- If underlying has not moved in your direction by mid-life of option, close
-- Theta accelerates in final 2 weeks — do not hope
-- On Agricultural/Consumer stocks: tighter time horizon (~10 days, not 20). The profit window is shorter.
+**Step 4 — Time stop (vehicle rule, not a thesis rule)**
+
+The clock is imported by the long-premium vehicle, not by the breakout setup. A clean breakout pays *early*; theta runs the whole time whether or not price moves. So the time stop catches the failure the price stop and momentum monitor both miss — the trade that quietly drifts sideways: it hasn't reclaimed the range (price stop silent) and isn't chopping in a clear reversal (momentum monitor silent), but it's a slow loss to decay.
+
+- **Concrete test — bind it to the pay-for-entry milestone.** By mid-life of the option (~day 7–10 on a 2–4 week trade), has price reached the level where you take the Step 1 pay-for-entry sale? If not, the front-loading thesis has failed — close. This turns the time stop into a *dated price check*, not a feel: a specific price, tested on a specific date.
+- Theta accelerates in the final 2 weeks — do not hope past mid-life.
+- On Agricultural/Consumer stocks: tighter horizon (~10 days, not 20). The profit window is shorter, so move the mid-life checkpoint earlier.
+- **Vehicle scope:** this is a long-call rule. Stock (C) has no decay clock — its forcing function is capital, not theta. The bull call spread (B) gets a softer version (do not hold to expiration).
 
 ### B. Bull call spread exit (3 lots)
 
@@ -336,9 +340,9 @@ The grid is the default plan. But momentum can break before the grid is filled. 
 **Step 3 — Remaining position**
 - Trail stop using higher lows or MA20
 - Momentum monitor applies (same signals as call OTM Step 3)
-- No theta pressure → can hold longer (20-40 days), BUT no theta also means no forcing function to exit
-- Risk: without theta pressure, tendency to hold too long hoping for recovery. RIG worked (+$344, sold when "momentum is stopped"). LAC worked in reverse (-$172, sold when "no more asymmetry"). Both exits were qualitative, not mechanical.
-- **Discipline rule:** if the reason you entered the trade is no longer valid, exit. Do not wait for the stop.
+- No theta pressure → can hold longer (20-40 days), and no decay clock forcing an exit. The forcing function here is **capital allocation, not theta**: stock ownership ties up far more capital than an option, so capital parked in a name that has stopped moving is the real cost — there is no premium bleeding, but the capital is idle and could be redeployed.
+- RIG (+\$344) and LAC (−\$172) were both exited when **momentum stopped** — correctly: both went sideways afterward. These are momentum trades, and the exits weren't "held too long," they freed high committed capital once the momentum thesis was spent. Qualitative (momentum gone), not mechanical.
+- **Discipline rule:** when momentum stops, exit and redeploy — do not wait for the price stop, and do not leave large capital idle in a sideways name. The time stop's analogue for stock is a *capital-efficiency stop*: if the move is over, the capital should be working elsewhere.
 
 ---
 
